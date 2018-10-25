@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.1" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 164.3 119.1"
+	 enable-background="new 0 0 164.3 119.1" xml:space="preserve">
+<metadata>
+	<sfw  xmlns="&ns_sfw;">
+		<slices></slices>
+		<sliceSourceBounds  width="175" height="125.1" y="-437.5" x="589" bottomLeftOrigin="true"></sliceSourceBounds>
+	</sfw>
+</metadata>
+<g>
+	
+		<line fill="none" stroke="#B5935B" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="124.3" y1="75.6" x2="124.3" y2="3.1"/>
+	
+		<rect x="0.5" y="61.1" fill="#FFFFFF" stroke="#B5935B" stroke-linejoin="round" stroke-miterlimit="10" width="163.3" height="57.5"/>
+	<g>
+		<defs>
+			<rect id="XMLID_1618_" x="4.8" y="65.4" width="154.8" height="49.2"/>
+		</defs>
+		<use xlink:href="#XMLID_1618_"  overflow="visible" fill="#FFFFFF"/>
+		<clipPath id="XMLID_2_">
+			<use xlink:href="#XMLID_1618_"  overflow="visible"/>
+		</clipPath>
+		
+			<line clip-path="url(#XMLID_2_)" fill="none" stroke="#B5935B" stroke-linejoin="round" stroke-miterlimit="10" x1="123.8" y1="54.8" x2="123.8" y2="121.6"/>
+		
+			<line clip-path="url(#XMLID_2_)" fill="none" stroke="#B5935B" stroke-linejoin="round" stroke-miterlimit="10" x1="124.3" y1="76.1" x2="169.8" y2="76.1"/>
+		
+			<line clip-path="url(#XMLID_2_)" fill="none" stroke="#B5935B" stroke-linejoin="round" stroke-miterlimit="10" x1="123.8" y1="102.1" x2="-5.2" y2="102.1"/>
+		
+			<line clip-path="url(#XMLID_2_)" fill="none" stroke="#B5935B" stroke-linejoin="round" stroke-miterlimit="10" x1="64.3" y1="102.1" x2="64.3" y2="67.1"/>
+		
+			<line clip-path="url(#XMLID_2_)" fill="none" stroke="#B5935B" stroke-linejoin="round" stroke-miterlimit="10" x1="23.3" y1="101.6" x2="23.3" y2="125.1"/>
+		
+			<use xlink:href="#XMLID_1618_"  overflow="visible" fill="none" stroke="#B5935B" stroke-linejoin="round" stroke-miterlimit="10"/>
+	</g>
+	<g>
+		<g>
+			<defs>
+				<polygon id="XMLID_1622_" points="31.3,76.9 37.7,85.5 98.7,85.5 98.7,11 86,11 				"/>
+			</defs>
+			<use xlink:href="#XMLID_1622_"  overflow="visible" fill="#FFFFFF"/>
+			<clipPath id="XMLID_3_">
+				<use xlink:href="#XMLID_1622_"  overflow="visible"/>
+			</clipPath>
+			
+				<use xlink:href="#XMLID_1622_"  overflow="visible" fill="none" stroke="#B5935B" stroke-linejoin="round" stroke-miterlimit="10"/>
+		</g>
+		<polygon fill="#B5935B" stroke="#B5935B" stroke-linejoin="round" stroke-miterlimit="10" points="89.7,9.1 93.9,14.9 93.9,80.6 
+			39.5,80.6 34.6,73.8 		"/>
+		<g>
+			<defs>
+				<rect id="XMLID_1621_" x="31.3" y="7.1" width="60" height="69.8"/>
+			</defs>
+			<use xlink:href="#XMLID_1621_"  overflow="visible" fill="#FFFFFF"/>
+			<clipPath id="XMLID_4_">
+				<use xlink:href="#XMLID_1621_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#XMLID_4_)">
+				<defs>
+					<rect id="XMLID_1615_" x="33.6" y="9.6" width="55.3" height="65"/>
+				</defs>
+				<use xlink:href="#XMLID_1615_"  overflow="visible" fill="#FFFFFF"/>
+				<clipPath id="XMLID_5_">
+					<use xlink:href="#XMLID_1615_"  overflow="visible"/>
+				</clipPath>
+				<polyline clip-path="url(#XMLID_5_)" fill="#FFFFFF" stroke="#B5935B" stroke-linejoin="round" stroke-miterlimit="10" points="
+					21.8,34.3 41.2,34.3 41.2,45.3 47.8,45.3 				"/>
+				<polyline clip-path="url(#XMLID_5_)" fill="#FFFFFF" stroke="#B5935B" stroke-linejoin="round" stroke-miterlimit="10" points="
+					76.8,44.6 83.2,44.6 83.2,60.3 109.2,60.3 				"/>
+				
+					<line clip-path="url(#XMLID_5_)" fill="#FFFFFF" stroke="#B5935B" stroke-linejoin="round" stroke-miterlimit="10" x1="75.5" y1="31.6" x2="77.2" y2="56.6"/>
+				
+					<line clip-path="url(#XMLID_5_)" fill="#FFFFFF" stroke="#B5935B" stroke-linejoin="round" stroke-miterlimit="10" x1="49" y1="31.4" x2="47.3" y2="56.4"/>
+				
+					<use xlink:href="#XMLID_1615_"  overflow="visible" fill="none" stroke="#B5935B" stroke-linejoin="round" stroke-miterlimit="10"/>
+			</g>
+			
+				<use xlink:href="#XMLID_1621_"  overflow="visible" fill="none" stroke="#B5935B" stroke-linejoin="round" stroke-miterlimit="10"/>
+		</g>
+		<g>
+			<path fill="#B5935B" d="M70.8,45c-0.2-3.3-0.4-7.3-0.4-10.3h-0.1c-0.8,2.8-1.8,5.8-3,9.1l-4.2,11.6h-2.3L56.9,44
+				c-1.1-3.4-2.1-6.5-2.8-9.3h-0.1c-0.1,3-0.2,7-0.5,10.6L53,55.5H50l1.7-23.9h3.9l4.1,11.6c1,2.9,1.8,5.6,2.4,8.1h0.1
+				c0.6-2.4,1.5-5,2.5-8.1L69,31.6H73l1.5,23.9h-3L70.8,45z"/>
+		</g>
+	</g>
+	<circle fill="#FFFFFF" stroke="#B5935B" stroke-linejoin="round" stroke-miterlimit="10" cx="123.6" cy="76.3" r="2.8"/>
+	<circle fill="#FFFFFF" stroke="#B5935B" stroke-linejoin="round" stroke-miterlimit="10" cx="123.6" cy="102.1" r="2.8"/>
+	<circle fill="#FFFFFF" stroke="#B5935B" stroke-linejoin="round" stroke-miterlimit="10" cx="124.1" cy="46.1" r="2.8"/>
+	<circle fill="#FFFFFF" stroke="#B5935B" stroke-linejoin="round" stroke-miterlimit="10" cx="124.4" cy="3.2" r="2.8"/>
+	<circle fill="#FFFFFF" stroke="#B5935B" stroke-linejoin="round" stroke-miterlimit="10" cx="144.9" cy="76.1" r="2.8"/>
+	<circle fill="#FFFFFF" stroke="#B5935B" stroke-linejoin="round" stroke-miterlimit="10" cx="64.1" cy="102.1" r="2.8"/>
+	<circle fill="#FFFFFF" stroke="#B5935B" stroke-linejoin="round" stroke-miterlimit="10" cx="23.3" cy="102.1" r="2.8"/>
+</g>
+</svg>

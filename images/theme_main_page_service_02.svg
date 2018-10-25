@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.1" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 72.7 63.6"
+	 enable-background="new 0 0 72.7 63.6" xml:space="preserve">
+<metadata>
+	<sfw  xmlns="&ns_sfw;">
+		<slices></slices>
+		<sliceSourceBounds  width="80.1" height="76" y="-578" x="919.4" bottomLeftOrigin="true"></sliceSourceBounds>
+	</sfw>
+</metadata>
+<g>
+	<g>
+		<rect x="10.4" y="5.5" fill="#C1BDA8" width="62.3" height="58.1"/>
+		<g>
+			<defs>
+				<rect id="XMLID_514_" x="13.6" y="8.6" width="55.8" height="52.4"/>
+			</defs>
+			<use xlink:href="#XMLID_514_"  overflow="visible" fill="#EFEAD9"/>
+			<clipPath id="XMLID_2_">
+				<use xlink:href="#XMLID_514_"  overflow="visible"/>
+			</clipPath>
+			<rect x="11.9" y="43.1" clip-path="url(#XMLID_2_)" fill="#EFECDA" width="64.4" height="19.1"/>
+			<rect x="6.7" y="44.1" clip-path="url(#XMLID_2_)" fill="#D9D6C0" width="71.3" height="22.3"/>
+			<rect x="55.1" y="-6.5" clip-path="url(#XMLID_2_)" fill="#64625F" width="25" height="76"/>
+		</g>
+	</g>
+	<circle fill="#FFFFFF" cx="50" cy="14.5" r="13.1"/>
+	<g>
+		<g>
+			<rect x="5.8" y="11.4" fill="#A5A08C" width="22.7" height="5.7"/>
+			<g>
+				<defs>
+					<path id="XMLID_515_" d="M60.4,4.2c-5.6-5.6-14.7-5.6-20.3,0c-2.5,2.5-3.9,5.6-4.1,8.9l-6.4,0.2l0-1.7c0-0.2-0.1-0.5-0.3-0.6
+						c-0.2-0.2-0.4-0.3-0.6-0.3H5.9C5.4,10.6,5,11,5,11.5l0,5.7c0,0.2,0.1,0.5,0.3,0.6l0,0c0.2,0.2,0.4,0.3,0.6,0.3l22.7,0
+						c0.5,0,0.9-0.4,0.9-0.9l0-2.3l6.4-0.2c0.1,3.5,1.5,7,4.2,9.7c5.6,5.6,14.7,5.6,20.3,0C66,18.9,66,9.8,60.4,4.2z M6.8,16.4l0-4
+						l20.9,0l0,4L6.8,16.4z M41.5,22.9c-4.8-4.8-4.8-12.7,0-17.5c4.8-4.8,12.6-4.8,17.5,0s4.8,12.6,0,17.5
+						C54.1,27.8,46.3,27.8,41.5,22.9z"/>
+				</defs>
+				<use xlink:href="#XMLID_515_"  overflow="visible" fill="#D9D6C0"/>
+				<clipPath id="XMLID_3_">
+					<use xlink:href="#XMLID_515_"  overflow="visible"/>
+				</clipPath>
+			</g>
+		</g>
+		<g>
+			<polyline fill="none" stroke="#64625F" stroke-width="4" stroke-miterlimit="10" points="42.8,15 48,18.9 57.3,10 			"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<path fill="#EFECDA" d="M44.3,38.4L22.9,22.7L0.4,38.3C-0.3,38.8,0,40,0.9,40h1.6v1.9H5l-0.1,10H3.4v6.9h37.9v-6.9h-1.6l0.1-10
+				h2.4V40h1.6C44.6,40,45,38.9,44.3,38.4z"/>
+		</g>
+		<g>
+			<rect x="8.2" y="37.6" fill="#D9D6C0" width="28.4" height="17.4"/>
+			<rect x="18.8" y="45.8" fill="#64625F" width="7.2" height="8.7"/>
+			<g>
+				<g>
+					<rect x="7.1" y="38.5" fill="#C1BDA8" width="1.9" height="16.9"/>
+					<rect x="12.8" y="38.5" fill="#C1BDA8" width="1.9" height="16.9"/>
+					<rect x="30.2" y="38.5" fill="#C1BDA8" width="1.9" height="16.9"/>
+					<rect x="35.6" y="38.5" fill="#C1BDA8" width="1.9" height="16.9"/>
+					<g>
+						<rect x="6.3" y="49.7" fill="#A5A08C" width="3.5" height="3.6"/>
+						<rect x="12" y="49.7" fill="#A5A08C" width="3.5" height="3.6"/>
+						<rect x="29.4" y="49.7" fill="#A5A08C" width="3.5" height="3.6"/>
+						<rect x="34.8" y="49.7" fill="#A5A08C" width="3.5" height="3.6"/>
+					</g>
+					<g>
+						<rect x="6.4" y="40.1" fill="#A5A08C" width="3.5" height="3.6"/>
+						<rect x="12.1" y="40.1" fill="#A5A08C" width="3.5" height="3.6"/>
+						<rect x="29.5" y="40.1" fill="#A5A08C" width="3.5" height="3.6"/>
+						<rect x="34.9" y="40.1" fill="#A5A08C" width="3.5" height="3.6"/>
+					</g>
+				</g>
+				<g>
+					<rect x="4.7" y="53.1" fill="#A5A08C" width="35.2" height="3.7"/>
+				</g>
+				<g>
+					<rect x="3.8" y="38.1" fill="#C1BDA8" width="37" height="2.4"/>
+					<path fill="#A5A08C" d="M2.3,38.6c0.5,0,40.1,0,40.1,0L22.9,24.3L2.3,38.6z"/>
+					<g>
+						<defs>
+							<path id="XMLID_517_" d="M9.4,36.4c0.3,0,25.8,0,25.8,0l-12.6-8.7L9.4,36.4z"/>
+						</defs>
+						<use xlink:href="#XMLID_517_"  overflow="visible" fill="#D9D6C0"/>
+						<clipPath id="XMLID_4_">
+							<use xlink:href="#XMLID_517_"  overflow="visible"/>
+						</clipPath>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

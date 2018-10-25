@@ -1,0 +1,14 @@
+<div class="nav-menu__wrap">
+  <div class="container">
+    <ul class="nav-menu">
+      <li data-ng-repeat="item in stateData.menuItems" class="nav-menu__item"
+          data-ui-sref-active="nav-menu__item--active">
+        <div class="nav-menu__link">
+          <div data-ui-sref="{{item.state}}">
+            {{item.title}}
+          </div>
+        </div>
+      </li>
+    </ul>
+  </div>
+</div>

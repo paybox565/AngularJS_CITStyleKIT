@@ -1,0 +1,270 @@
+/* Datepicker */
+
+.ui-widget-header {
+  background: none;
+  border: none;
+}
+.ui-datepicker td span, .ui-datepicker td a {
+  text-align: center;
+}
+.ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default {
+  width: 28px;
+  height: 25px;
+  color: #262626;
+  background: none;
+  border-color: transparent;
+  border-radius: 30px;
+}
+.ui-state-hover, .ui-widget-content .ui-state-hover, .ui-widget-header .ui-state-hover, .ui-state-focus, .ui-widget-content .ui-state-focus, .ui-widget-header .ui-state-focus {
+  border-color: #0b93d5;
+}
+.ui-state-active, .ui-widget-content .ui-state-active, .ui-widget-header .ui-state-active {
+  border-color: #cba920;
+}
+
+/* Select */
+
+.select2-container{
+  display: block;
+  border: none;
+  box-shadow: none;
+  outline: none;
+}
+.select2-container * {
+  outline: none !important;
+}
+.select2-container--default .select2-selection--single{
+  background-color: transparent;
+  border-color: #b3b9bd;
+  border-radius: 3px;
+  height: 34px;
+  box-shadow: 0 1px 2px rgba(38, 38, 38, 0.12);
+}
+
+.select2-container--default .select2-selection--single .select2-selection__rendered{
+  color: #262626;
+  font-family: $headline-font;
+  line-height: 32px;
+  padding: 0 10px 0 16px;
+  background-color: #ffffff;
+  border-color: #cba920;
+  border-radius: 3px;
+  margin-right: 34px;
+}
+.select2-container--default .select2-selection--single .select2-selection__arrow {
+  width: 35px;
+  height: 32px;
+  background-color: #ffffff;
+  border-left: 1px solid #b3b9bd;
+  border-radius: 0 3px 3px 0;
+}
+.select2-container--default .select2-selection--single .select2-selection__arrow b {
+  border-color: #000 transparent transparent;
+  border-width: 6.5px 4.5px 0;
+  margin-top: -4px;
+}
+.select2-container--default.select2-container--open .select2-selection--single .select2-selection__arrow b {
+  border-color: transparent transparent #000;
+}
+.select2-container--default .select2-results__option--highlighted[aria-selected] {
+  background: #f5eed2;
+  color: #262626;
+}
+.select2-container--default .select2-search--dropdown .select2-search__field{
+  border-color: #cba920;
+}
+.select2-container--classic .select2-selection--multiple:focus {
+  border-color: #cba920;
+}
+.select2-container--classic.select2-container--open .select2-dropdown {
+  border-color: #cba920;
+}
+.select2-container--default .select2-selection--single .select2-selection__clear {
+  font-weight: normal;
+  font-size: 20px;
+  opacity: 0.5;
+}
+
+/* Sumo select */
+
+.SumoSelect {
+  width: 100%;
+}
+.SumoSelect > .CaptionCont {
+  border-color: #b3b9bd;
+  border-radius: 3px;
+  height: 34px;
+  box-shadow: 0 1px 2px rgba(38, 38, 38, 0.12);
+  cursor: pointer;
+  padding: 0;
+  position: relative;
+}
+.SumoSelect:focus > .CaptionCont,.SumoSelect:hover > .CaptionCont, .SumoSelect.open > .CaptionCont {
+  box-shadow: 0 1px 2px rgba(38, 38, 38, 0.12);
+  border-color: #b3b9bd;
+}
+.SumoSelect > .CaptionCont > span {
+  color: inherit;
+  font-style: normal;
+  line-height: 34px;
+  padding-left: 16px;
+}
+.SumoSelect > .CaptionCont > span.placeholder {
+  color: inherit;
+  font-style: normal;
+  line-height: 30px;
+  padding-left: 16px;
+}
+.SumoSelect > .CaptionCont > label {
+  width: 35px;
+  height: 32px;
+  border-left: 1px solid #b3b9bd;
+}
+.SumoSelect > .CaptionCont > label > i {
+  background: none;
+  border-color: #000 transparent transparent;
+  border-width: 6.5px 4.5px 0;
+  margin-top: -4px;
+  border-style: solid;
+  height: 0;
+  left: 50%;
+  margin-left: -4px;
+  position: absolute;
+  top: 50%;
+  width: 0;
+}
+.SumoSelect.open > .optWrapper {
+  top: 33px;
+}
+.SumoSelect > .optWrapper {
+  border: 1px solid #b3b9bd;
+  border-radius: 0 0 3px 3px;
+  box-shadow: none;
+}
+.SumoSelect .select-all {
+  border-color: #b3b9bd;
+  border-radius: 0;
+  height: auto;
+  font-size: 13px;
+  line-height: 17px;
+  padding: 6px 6px 6px 35px;
+}
+.SumoSelect > .optWrapper > .options li.opt {
+  font-size: 13px;
+  line-height: 17px;
+  border-bottom: none;
+}
+.SumoSelect .select-all > span i, .SumoSelect > .optWrapper.multiple > .options li.opt span i {
+  background-color: $white;
+  border: 1px solid $hit-gray;
+  border-radius: 2px;
+  box-shadow: none;
+  height: 20px;
+  width: 20px;
+}
+.SumoSelect .select-all.partial > span i, .SumoSelect > .optWrapper.multiple > .options li.opt.selected span i {
+  background: $white url(images/iis_checkbox.svg) no-repeat center;
+  background-size: 32px 32px;
+  border-color: $galliano;
+}
+.SumoSelect .select-all.selected > span i {
+  background: #11a911 url(images/iis_checkbox.svg) no-repeat center;
+  background-size: 32px 32px;
+  border-color: #11a911;
+}
+
+
+
+
+/* Datatables */
+
+table.dataTable thead th, table.dataTable thead td {
+  border-bottom-color: $alice-blue-20;
+  padding: 10px;
+}
+.DTFC_LeftHeadWrapper {
+  border-right: 1px solid $alice-blue-20;
+}
+.DTFC_LeftBodyWrapper {
+  border-right: 1px solid $hit-gray-40;
+}
+.dataTables_scrollHeadInner {
+  padding-right: 0!important; // убираем отступ для избыточного скролла в шапке
+}
+.DTFC_RightWrapper {
+  display: none;  // убираем избыточный скролл в шапке
+}
+table.dataTable.row-border tbody th, table.dataTable.row-border tbody td, table.dataTable.display tbody th, table.dataTable.display tbody td {
+  border-color: $hit-gray-40;
+}
+table.dataTable.hover tbody tr:hover, table.dataTable.display tbody tr:hover {
+  background-color: $coconut-cream;
+}
+
+/* Sticky tables */
+
+.sticky-wrap {
+  margin: 0;
+  //max-height: 75vh;
+
+  background:
+    linear-gradient(90deg,  white 20%, rgba(255,255,255,0)),
+    linear-gradient(270deg, white 20%, rgba(255,255,255,0)) 100% 0,
+    linear-gradient(90deg,  #ccc  10%, rgba(255,255,255,0)),
+    linear-gradient(270deg, #ccc  10%, rgba(255,255,255,0)) 100% 0;
+
+  background-repeat: no-repeat;
+  background-size: 20px 100%, 20px 100%, 10px 100%, 10px 100%;
+  background-attachment: local, local, scroll, scroll;
+
+}
+.sticky-wrap thead {
+
+}
+.sticky-wrap .sticky-thead, .sticky-wrap .sticky-col, .sticky-wrap .sticky-intersect {
+  transition: none;
+}
+.sticky-wrap .sticky-intersect th {
+  background-color: #6f8395;
+  color: #fff;
+}
+.sticky-intersect {
+  box-shadow: 6px 0 4px 0 rgba(0, 0, 0, 0.2);
+}
+.sticky-col {
+  box-shadow: 6px 0 4px 0 rgba(0, 0, 0, 0.2);
+}
+
+/* Scroll */
+
+.ps-container.ps-active-x > .ps-scrollbar-x-rail, .ps-container.ps-active-y > .ps-scrollbar-y-rail {
+  background-color: transparent;
+}
+.ps-container:hover > .ps-scrollbar-x-rail:hover {
+  background-color: transparent;
+}
+.ps-container > .ps-scrollbar-x-rail > .ps-scrollbar-x {
+  height: 20px;
+}
+.ps-container > .ps-scrollbar-x-rail.fixed > .ps-scrollbar-x {
+  position: fixed;
+  bottom: 20px;
+}
+.ps-container > .ps-scrollbar-x-rail:hover > .ps-scrollbar-x, .ps-container > .ps-scrollbar-x-rail:active > .ps-scrollbar-x {
+  height: 20px;
+}
+.ps-container > .ps-scrollbar-y-rail > .ps-scrollbar-y {
+  width: 11px;
+}
+.ps-container > .ps-scrollbar-y-rail, .ps-container > .ps-scrollbar-x-rail {
+  border-radius: 4px;
+}
+.ps-container > .ps-scrollbar-x-rail {
+  opacity: 0.3;
+}
+
+
+
+
+
+

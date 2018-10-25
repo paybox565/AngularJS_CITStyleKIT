@@ -1,0 +1,113 @@
+//// #Colors
+$mortar: hsla(0, 0%, 35%, 1);
+$silver: hsla(0, 0%, 74%, 1);
+$white: hsla(0, 100%, 100%, 1); //#ffffff;
+$white-50: hsla(0, 100%, 100%, 0.5);
+$white-20: hsla(0, 100%, 100%, 0.2);
+$white-10: hsla(0, 100%, 100%, 0.1);
+$black: hsla(0, 0%, 0%, 1);
+$black-50: hsla(0, 0%, 0%, 0.5);
+$nero: hsla(0, 0%, 15%, 1); //#262626;
+$nero-47: hsla(0, 0%, 15%, 0.47);
+$nero-19: hsla(0, 0%, 15%, 0.19);
+$slate-gray: hsla(209, 15%, 51%, 1); //#6f8294;
+$slate-gray-80nop: #8a9aa9;
+$slate-gray-80: hsla(209, 15%, 51%, 0.8);
+$slate-gray-10: hsla(209, 15%, 51%, 0.1);
+
+$heather: hsla(210, 17.14%, 72.55%, 1); //#ADB9C5;
+$heather-40:  #dee3e8; //hsla(210, 17.14%, 72.55%, 0.4);
+$heather-10: hsla(210, 17.14%, 72.55%, 0.1);
+$hit-gray: hsla(204, 7%, 72%, 1); //#B3B9BD;
+$hit-gray-10: hsla(204, 7%, 72%, 0.1);
+$hit-gray-15: #f4f5f5; //hsla(204, 7%, 72%, 0.15);
+$hit-gray-15-op:  hsla(204, 7%, 72%, 0.15); //#f4f5f5;
+$hit-gray-20: hsla(204, 7%, 72%, 0.2);
+$hit-gray-30: hsla(204, 7%, 72%, 0.3);
+$hit-gray-40: #e1e3e5; //hsla(204, 7%, 72%, 0.4);
+$hit-gray-50: hsla(204, 7%, 72%, 0.5);
+$dark-gey: #AAAAAA;
+$suva-gray: #898989; //hsla(0, 0, 53.73%, 1);
+$white-smoke: hsla(0, 0%, 95%, 1); // #f4f4f4;
+$alice-blue: hsla(210, 14%, 97%, 1);//#f7f8f9;
+$alice-blue-20: hsla(210, 33%, 99%, 0.2);
+$athens-gray: hsla(217, 25%, 93%, 1); //#EBEEF3;
+$coconut-cream: hsla(60, 67%, 94%, 1); //#FAFAE6;
+$coconut-cream-50: hsla(60, 67%, 94%, 0.5);
+$orchid-white: #EEE9D5; //hsla(48, 42.37%, 88.43%, 1);
+$cello: hsla(215, 27%, 30%, 1); //#374860;
+$east-bay: hsla(221, 17%, 35%, 1); //#4A5469;
+$midnight-express: hsla(221, 86%, 14%, 1); //#051945;
+$bay-of-many: hsla(221, 32.48%, 30.78%, 1); //#354568;
+$gulf-blue: hsla(220, 32%, 30.59%, 1); // #354567;
+$polo-blue: hsla(211.48, 34.08%, 64.9%, 1); // #87A4C4;
+$astronaut: hsla(221, 30%, 36%, 1); //#405176;
+$catalina-blue: hsla(220, 37%, 26%, 1); // #2A3A5C;
+$rock-blue: hsla(221, 22.62%, 67%, 1); // #98A4BE;
+$denim: hsla(208, 85%, 38%, 1); // #0e67b5;
+$lochmara: hsla(205, 100%, 39%, 1); // #0072C6;
+$bahama-blue: hsla(210, 56.1%, 32.16%, 1); // #245280;
+$bahama-blue-dark: hsla(212.61, 58.23%, 30.98%, 1); // #214B7D;
+$sapphire: hsla(222, 62.59%, 27.25%, 1);
+$madison: hsla(214.29, 32.81%, 25.1%, 1); // #2B3D55;
+$echo-blue: hsla(222, 25%, 74%, 1); // #acb6cd;
+$patterns-blue: #E8EAEB;
+$solitude: hsla(226.86, 13.73%, 90%, 1); //#E2E4E9;
+$malibu: hsla(195, 84%, 63%, 1); //#57c9f1;
+$light-blue: hsla(195, 60.44%, 82.16%, 1); //#B6DFED;
+$calypso: hsla(201, 33%, 39.22%, 1); //#436D85;
+$astral: hsla(197, 51.76%, 39, 1); //#307997;
+$astral-30: hsla(197, 51.76%, 39, 0.3);
+$light-cyan: hsla(207, 64%, 95%, 1); //#e8f2fa;
+$light-cyan-lt: hsla(143, 62%, 95%, 1); //#eafaf0;
+$medium-sea-green: hsla(145, 63%, 49%, 1); //#2ecc71;
+$submarine: hsla(180, 14%, 55%, 1); //#7d8e9e;
+
+$barley-corn: hsla(44, 31%, 53%, 1); // #ae9a63;
+$ecru: #C4B488;
+$galliano: hsla(48, 73%, 46%, 1); // #CBA920;
+$galliano-50: #e5d48f; //hsla(48, 73%, 46%, 1);
+$chamois: hsla(37, 72%, 75%, 1); // #EECB93;
+$raffia: #DCC8A9;
+$romance: #F5EFE6;
+
+$radical-red: hsla(358, 100%, 65%, 1); // #FF4E52;
+$radical-red-10: hsla(358, 100%, 65%, 0.1); // #FF4E52;
+$alabaster: hsla(51.43, 30.43%, 95.49%, 1); // #F7F6F0;
+$romance: hsla(45, 33.33%, 92.94%, 1); //#f3f0e7;
+$nobel: hsla(0, 0%, 61%, 1); // #9c9c9c;
+$link-water: hsla(208, 13%, 80%, 1); // #C5CDD4;
+$lavender: #E3E5EA; // hsla(240, 5.88%, 93.33%, 1);
+
+
+//// #Container settings
+$container-width: 1220px;
+$container-pad: 10px;
+$footer-height: 60px;
+
+$card-block-padding: 20px;
+$card-block-border: 1px solid $hit-gray;
+
+// Fonts
+$OpenSansPath: "fonts";
+$project-font: Verdana, sans-serif;
+$headline-font: 'Open Sans', 'sans-serif', 'serif';
+
+//Grid system
+$g-col: 78px;
+$g-gutter: 20px;
+$g-padd: 30px 22px;
+
+$g-block-1-0: $g-col*1;
+$g-block-1-1: $g-col*1 + $g-gutter;
+$g-block-2-1: $g-col*2 + $g-gutter;
+$g-block-3-2: $g-col*3 + $g-gutter*2;
+$g-block-3-3: $g-col*3 + $g-gutter*3;
+$g-block-4-3: $g-col*4 + $g-gutter*3;
+$g-block-4-4: $g-col*4 + $g-gutter*4;
+$g-block-5-4: $g-col*5 + $g-gutter*4;
+$g-block-6-5: $g-col*6 + $g-gutter*5;
+$g-block-8-7: $g-col*8 + $g-gutter*7;
+
+
+

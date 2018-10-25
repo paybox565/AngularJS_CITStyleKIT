@@ -1,0 +1,909 @@
+Страница 1
+
+<div class="search-wrap">
+  <div class="l-max-width"><form>
+    <div class="substrate substrate--shadow">
+      <div class="search-group">
+        <div class="search-group__title search-group__title--search-form g-block-small">Ключевые слова</div>
+        <div class="search-group__content ">
+          <div class="search-group__item search-group__item--search-form">
+            <form>
+              <input class="input input--search-form" placeholder="Например: регистрационный номер документа, наименование заявителя" type="search"/>
+              <input class="input-submit" type="submit" value=""/>
+            </form>
+          </div>
+        </div>
+      </div>
+      <div class="search-group">
+        <div class="search-group__title g-block-small">Ветеринарный <br/>препарат</div>
+        <div class="search-group__content">
+          <div class="search-group__item g-block-mid">
+            <label class="label">Торговое наименование</label>
+            <input class="input input-text" type="text"/>
+          </div>
+          <div class="search-group__item g-block-wide">
+            <label class="label">Международное непатентное наименование</label>
+            <input class="input input-text" type="text"/>
+          </div>
+          <div class="search-group__item g-block-mid">
+            <label class="label">Лекарственная форма</label>
+            <select class="select">
+              <option>Все</option>
+              <option>Таблетки</option>
+              <option>Капсулы</option>
+            </select>
+          </div>
+        </div>
+      </div>
+      <div class="search-group">
+        <div class="search-group__title search-group__title--no-label g-block-small">Вид ветерираного <br/>препатара</div>
+        <div class="search-group__content">
+          <div class="search-group__item search-group__item--checkbox g-block-mid">
+            <input class="checkbox-trigger" type="checkbox" id="sg_01"/>
+            <label for="sg_01" class="label label--checkbox">Ветеринарные лекарственные средства</label>
+          </div>
+          <div class="search-group__item search-group__item--checkbox g-block-mid">
+            <input class="checkbox-trigger" type="checkbox" id="sg_02"/>
+            <label for="sg_02" class="label label--checkbox">Диагностические средства </label>
+          </div>
+          <div class="search-group__item search-group__item--checkbox g-block-mid">
+            <input class="checkbox-trigger" type="checkbox" id="sg_03"/>
+            <label for="sg_03" class="label label--checkbox">Кормовые добавки</label>
+          </div>
+          <div class="search-group__item search-group__item--checkbox g-block-mid">
+            <input class="checkbox-trigger" type="checkbox" id="sg_04"/>
+            <label for="sg_04" class="label label--checkbox">Дезинфицирующие средства</label>
+          </div>
+          <div class="search-group__item search-group__item--checkbox g-block-mid">
+            <input class="checkbox-trigger" type="checkbox" id="sg_05"/>
+            <label for="sg_05" class="label label--checkbox">Дезинсекционные средства</label>
+          </div>
+          <div class="search-group__item search-group__item--checkbox g-block-mid">
+            <input class="checkbox-trigger" type="checkbox" id="sg_06"/>
+            <label for="sg_06" class="label label--checkbox">Дератизационные средства</label>
+          </div>
+        </div>
+      </div>
+      <div class="search-group search-group--noborder">
+        <div class="search-group__title g-block-small">Сведения <br/>о регистрации</div>
+        <div class="search-group__content">
+          <div class="search-group__item g-block-mid">
+            <label class="label">Номер</label>
+            <input class="input input-text" type="text"/>
+          </div>
+          <div class="search-group__item g-block-small">
+            <label class="label">Статус</label>
+            <select class="select">
+              <option>Все</option>
+              <option>Действителен</option>
+              <option>Аннулирован</option>
+            </select>
+          </div>
+        </div>
+      </div>
+      <div class="search-group">
+        <div class="search-group__title g-block-small"></div>
+        <div class="search-group__content">
+          <div class="search-group__item g-block-wide">
+            <label class="label">Срок действия</label>
+            <input class="input input--date g-block-small datepicker"  type="text" placeholder="с"/>
+            <span class="search-group__item-date-dash">-</span>
+            <input class="input input--date g-block-small datepicker" type="text"  placeholder="по"/>
+          </div>
+          <div class="search-group__item g-block-wide">
+            <label class="label">Дата регистрации</label>
+            <input class="input input--date g-block-small datepicker" type="text"  placeholder="с"/>
+            <span class="search-group__item-date-dash">-</span>
+            <input class="input input--date g-block-small datepicker" type="text"  placeholder="по"/>
+          </div>
+        </div>
+      </div>
+      <div class="search-group search-group--noborder">
+        <div class="search-group__title g-block-small">Производитель</div>
+        <div class="search-group__content">
+          <div class="search-group__item g-block-mid">
+            <label class="label">Наименование</label>
+            <input class="input input-text" type="text"/>
+          </div>
+          <div class="search-group__item g-block-mid">
+            <label class="label">Страна</label>
+            <select class="select">
+              <option>Все</option>
+              <option>Действителен</option>
+              <option>Аннулирован</option>
+            </select>
+          </div>
+        </div>
+      </div>
+      <div class="search-group search-group--noborder">
+        <div class="search-group__title g-block-small">Разработчик</div>
+        <div class="search-group__content">
+          <div class="search-group__item g-block-mid">
+            <label class="label">Наименование</label>
+            <input class="input input-text" type="text"/>
+          </div>
+          <div class="search-group__item g-block-mid">
+            <label class="label">Страна</label>
+            <select class="select">
+              <option>Все</option>
+              <option>Действителен</option>
+              <option>Аннулирован</option>
+            </select>
+          </div>
+        </div>
+      </div>
+      <div class="search-group search-group--noborder">
+        <div class="search-group__title g-block-small">Правообладатель</div>
+        <div class="search-group__content">
+          <div class="search-group__item g-block-mid">
+            <label class="label">Наименование</label>
+            <input class="input input-text" type="text"/>
+          </div>
+          <div class="search-group__item g-block-mid">
+            <label class="label">Страна</label>
+            <select class="select">
+              <option>Все</option>
+              <option>Действителен</option>
+              <option>Аннулирован</option>
+            </select>
+          </div>
+        </div>
+      </div>
+      <div class="search-group search-group--noborder search-group--last">
+        <div class="search-group__title g-block-small">Территория обращения</div>
+        <div class="search-group__content">
+          <div class="search-group__item g-block-mid">
+            <label class="label">Статус</label>
+            <select class="select">
+              <option>Все</option>
+              <option>Действителен</option>
+              <option>Аннулирован</option>
+            </select>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="search-wrap__buttons">
+      <span class="search-wrap__button--hide">Скрыть детали</span>
+      <span class="search-wrap__button--reset">Сбросить</span>
+    </div>
+  </form>
+  </div>
+</div>
+<div class="l-max-width">
+  <div class="search-output substrate substrate--table">
+    <div class="filter filter--table">
+      <form>
+        <div class="l-side-left">
+          <div class="filter-item">
+            <a class="link--inactive">К началу</a>
+          </div>
+          <div class="filter-item">
+            <a class="arrow arrow-left"></a>
+          </div>
+          <div class="filter-item">
+            <input placeholder="1" class="input input--number"/>
+          </div>
+          <div class="filter-item">
+            из
+          </div>
+          <div class="filter-item">
+            <a class="link">4</a>
+          </div>
+          <div class="filter-item">
+            <a class="arrow arrow-right active"></a>
+          </div>
+        </div>
+        <div class="l-side-right">
+          <div class="search-output__filter-item">
+            15 записей
+          </div>
+          <div class="filter-item g-block-small">
+            <select class="select">
+              <option>1</option>
+              <option>2</option>
+            </select>
+          </div>
+          <div class="filter-item g-block-small">
+            <select class="select">
+              <option>1</option>
+              <option>2</option>
+            </select>
+          </div>
+          <div class="filter-item g-block-small">
+            <select class="select">
+              <option>1</option>
+              <option>2</option>
+            </select>
+          </div>
+        </div>
+      </form>
+    </div>
+    <div class="table__wrap table__wrap--fix">
+      <table class="table table--rtable">
+        <tbody>
+        <tr class="table__row">
+          <td class="table__cell table__cell--headline table__cell--fixed">Торговое наименование</td>
+          <td class="table__cell table__cell--headline table__cell--med">Международное непатентованное наименование</td>
+          <td class="table__cell table__cell--headline">Вид ветеринарного препарата</td>
+          <td class="table__cell table__cell--headline">Лекарственная форма</td>
+          <td class="table__cell table__cell--headline table__cell--med">Производитель</td>
+          <td class="table__cell table__cell--headline">Территория обращения</td>
+        </tr>
+        <tr class="table__row">
+          <td class="table__cell table__cell--fixed">Инспектор Тотал С</td>
+          <td class="table__cell ">Фипронил</td>
+          <td class="table__cell">ветеринарное лекарственное средство</td>
+          <td class="table__cell">Порошок для приготовления раствора для приема внутрь (750 мг + 30 мг)</td>
+          <td class="table__cell ">ЗАО "НПФ "Экопром", 140070, Московская область, Люберецкий район, пос. Томилино, ул. Гаршина, д. 11 <br/>
+            <a class="link link--location">Показать на карте</a>
+          </td>
+          <td class="table__cell">Республика Армения, Росийская Федерация</td>
+        </tr>
+        <tr class="table__row">
+          <td class="table__cell table__cell--fixed">Инспектор Тотал С</td>
+          <td class="table__cell ">Фипронил</td>
+          <td class="table__cell">ветеринарное лекарственное средство</td>
+          <td class="table__cell">Порошок для приготовления раствора для приема внутрь (750 мг + 30 мг)</td>
+          <td class="table__cell ">ЗАО "НПФ "Экопром", 140070, Московская область, Люберецкий район, пос. Томилино, ул. Гаршина, д. 11 <br/>
+            <a class="link link--location">Показать на карте</a>
+          </td>
+          <td class="table__cell">Республика Армения, Росийская Федерация</td>
+        </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
+
+Страница 2
+
+<div class="l-content l-max-width">
+  <div class="v-card__header">
+    <div class="l-side-left">
+      <div class="v-card__header-item">
+        Просмотр на дату
+      </div>
+      <div class="v-card__header-item g-block-small g-margin-right">
+        <input class="input input--date datepicker" type="text">
+      </div>
+      <div class="v-card__header-item">
+        Дата публикации:
+      </div>
+      <div class="v-card__header-item v-card__header-date-value">
+        9 ноября 2015
+      </div>
+    </div>
+
+    <div class="l-side-right">
+      <button class="btn btn--blue btn-share">Сохранить в .pdf</button>
+    </div>
+  </div>
+  <div class="v-card substrate substrate--table">
+    <div class="v-card__description">
+      <h2>АВИВАК-Марек </h2>
+      <ul class="bordered-list">
+        <li class="bordered-list__item">
+          <div class="bordered-list__item-title">Производитель</div>
+          <div class="bordered-list__item-content">Общество с ограниченной ответственностью "НПП "АВИВАК"
+          </div>
+        </li>
+        <li class="bordered-list__item">
+          <div class="bordered-list__item-title">Юридический адрес производителя</div>
+          <div class="bordered-list__item-content"><a class="link link--location">Россия, 188502, Ленинградская область, Ломоносовский р-н, д. Горбунки</a></div>
+        </li>
+        <li class="bordered-list__item">
+          <div class="bordered-list__item-title">Территория  обращения</div>
+          <div class="bordered-list__item-content">
+            <ul class="horizontal-list">
+              <li class="horizontal-list__item"><span class="i-country i-country--rus"></span> Россия</li>
+              <li class="horizontal-list__item"><span class="i-country i-country--armen"></span>Армения</li>
+              <li class="horizontal-list__item"><span class="i-country i-country--belrus"></span>Беларусь</li>
+            </ul>
+          </div>
+        </li>
+      </ul>
+    </div>
+    <div class="v-card__tech">
+      <div class="v-card__tech-code">
+        ВЛС-ЕАЭС-015659-RU <span class="i-country i-country--rus l-side-right"></span>
+      </div>
+      <div class="v-card__tech-desc">Регистрационное удостоверение</div>
+      <div class="v-card__tech-status">
+        <span class="btn btn--status btn--status-green v-card__tech-status-item">Регистрация на условиях</span>
+        <span class="btn btn--status btn--status-gray v-card__tech-status-item">Ветеринарное лекарственное <br/>средство</span>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="l-content l-max-width">
+  <div class="left-menu l-side-left">
+    <div class="left_menu__block substrate">
+      <div class="left-menu__list">
+        <ul>
+          <li class="left-menu__list-item">
+            <a class="left-menu__list-link active">Регистрационное <br/>удостоверение</a>
+          </li>
+          <li class="left-menu__list-item">
+            <a class="left-menu__list-link">Сведения о ветеринарном <br/>препарате</a>
+          </li>
+          <li class="left-menu__list-item">
+            <a class="left-menu__list-link">Фармацевтические<br/>субстанции</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="center-block--left-side">
+    <div class="substrate">
+      <h2>Тиамулин-ВЕТСВМ</h2>
+      <div class="zebra-list">
+        <ul>
+          <li class="zebra-list__item">
+            <div class="l-left zebra-list__title">Международное непатентованное наименование</div>
+            <div class="l-left zebra-list__content">тиамулин</div>
+          </li>
+          <li class="zebra-list__item">
+            <div class="l-left zebra-list__title">Производитель</div>
+            <div class="l-left zebra-list__content">Ningxia Tairui Pharmaceutical Co., Ltd. </div>
+          </li>
+          <li class="zebra-list__item">
+            <div class="l-left zebra-list__title">Адрес регистрации производителя</div>
+            <div class="l-left zebra-list__content"><a class="link link--location">Wangyuan Economic Zone, Yongning Country, Yinchuan, Ningxia, China</a></div>
+          </li>
+          <li class="zebra-list__item">
+            <div class="l-left zebra-list__title">Фактический адрес производителя</div>
+            <div class="l-left zebra-list__content"><a class="link link--location">Wangyuan Economic Zone, Yongning Country, Yinchuan, Ningxia, China</a></div>
+          </li>
+          <li class="zebra-list__item">
+            <div class="l-left zebra-list__title">Телефон (факс)</div>
+            <div class="l-left zebra-list__content">+86/10/82684966-617</div>
+          </li>
+          <li class="zebra-list__item">
+            <div class="l-left zebra-list__title">Email</div>
+            <div class="l-left zebra-list__content"><a class="link">trzhaorong@duowei.com.cn</a></div>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+Страница 3
+
+<div class="v-card v-card__blank l-content l-max-width">
+  <div class="substrate substrate--no-border">
+    <div class="v-card__blank-header l-content">
+      <div class="l-side-right">
+        <span class="btn btn--blue btn-edit v-card__blank-header-item">Редактировать</span>
+        <span class="btn btn--blue btn-share v-card__blank-header-item">Сохранить в .pdf</span>
+      </div>
+    </div>
+    <div class="zebra-list">
+      <ul>
+        <li class="zebra-list__item">
+          <div class="l-left zebra-list__title">Сфера деятельности</div>
+          <div class="l-left zebra-list__content"><a class="link">Техническое регулирование</a></div>
+        </li>
+        <li class="zebra-list__item">
+          <div class="l-left zebra-list__title">Группа информационных ресурсов</div>
+          <div class="l-left zebra-list__content">Информационное обеспечение в сфере технического регулирования</div>
+        </li>
+        <li class="zebra-list__item">
+          <div class="l-left zebra-list__title">Код WMI</div>
+          <div class="l-left zebra-list__content">Реестры и регистры</div>
+        </li>
+        <li class="zebra-list__item">
+          <div class="l-left zebra-list__title">Дата создания</div>
+          <div class="l-left zebra-list__content">Состоит из национальных частей, формирование и ведение которых обеспечивают
+            уполномоченные органы государств – членов Евразийского экономического союза</div>
+        </li>
+        <li class="zebra-list__item">
+          <div class="l-left zebra-list__title">Дата последнего обновления</div>
+          <div class="l-left zebra-list__content">02.10.2015 2:00</div>
+        </li>
+        <li class="zebra-list__item">
+          <div class="l-left zebra-list__title">Документ-основание</div>
+          <div class="l-left zebra-list__content">14.04.2016 17:29
+          </div>
+        </li>
+        <li class="zebra-list__item">
+          <div class="l-left zebra-list__title">Вес в списке популярных справочников</div>
+          <div class="l-left zebra-list__content">Решение Коллегии Евразийской экономической комиссии от 18 августа 2015 г. №99</div>
+        </li>
+        <li class="zebra-list__item">
+          <div class="l-left zebra-list__title">Вес в списке изменяемых справочников</div>
+          <div class="l-left zebra-list__content">Вес в списке популярных справочников</div>
+        </li>
+        <li class="zebra-list__item">
+          <div class="l-left zebra-list__title">Статус публикации</div>
+          <div class="l-left zebra-list__content">Статус публикации</div>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+Страница 4
+
+<div class="l-content l-max-width">
+  <div class="v-card__header">
+    <div class="l-side-left">
+      <div class="v-card__header-item">
+        Просмотр на дату
+      </div>
+      <div class="v-card__header-item g-block-small g-margin-right">
+        <input class="input input--date datepicker" type="text">
+      </div>
+      <div class="v-card__header-item">
+        Дата публикации:
+      </div>
+      <div class="v-card__header-item v-card__header-date-value">
+        9 ноября 2015
+      </div>
+    </div>
+
+    <div class="l-side-right">
+      <button class="btn btn--blue btn-share">Сохранить в .pdf</button>
+    </div>
+  </div>
+  <div class="v-card substrate substrate--table">
+    <div class="v-card__description">
+      <h2>АВИВАК-Марек </h2>
+      <ul class="bordered-list">
+        <li class="bordered-list__item">
+          <div class="bordered-list__item-title">Производитель</div>
+          <div class="bordered-list__item-content">Общество с ограниченной ответственностью "НПП "АВИВАК"
+          </div>
+        </li>
+        <li class="bordered-list__item">
+          <div class="bordered-list__item-title">Юридический адрес производителя</div>
+          <div class="bordered-list__item-content"><a class="link link--location">Россия, 188502, Ленинградская область, Ломоносовский р-н, д. Горбунки</a></div>
+        </li>
+        <li class="bordered-list__item">
+          <div class="bordered-list__item-title">Территория  обращения</div>
+          <div class="bordered-list__item-content">
+            <ul class="horizontal-list">
+              <li class="horizontal-list__item"><span class="i-country i-country--rus"></span> Россия</li>
+              <li class="horizontal-list__item"><span class="i-country i-country--armen"></span>Армения</li>
+              <li class="horizontal-list__item"><span class="i-country i-country--belrus"></span>Беларусь</li>
+            </ul>
+          </div>
+        </li>
+      </ul>
+    </div>
+    <div class="v-card__tech">
+      <div class="v-card__tech-code">
+        ВЛС-ЕАЭС-015659-RU <span class="i-country i-country--rus l-side-right"></span>
+      </div>
+      <div class="v-card__tech-desc">Регистрационное удостоверение</div>
+      <div class="v-card__tech-status">
+        <span class="btn btn--status btn--status-green v-card__tech-status-item">Регистрация на условиях</span>
+        <span class="btn btn--status btn--status-gray v-card__tech-status-item">Ветеринарное лекарственное <br/>средство</span>
+      </div>
+    </div>
+
+    <div class="v-card__clear"></div>
+  </div>
+</div>
+<div class="l-content l-max-width">
+  <div class="left-menu l-side-left">
+    <div class="left_menu__block substrate">
+      <div class="left-menu__list">
+        <ul>
+          <li class="left-menu__list-item">
+            <a class="left-menu__list-link active">Регистрационное <br/>удостоверение</a>
+          </li>
+          <li class="left-menu__list-item">
+            <a class="left-menu__list-link">Сведения о ветеринарном <br/>препарате</a>
+          </li>
+          <li class="left-menu__list-item">
+            <a class="left-menu__list-link">Фармацевтические<br/>субстанции</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="center-block--left-side">
+    <div class="v-card__data-block substrate">
+      <h2>Регистрационное удостоверение</h2>
+      <div class="zebra-list">
+        <ul>
+          <li class="zebra-list__item">
+            <div class="l-left zebra-list__title">Номер заявки на регистрацию ветеринарного препарата</div>
+            <div class="l-left zebra-list__content">874</div>
+          </li>
+          <li class="zebra-list__item">
+            <div class="l-left zebra-list__title">Номер регистрационного удостоверения</div>
+            <div class="l-left zebra-list__content">ВЛС-ЕАЭС-015659-RU</div>
+          </li>
+          <li class="zebra-list__item">
+            <div class="l-left zebra-list__title">Статус регистрационного удостоверения</div>
+            <div class="l-left zebra-list__content">Регистрация на условиях</div>
+          </li>
+          <li class="zebra-list__item">
+            <div class="l-left zebra-list__title">Дата регистрации </div>
+            <div class="l-left zebra-list__content">13.11.2012</div>
+          </li>
+          <li class="zebra-list__item">
+            <div class="l-left zebra-list__title">Дата истечения срока действия регистрации </div>
+            <div class="l-left zebra-list__content">13.11.2017</div>
+          </li>
+          <li class="zebra-list__item">
+            <div class="l-left zebra-list__title">Территория обращения</div>
+            <div class="l-left zebra-list__content">Россия, Армения, Беларусь</div>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <div class="substrate substrate--table v-card__data-block">
+      <h2 class="h2-padd">Особые условия регистрации</h2>
+      <div class="table__wrap">
+        <table class="table table--col-3">
+          <tr class="table__row">
+            <td class="table__cell table__cell--headline">Вид особого условия регистрации </td>
+            <td class="table__cell table__cell--headline table__cell--wide">Описание особого условия регистрации </td>
+            <td class="table__cell table__cell--headline table__cell--thin">Дата выполнения обязательства </td>
+          </tr>
+          <tr class="table__row">
+            <td class="table__cell">
+              Проведение пострегистрационных <br/>
+              исследований безопасности
+            </td>
+            <td class="table__cell table__cell--wide">
+              Дополнительное исследование <br/>
+              безопасности препарата
+            </td>
+            <td class="table__cell table__cell--thin">
+              01.12.2012
+            </td>
+          </tr>
+        </table>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+Страница 5
+
+<div class="l-content l-max-width">
+  <div class="v-card__header">
+    <div class="l-side-left">
+      <div class="v-card__header-item">
+        Просмотр на дату
+      </div>
+      <div class="v-card__header-item g-block-small g-margin-right">
+        <input class="input input--date datepicker" type="text">
+      </div>
+      <div class="v-card__header-item">
+        Дата публикации:
+      </div>
+      <div class="v-card__header-item v-card__header-date-value">
+        9 ноября 2015
+      </div>
+    </div>
+
+    <div class="l-side-right">
+      <button class="btn btn--blue btn-share">Сохранить в .pdf</button>
+    </div>
+  </div>
+  <div class="v-card substrate substrate--table">
+    <div class="v-card__description">
+      <h2>АВИВАК-Марек </h2>
+      <ul class="bordered-list">
+        <li class="bordered-list__item">
+          <div class="bordered-list__item-title">Производитель</div>
+          <div class="bordered-list__item-content">Общество с ограниченной ответственностью "НПП "АВИВАК"
+          </div>
+        </li>
+        <li class="bordered-list__item">
+          <div class="bordered-list__item-title">Юридический адрес производителя</div>
+          <div class="bordered-list__item-content"><a class="link link--location">Россия, 188502, Ленинградская область, Ломоносовский р-н, д. Горбунки</a></div>
+        </li>
+        <li class="bordered-list__item">
+          <div class="bordered-list__item-title">Территория  обращения</div>
+          <div class="bordered-list__item-content">
+            <ul class="horizontal-list">
+              <li class="horizontal-list__item"><span class="i-country i-country--rus"></span> Россия</li>
+              <li class="horizontal-list__item"><span class="i-country i-country--armen"></span>Армения</li>
+              <li class="horizontal-list__item"><span class="i-country i-country--belrus"></span>Беларусь</li>
+            </ul>
+          </div>
+        </li>
+      </ul>
+    </div>
+    <div class="v-card__tech">
+      <div class="v-card__tech-code">
+        ВЛС-ЕАЭС-015659-RU <span class="i-country i-country--rus l-side-right"></span>
+      </div>
+      <div class="v-card__tech-desc">Регистрационное удостоверение</div>
+      <div class="v-card__tech-status">
+        <span class="btn btn--status btn--status-green v-card__tech-status-item">Регистрация на условиях</span>
+        <span class="btn btn--status btn--status-gray v-card__tech-status-item">Ветеринарное лекарственное <br/>средство</span>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="l-content l-max-width">
+  <div class="left-menu l-side-left">
+    <div class="left-menu__block substrate">
+      <div class="left-menu__list">
+        <ul>
+          <li class="left-menu__list-item">
+            <a class="left-menu__list-link active">Регистрационное <br/>удостоверение</a>
+          </li>
+          <li class="left-menu__list-item">
+            <a class="left-menu__list-link">Сведения о ветеринарном <br/>препарате</a>
+          </li>
+          <li class="left-menu__list-item">
+            <a class="left-menu__list-link">Фармацевтические<br/>субстанции</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <div class="left-menu__block substrate substrate--tree">
+      <div class="left-menu__title left-menu__title--tree">Перейти к ...</div>
+      <div class="left-menu__tree">
+        <ul>
+          <li class="left-menu__tree-item">
+            <a class="link left-menu__tree-link">Общие сведения</a>
+          </li>
+          <li class="left-menu__tree-item">
+            <a class="link left-menu__tree-link">Форма выпуска</a>
+          </li>
+          <li class="left-menu__tree-item">
+            <a class="link left-menu__tree-link">Производитель</a>
+          </li>
+          <li class="left-menu__tree-item">
+            <a class="link left-menu__tree-link">Правообладатель</a>
+          </li>
+          <li class="left-menu__tree-item">
+            <a class="link left-menu__tree-link">Разработчик</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="center-block--left-side">
+    <div class="substrate v-card__data-block">
+      <h2>Общие сведения</h2>
+      <div class="zebra-list">
+        <ul>
+          <li class="zebra-list__item">
+            <div class="l-left zebra-list__title">Торговое название</div>
+            <div class="l-left zebra-list__content">АВИВАК-Марек</div>
+          </li>
+          <li class="zebra-list__item">
+            <div class="l-left zebra-list__title">Международное непатентованное наименование </div>
+            <div class="l-left zebra-list__content">Вакцина против болезни Марека с разбавителем</div>
+          </li>
+          <li class="zebra-list__item">
+            <div class="l-left zebra-list__title">Вид ветеринарного препарата</div>
+            <div class="l-left zebra-list__content">Ветеринарное лекарственное средство</div>
+          </li>
+          <li class="zebra-list__item">
+            <div class="l-left zebra-list__title">Клинико-фармакологическая группа </div>
+            <div class="l-left zebra-list__content">вакцины для профилактики болезней птицы</div>
+          </li>
+          <li class="zebra-list__item">
+            <div class="l-left zebra-list__title">Класс опасности</div>
+            <div class="l-left zebra-list__content">4 класс опасности (малоопасное вещество)</div>
+          </li>
+          <li class="zebra-list__item">
+            <div class="l-left zebra-list__title">Код ТН ВЭД</div>
+            <div class="l-left zebra-list__content">3002300000</div>
+          </li>
+          <li class="zebra-list__item">
+            <div class="l-left zebra-list__title">Срок годности</div>
+            <div class="l-left zebra-list__content">12 месяцев</div>
+          </li>
+          <li class="zebra-list__item">
+            <div class="l-left zebra-list__title">Период выведения ветеринарного препарата</div>
+            <div class="l-left zebra-list__content">яйца: 14 дней</div>
+          </li>
+          <li class="zebra-list__item">
+            <div class="l-left zebra-list__title">Вид ветеринарной продукции, для которой <br/>предназначен препарат</div>
+            <div class="l-left zebra-list__content">домашняя птица</div>
+          </li>
+          <li class="zebra-list__item">
+            <div class="l-left zebra-list__title">Назначение ветеринарного препарата</div>
+            <div class="l-left zebra-list__content">профилактика болезни Марека в племенных и <br/>птицеводческих хозяйствах</div>
+          </li>
+          <li class="zebra-list__item">
+            <div class="l-left zebra-list__title">Инструкция</div>
+            <div class="l-left zebra-list__content"><a class="link">Скачать</a></div>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="substrate substrate--table v-card__data-block">
+      <h2 class="h2-padd">Форма выпуска</h2>
+      <div class="table__wrap">
+        <table class="table">
+          <tr class="table__row">
+            <td class="table__cell table__cell--headline">Лекарственная форма</td>
+            <td class="table__cell table__cell--headline table__cell--wide">Состав</td>
+            <td class="table__cell table__cell--headline">Первичная упаковка</td>
+            <td class="table__cell table__cell--headline table__cell--thin">Вторичная упаковка</td>
+          </tr>
+          <tr class="table__row">
+            <td class="table__cell">Лиофилизат для
+              приготовления раствора
+              (80 % + 20 %)</td>
+            <td class="table__cell table__cell--wide">Действующее вещество:
+              культура клеток фибробластов
+              эмбрионов перепелов,
+              инфицированная вирусом
+              герпеса индеек 80 %,
+              тиамулин-ВЕТСВМ 20 %</td>
+            <td class="table__cell">Флакон (стекло) 5 см3, 10 шт.
+              <a class="link">Скачать</a>
+            </td>
+            <td class="table__cell table__cell--thin">Картонная коробка</td>
+          </tr>
+          <tr class="table__row">
+            <td class="table__cell">Жидкость
+              (500 000 ЕД + 300 000 ЕД)</td>
+            <td class="table__cell table__cell--wide">Действующее вещество:
+              фосфатно-буферный
+              раствор 500 000 ЕД,
+              сахароза 300 000 ЕД</td>
+            <td class="table__cell">Флакон (стекло) 10 мл, 5 шт.
+              <a class="link">Скачать</a>
+            </td>
+            <td class="table__cell table__cell--thin">Картонная коробка</td>
+          </tr>
+        </table>
+      </div>
+    </div>
+
+    <div class="substrate v-card__data-block">
+      <h2>Производитель</h2>
+      <div class="zebra-list">
+        <ul>
+          <li class="zebra-list__item">
+            <div class="l-left zebra-list__title">Наименование</div>
+            <div class="l-left zebra-list__content">Общество с ограниченной ответственностью "НПП "АВИВАК"</div>
+          </li>
+          <li class="zebra-list__item">
+            <div class="l-left zebra-list__title">Адрес регистрации</div>
+            <div class="l-left zebra-list__content"><a class="link link--location">Россия, 188502, Ленинградская обл., Ломоносовский р-н, <br/>д. Горбунки</a></div>
+          </li>
+          <li class="zebra-list__item">
+            <div class="l-left zebra-list__title">Фактический адрес</div>
+            <div class="l-left zebra-list__content"><a class="link link--location">Россия, 188502, Ленинградская обл., Ломоносовский р-н, <br/>д. Горбунки</a></div>
+          </li>
+          <li class="zebra-list__item">
+            <div class="l-left zebra-list__title">Телефон</div>
+            <div class="l-left zebra-list__content">+7 (351) 541-87-98</div>
+          </li>
+          <li class="zebra-list__item">
+            <div class="l-left zebra-list__title">Email</div>
+            <div class="l-left zebra-list__content"><a class="link">avivak@yandex.ru</a></div>
+          </li>
+          <li class="zebra-list__item">
+            <div class="l-left zebra-list__title">Производственные площадки</div>
+            <div class="l-left zebra-list__content">
+              <p>ООО Вектор, </p>
+              <p><a class="link link--location">Россия, 454047, Челябинск, Куйбышева, 33/1</a></p>
+              <p>ООО "АВИВАК",</p>
+              <p><a class="link link--location">Россия, 454047, Челябинск, Куйбышева, 45</a></p>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="substrate v-card__data-block">
+      <h2>Правообладатель</h2>
+      <div class="zebra-list">
+        <ul>
+          <li class="zebra-list__item">
+            <div class="l-left zebra-list__title">Наименование</div>
+            <div class="l-left zebra-list__content">Общество с ограниченной ответственностью "НПП "АВИВАК"</div>
+          </li>
+          <li class="zebra-list__item">
+            <div class="l-left zebra-list__title">Адрес регистрации</div>
+            <div class="l-left zebra-list__content"><a class="link link--location">Россия, 188502, Ленинградская обл., Ломоносовский р-н, <br/>д. Горбунки</a></div>
+          </li>
+          <li class="zebra-list__item">
+            <div class="l-left zebra-list__title">Фактический адрес</div>
+            <div class="l-left zebra-list__content"><a class="link link--location">Россия, 188502, Ленинградская обл., Ломоносовский р-н, <br/>д. Горбунки</a></div>
+          </li>
+          <li class="zebra-list__item">
+            <div class="l-left zebra-list__title">Телефон</div>
+            <div class="l-left zebra-list__content">+7 (351) 541-87-98</div>
+          </li>
+          <li class="zebra-list__item">
+            <div class="l-left zebra-list__title">Email</div>
+            <div class="l-left zebra-list__content"><a class="link">avivak@yandex.ru</a></div>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="substrate v-card__data-block">
+      <h2>Разработчик</h2>
+      <div class="zebra-list">
+        <ul>
+          <li class="zebra-list__item">
+            <div class="l-left zebra-list__title">Наименование</div>
+            <div class="l-left zebra-list__content">Общество с ограниченной ответственностью "НПП "АВИВАК"</div>
+          </li>
+          <li class="zebra-list__item">
+            <div class="l-left zebra-list__title">Адрес регистрации</div>
+            <div class="l-left zebra-list__content"><a class="link link--location">Россия, 188502, Ленинградская обл., Ломоносовский р-н, <br/>д. Горбунки</a></div>
+          </li>
+          <li class="zebra-list__item">
+            <div class="l-left zebra-list__title">Фактический адрес</div>
+            <div class="l-left zebra-list__content"><a class="link link--location">Россия, 188502, Ленинградская обл., Ломоносовский р-н, <br/>д. Горбунки</a></div>
+          </li>
+          <li class="zebra-list__item">
+            <div class="l-left zebra-list__title">Телефон</div>
+            <div class="l-left zebra-list__content">+7 (351) 541-87-98</div>
+          </li>
+          <li class="zebra-list__item">
+            <div class="l-left zebra-list__title">Email</div>
+            <div class="l-left zebra-list__content"><a class="link">avivak@yandex.ru</a></div>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+Страница 6
+
+<div class="v-card__graph l-content l-max-width">
+  <div class="left-menu l-side-left">
+    <div class="left_menu__block substrate">
+      <div class="left-menu__list">
+        <ul>
+          <li class="left-menu__list-item">
+            <a class="left-menu__list-link active">Регистрационное <br/>удостоверение</a>
+          </li>
+          <li class="left-menu__list-item">
+            <a class="left-menu__list-link">Сведения о ветеринарном <br/>препарате</a>
+          </li>
+          <li class="left-menu__list-item">
+            <a class="left-menu__list-link">Фармацевтические<br/>субстанции</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="center-block--left-side">
+    <div class="v-card__data-block substrate">
+      <h2>Количество ветеринарных препараторв, зарегистрированных за последние 4 квартала</h2>
+      <div class="filter v-card__graph-filter">
+        <div class="filter-item g-block-wide">
+          <label class="label">Срок действия</label>
+          <input class="input input--date g-block-small datepicker"  type="text" placeholder="с"/>
+          <span class="search-group__item-date-dash">-</span>
+          <input class="input input--date g-block-small datepicker" type="text"  placeholder="по"/>
+        </div>
+        <div class="filter-item g-block-mid">
+          <label class="label">Страны</label>
+          <select class="select">
+            <option>Все страны</option>
+            <option>Россия</option>
+            <option>Беларусь</option>
+          </select>
+        </div>
+      </div>
+      <div class="v-card__graph-scheme">
+        <img src="/images/scheme-1.png"/>
+      </div>
+      <div class="v-card__graph-legend">
+        <ul>
+          <li class="v-card__graph-legend-item"><span class="v-card__graph-legend-icon i-legend i-legend--2"></span>Ветеринарные лекарственные препараты</li>
+          <li class="v-card__graph-legend-item"><span class="v-card__graph-legend-icon i-legend i-legend--2"></span>Кормовые добавки</li>
+          <li class="v-card__graph-legend-item"><span class="v-card__graph-legend-icon i-legend i-legend--3"></span>Дезинфицирующие, дезинсекционные и дератизационные средства</li>
+          <li class="v-card__graph-legend-item"><span class="v-card__graph-legend-icon i-legend i-legend--4"></span>Диагностические средства</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>

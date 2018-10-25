@@ -1,0 +1,14 @@
+<div class="top-menu__substrate">
+<div class="container top-menu__list horizontal-list" ng-controller="top_menu_items_Ctrl">
+  <ul>
+    <li class="horizontal-list__item top-menu__item" ui-sref-active="top-menu__item--active">
+      <a ui-sref="home" class="link top-menu__link top-menu__link--home">
+        <i class="top-menu__link-icon v-home__icon--home"></i>
+      </a>
+    </li>
+    <li class="horizontal-list__item top-menu__item" ng-cloak ng-repeat="item in items" ui-sref-active="top-menu__item--active">
+      <a ui-sref="{{item.template}}" class="link top-menu__link">{{item.title}}</a>
+    </li>
+  </ul>
+</div>
+</div>

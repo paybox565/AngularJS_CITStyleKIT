@@ -1,0 +1,48 @@
+.l-page-container {
+  position: relative;
+  height: auto !important;
+  min-height: 100%;
+  margin: 0 auto;
+  width: 100%;
+  overflow: hidden;
+  overflow-y: visible;
+}
+.l-max-width {
+  width: $container-width;
+  margin: 0 auto;
+  padding: 0 $container-pad;
+}
+.l-wrap {
+  @include cf();
+  width: 100%;
+  padding-top: $g-gutter;
+  padding-bottom: $footer-height + 20;
+}
+.l-content {
+  @include cf();
+  position: relative;
+}
+.l-sides {
+  @include cf();
+  position: relative;
+}
+.l-side-left {
+  float: left;
+}
+.l-side-right {
+  float: right;
+}
+.l-header {
+
+}
+.l-footer {
+  @include cf();
+
+  width: 100%;
+  height: $footer-height;
+  margin-top: -$footer-height;
+  background: $white;
+  border-top: 2px solid #b3b9bd;
+  position: relative;
+  overflow: hidden;
+}

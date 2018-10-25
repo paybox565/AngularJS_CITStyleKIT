@@ -1,0 +1,38 @@
+.v-card-chart {
+  &__col {
+    &-1 {
+      @include col(0.45);
+    }
+
+    &-2 {
+      @include col(0.45);
+    }
+  }
+
+  &__info {
+    &-item {
+      display: inline-block;
+      margin-right: 55px;
+      $root-info: &;
+
+      &-color-box {
+        display: inline-block;
+        width: 30px;
+        height: 30px;
+        position: relative;
+        top: 10px;
+        margin-right: 15px;
+
+        &--blue {
+          @extend #{$root-info}-color-box;
+          background-color: $malibu;
+        }
+
+        &--dark-blue {
+          @extend #{$root-info}-color-box;
+          background-color: $denim;
+        }
+      }
+    }
+  }
+}

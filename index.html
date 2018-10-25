@@ -1,0 +1,174 @@
+<!doctype html>
+<html ng-app="sgApp">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <title>Style Guide ver.0.0.17 (элементы и стили) </title>
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="style_guide.css">
+</head>
+<body>
+
+<div class="l-page-container">
+
+  <div class="l-header">
+
+    <div class="header__top-wrap">
+
+      <div class="container">
+        <div class="header__top">
+
+          <div class="header__top-item header__top-item--menu-button l-side-left">
+            <div class="header__menu-button js-main-menu-trigger"></div>
+          </div>
+
+          <div class="header__top-item header__top-item--headline l-side-left js-header__top-search-hide">
+            <div class="header__headline">
+              Style Guide ver.0.0.17 (элементы и стили)
+            </div>
+          </div>
+
+          <div class="header__top-item header__top-item--login l-side-right js-header__top-item--login">
+            <div class="header__login">
+              <ul>
+                <li class="header__login-item js-header__login-current">Пхумипон А.</li>
+              </ul>
+              <div class="header__logout popup-window js-header__logout">
+                <div class="header__logout-item">
+                  <span class="header__logout-link">Личный кабинет</span>
+                </div>
+                <div class="header__logout-item">
+                  <span class="header__logout-link">Выйти</span>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="header__top-item l-side-right">
+            <div class="header__popup-menu-wrap">
+              <div class="header__popup-menu-trigger js-header__popup-menu-trigger"></div>
+              <div class="header__popup-menu js-header__popup-menu">
+                <div class="header__popup-menu-item header__popup-menu-item--main">
+                  <div class="header__popup-menu-item-link">
+                    Информационный портал <br/>
+                    Евразийского экономического союза
+                  </div>
+                </div>
+                <div class="header__popup-menu-item">
+                  <div class="header__popup-menu-item-link">
+                    Евразийский
+                    экономический
+                    союз
+                  </div>
+                </div>
+                <div class="header__popup-menu-item">
+                  <div class="header__popup-menu-item-link">
+                    Евразийска
+                    экономическая
+                    комиссия
+                  </div>
+                </div>
+                <div class="header__popup-menu-item">
+                  <div class="header__popup-menu-item-link">
+                    Суд Евразийского
+                    экономичексого
+                    союза
+                  </div>
+                </div>
+                <div class="header__popup-menu-item">
+                  <div class="header__popup-menu-item-link">
+                    Правовой портал
+                    Евразийского
+                    экономичексого
+                    союза
+                  </div>
+                </div>
+                <div class="header__popup-menu-item active">
+                  <div class="header__popup-menu-item-link">
+                    Портал общих
+                    информационных
+                    ресурсов и открытых
+                    данных
+                  </div>
+                </div>
+                <div class="header__popup-menu-item">
+                  <div class="header__popup-menu-item-link">
+                    Портал участников
+                    внешнеэкономической деятельности
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="header__top-item header__top-item--search l-side-right js-header__top-item--search ">
+              <div class="header__top-search-button js-header__top-search-button "></div>
+              <div class="header__top-search js-header__top-search ">
+                <input class="input"/>
+              </div>
+            <div class="header__top-search-bg js-header__top-search-bg"></div>
+          </div>
+
+          <div class="header__top-item header__top-item--logo l-side-right js-header__top-search-hide">
+            <div class="header__logo">
+              <div class="header__logo-image"><img style="width:52px;" class="image" src="/images/logo.svg"/></div>
+              <div class="header__logo-title">
+                Портал общих информационных<br/>
+                ресурсов и открытых данных ЕАЭС
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+
+    <div class="top-menu__wrap">
+
+      <ng-include src="'views/header-top-menu.html'"></ng-include>
+
+      <ng-include src="'views/header-nav-menu.html'"></ng-include>
+
+      <!--<ng-include src="'views/header-breadcrumbs.html'"></ng-include>-->
+
+      <ng-include src="'views/header-popup-menu.html'"></ng-include>
+
+    </div>
+
+  </div>
+
+  <div class="l-wrap">
+
+    <!--//= templates/headline_ver1.html-->
+
+    <div class="l-content">
+
+      <div ui-view></div>
+
+    </div>
+  </div>
+</div>
+
+<div class="footer l-footer">
+  <div class="l-max-width">
+    <div class="footer__logo">
+      <a>
+        <img class="footer__logo-img" src="images/logo_f.png"/>
+      </a>
+    </div>
+    <div class="footer__menu">
+      <ul>
+        <li class="footer__menu-item"><a class="footer__menu-link">Евразийский экономический союз</a></li>
+        <li class="footer__menu-item"><a class="footer__menu-link">Евразийская экономическая комиссия</a></li>
+        <li class="footer__menu-item"><a class="footer__menu-link">Правовой портал</a></li>
+        <li class="footer__menu-item"><a class="footer__menu-link">Суд Евразийского экономического союза</a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<script src="bundle.js"></script>
+
+</body>
+</html>

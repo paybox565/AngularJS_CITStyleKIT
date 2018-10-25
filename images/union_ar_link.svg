@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.1" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 79.8 259.3"
+	 enable-background="new 0 0 79.8 259.3" xml:space="preserve">
+<metadata>
+	<sfw  xmlns="&ns_sfw;">
+		<slices></slices>
+		<sliceSourceBounds  width="85.5" height="259.3" y="-504.9" x="631.9" bottomLeftOrigin="true"></sliceSourceBounds>
+	</sfw>
+</metadata>
+<g>
+	
+		<line fill="none" stroke="#B5935B" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="39.9" y1="5.7" x2="39.9" y2="258.8"/>
+	<g>
+		<g>
+			<g>
+				<g>
+					
+						<ellipse transform="matrix(-0.9542 -0.2993 0.2993 -0.9542 54.4839 165.5854)" fill="#FFFFFF" stroke="#B5935B" stroke-width="6" stroke-linejoin="round" stroke-miterlimit="10" cx="39.9" cy="78.6" rx="36.9" ry="37"/>
+					<g>
+						<defs>
+							<path id="XMLID_5165_" d="M11.9,69.9c4.8-15.4,21.3-24,36.8-19.2S72.8,72,67.9,87.4s-21.3,24-36.8,19.2S7.1,85.3,11.9,69.9z"
+								/>
+						</defs>
+						<use xlink:href="#XMLID_5165_"  overflow="visible" fill="#B5935B"/>
+						<clipPath id="XMLID_2_">
+							<use xlink:href="#XMLID_5165_"  overflow="visible"/>
+						</clipPath>
+						
+							<polygon clip-path="url(#XMLID_2_)" fill="#FFFFFF" stroke="#B5935B" stroke-linejoin="round" stroke-miterlimit="10" points="
+							1.1,45.2 59.6,142.7 0.6,131.2 -5.2,45.9 						"/>
+						
+							<line clip-path="url(#XMLID_2_)" fill="none" stroke="#FFFFFF" stroke-linejoin="round" stroke-miterlimit="10" x1="40.5" y1="52.6" x2="40.5" y2="63.6"/>
+						
+							<line clip-path="url(#XMLID_2_)" fill="none" stroke="#FFFFFF" stroke-linejoin="round" stroke-miterlimit="10" x1="32.7" y1="98.8" x2="73.8" y2="98.8"/>
+						
+							<line clip-path="url(#XMLID_2_)" fill="none" stroke="#B5935B" stroke-linejoin="round" stroke-miterlimit="10" x1="14.5" y1="98.8" x2="32.7" y2="98.8"/>
+						
+							<use xlink:href="#XMLID_5165_"  overflow="visible" fill="none" stroke="#B5935B" stroke-linejoin="round" stroke-miterlimit="10"/>
+					</g>
+				</g>
+			</g>
+			<g>
+				<g>
+					
+						<rect x="26.7" y="71.6" fill="#FFFFFF" stroke="#B5935B" stroke-linejoin="round" stroke-miterlimit="10" width="3.9" height="18.8"/>
+					
+						<rect x="50" y="71.6" fill="#FFFFFF" stroke="#B5935B" stroke-linejoin="round" stroke-miterlimit="10" width="3.9" height="18.8"/>
+					
+						<rect x="42.4" y="71.6" fill="#FFFFFF" stroke="#B5935B" stroke-linejoin="round" stroke-miterlimit="10" width="3.9" height="18.8"/>
+					
+						<rect x="34.5" y="71.6" fill="#FFFFFF" stroke="#B5935B" stroke-linejoin="round" stroke-miterlimit="10" width="3.9" height="18.8"/>
+				</g>
+				<path fill="#FFFFFF" stroke="#B5935B" stroke-linejoin="round" stroke-miterlimit="10" d="M27.1,70.7h26.3c0,0-0.5-12.1-13-12.1
+					C26.7,58.6,27.1,70.7,27.1,70.7z"/>
+				
+					<rect x="24.9" y="70.9" fill="#FFFFFF" stroke="#B5935B" stroke-linejoin="round" stroke-miterlimit="10" width="30.9" height="3.3"/>
+				
+					<rect x="25" y="88.4" fill="#FFFFFF" stroke="#B5935B" stroke-linejoin="round" stroke-miterlimit="10" width="30.6" height="3.3"/>
+				
+					<rect x="23.1" y="91.7" fill="#FFFFFF" stroke="#B5935B" stroke-linejoin="round" stroke-miterlimit="10" width="34.4" height="3.3"/>
+			</g>
+		</g>
+	</g>
+	
+		<circle fill="#FFFFFF" stroke="#B5935B" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="39.9" cy="4.2" r="3.7"/>
+	<g>
+		<g>
+			
+				<ellipse transform="matrix(-0.9542 -0.2993 0.2993 -0.9542 20.5106 387.3816)" fill="#FFFFFF" stroke="#B5935B" stroke-width="6" stroke-linejoin="round" stroke-miterlimit="10" cx="39.9" cy="192.1" rx="36.9" ry="37"/>
+		</g>
+		<g>
+			<defs>
+				<path id="XMLID_5164_" d="M11.9,183.4c4.8-15.4,21.3-24,36.8-19.2c15.5,4.8,24.1,21.3,19.2,36.7s-21.3,24-36.8,19.2
+					C15.7,215.2,7.1,198.8,11.9,183.4z"/>
+			</defs>
+			<use xlink:href="#XMLID_5164_"  overflow="visible" fill="#FFFFFF"/>
+			<clipPath id="XMLID_3_">
+				<use xlink:href="#XMLID_5164_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#XMLID_3_)">
+				
+					<image overflow="visible" width="59" height="63" xlink:href="../../../../../_elements/png/president_sarksyan.jpg"  transform="matrix(1 0 0 1 10.8691 160.8904)">
+				</image>
+			</g>
+			
+				<use xlink:href="#XMLID_5164_"  overflow="visible" fill="none" stroke="#B5935B" stroke-linejoin="round" stroke-miterlimit="10"/>
+		</g>
+	</g>
+</g>
+</svg>

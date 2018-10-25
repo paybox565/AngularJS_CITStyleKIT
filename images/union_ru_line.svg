@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.1" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 154.7 251.3"
+	 enable-background="new 0 0 154.7 251.3" xml:space="preserve">
+<metadata>
+	<sfw  xmlns="&ns_sfw;">
+		<slices></slices>
+		<sliceSourceBounds  width="154.7" height="251.3" x="598.3" y="-500.3" bottomLeftOrigin="true"></sliceSourceBounds>
+	</sfw>
+</metadata>
+<g>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-9.8529" y1="9.8531" x2="193.1544" y2="212.8605">
+		<stop  offset="0" style="stop-color:#B5935B"/>
+		<stop  offset="0.1066" style="stop-color:#B7965F"/>
+		<stop  offset="0.2206" style="stop-color:#BD9E6C"/>
+		<stop  offset="0.338" style="stop-color:#C6AC82"/>
+		<stop  offset="0.4578" style="stop-color:#D4C09F"/>
+		<stop  offset="0.5794" style="stop-color:#E5D9C6"/>
+		<stop  offset="0.7009" style="stop-color:#FAF8F5"/>
+		<stop  offset="0.7258" style="stop-color:#FFFFFF"/>
+	</linearGradient>
+	<path fill="url(#SVGID_1_)" d="M154.7,251.3h-6V101.9c0-10.4-8.5-18.9-18.9-18.9c-6.3,0-12.3-2.5-16.7-7
+		c-4.5-4.5-6.9-10.5-6.8-16.8c0-4.7-1.8-9.2-5.1-12.5s-7.8-5.2-12.5-5.2H23.6C10.6,41.5,0,30.9,0,17.9L0,0h6l0,17.9
+		c0,9.7,7.9,17.6,17.6,17.6h65.1c6.3,0,12.3,2.5,16.7,7c4.5,4.5,6.9,10.5,6.8,16.8c0,4.7,1.8,9.2,5.1,12.5c3.3,3.4,7.8,5.2,12.5,5.2
+		c13.7,0,24.9,11.2,24.9,24.9V251.3z"/>
+</g>
+</svg>

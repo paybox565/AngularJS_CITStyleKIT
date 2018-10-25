@@ -1,0 +1,168 @@
+/* Оформление чекбокса */
+
+.checkbox {
+  vertical-align: top;
+  margin: 0 3px 0 0;
+  width: 20px;
+  height: 20px;
+}
+.checkbox + label {
+  font-weight: normal;
+  cursor: pointer;
+}
+.checkbox:not(checked) {
+  position: absolute;
+  opacity: 0;
+}
+.checkbox:not(checked) + label {
+  position: relative;
+  padding-left: 36px; /* оставляем слева от label место под псевдочекбокс */
+}
+/* Оформление первой части чекбокса в выключенном состоянии (фон). */
+.checkbox:not(checked) + label:before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 20px;
+  height: 20px;
+  border: 1px solid $hit-gray;
+  border-radius: 2px;
+  background: $white;
+}
+/* Оформление второй части чекбокса в выключенном состоянии (переключатель). */
+.checkbox:not(checked) + label:after {
+  content: '';
+  position: absolute;
+  top: -7px;
+  left: -6px;
+  width: 32px;
+  height: 32px;
+}
+/* Меняем фон чекбокса, когда он включен. */
+.checkbox:checked + label:before {
+  padding: 2px 0 0 10px;
+  color: $galliano;
+  border: 1px solid $galliano;
+  background-color: #fafae6;
+}
+/* Сдвигаем переключатель чекбокса, когда он включен. */
+.checkbox:checked + label:after {
+  background: url(images/iis_checkbox.svg) no-repeat center;
+  background-size: 32px 32px;
+}
+
+/* Оформление чекбокса-триггера */
+
+.checkbox-trigger {
+  vertical-align: top;
+  margin: 0 3px 0 0;
+  width: 17px;
+  height: 17px;
+}
+.checkbox-trigger + label {
+  display: table-cell;
+  height: 36px;
+  vertical-align: middle;
+  font-weight: normal;
+  cursor: pointer;
+}
+.checkbox-trigger:not(checked) {
+  position: absolute;
+  opacity: 0;
+}
+.checkbox-trigger:not(checked) + label {
+  position: relative;
+  padding: 0 0 0 64px; /* оставляем слева от label место под псевдочекбокс */
+}
+/* Оформление первой части чекбокса в выключенном состоянии (фон). */
+.checkbox-trigger:not(checked) + label:before {
+  content: '';
+  position: absolute;
+  top: 6px;
+  left: 0;
+  width: 54px;
+  height: 26px;
+  border: 1px solid $hit-gray;
+  border-radius: 13px;
+  background: $white;
+}
+/* Оформление второй части чекбокса в выключенном состоянии (переключатель). */
+.checkbox-trigger:not(checked) + label:after {
+  content: '';
+  position: absolute;
+  top: 10px;
+  left: 4px;
+  width: 18px;
+  height: 18px;
+  border-radius: 10px;
+  background-color: $hit-gray;
+  transition: all .2s;
+}
+/* Меняем фон чекбокса, когда он включен. */
+.checkbox-trigger:checked + label:before {
+  content: 'да';
+  padding: 2px 0 0 10px;
+  color: $galliano;
+  border: 1px solid $galliano;
+  background-color: #fafae6;
+}
+/* Сдвигаем переключатель чекбокса, когда он включен. */
+.checkbox-trigger:checked + label:after {
+  left: 32px;
+  background-color: $galliano;
+}
+
+/* Оформление радио */
+
+.radio-trigger {
+  height: 17px;
+  margin: 0 3px 0 0;
+  vertical-align: top;
+  width: 17px;
+}
+.radio-trigger + label {
+  display: table-cell;
+  height: 36px;
+  vertical-align: middle;
+  font-weight: normal;
+  cursor: pointer;
+}
+.radio-trigger:not(checked) {
+  opacity: 0;
+  position: absolute;
+}
+.radio-trigger:not(checked) + label {
+  padding: 0 0 0 35px;
+  position: relative;
+}
+.radio-trigger:not(checked) + label::before {
+  background: #fff none repeat scroll 0 0;
+  border: 1px solid $hit-gray;
+  border-radius: 50%;
+  content: "";
+  height: 22px;
+  left: 0;
+  position: absolute;
+  top: 8px;
+  width: 22px;
+}
+.radio-trigger:not(checked) + label::after {
+  background: $galliano none repeat scroll 0 0;
+  border-radius: 50%;
+  content: "";
+  height: 14px;
+  left: 4px;
+  opacity: 0;
+  position: absolute;
+  top: 12px;
+  transition: all 0.2s ease 0s;
+  width: 14px;
+}
+.radio-trigger:checked + label::after {
+  opacity: 1;
+}
+.radio-trigger:checked + label::before {
+  border-color: $galliano;
+}
+

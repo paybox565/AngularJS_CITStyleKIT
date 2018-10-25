@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.1" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 62.3 65.7"
+	 enable-background="new 0 0 62.3 65.7" xml:space="preserve">
+<metadata>
+	<sfw  xmlns="&ns_sfw;">
+		<slices></slices>
+		<sliceSourceBounds  width="71.3" height="68.5" y="-574.5" x="923.8" bottomLeftOrigin="true"></sliceSourceBounds>
+	</sfw>
+</metadata>
+<g>
+	<g>
+		<rect x="0" y="7.5" fill="#C1BDA8" width="62.3" height="58.1"/>
+		<g>
+			<defs>
+				<rect id="XMLID_494_" x="3.2" y="10.6" width="55.8" height="52.4"/>
+			</defs>
+			<use xlink:href="#XMLID_494_"  overflow="visible" fill="#EFEAD9"/>
+			<clipPath id="XMLID_2_">
+				<use xlink:href="#XMLID_494_"  overflow="visible"/>
+			</clipPath>
+			<rect x="1.5" y="45.1" clip-path="url(#XMLID_2_)" fill="#EFECDA" width="64.4" height="19.1"/>
+			<rect x="-3.8" y="46.2" clip-path="url(#XMLID_2_)" fill="#D9D6C0" width="71.3" height="22.3"/>
+		</g>
+	</g>
+	<rect x="10.4" y="17" fill="#C1BDA8" width="30.2" height="3"/>
+	<rect x="10.4" y="24" fill="#C1BDA8" width="32.9" height="3"/>
+	<g>
+		<circle fill="#FFFFFF" stroke="#C1BDA8" stroke-width="2" stroke-miterlimit="10" cx="39.8" cy="16.4" r="15.4"/>
+		<polyline fill="none" stroke="#64625F" stroke-width="4" stroke-miterlimit="10" points="32.4,17 37.6,21 46.9,12.1 		"/>
+	</g>
+	<g>
+		<path fill="#64625F" d="M42.2,59.2c1.3-0.1,2.6-0.7,3.5-1.6l8.7-8.5c2.3-2.2,2.3-5.9,0.1-8.2L53.6,40c-1.2-1.2-3-1.9-4.7-1.7
+			c-1.3,0.1-2.6,0.7-3.5,1.6l-8.7,8.5c-2.3,2.2-2.3,5.9-0.1,8.2l0.9,0.9C38.7,58.8,40.5,59.4,42.2,59.2L42.2,59.2z"/>
+		<path fill="#EFECDA" d="M38.1,49.7c-1.6,1.6-1.6,4.1,0,5.7l0.8,0.8c1.6,1.6,4.1,1.6,5.7,0l4-4l-6.4-6.5L38.1,49.7z"/>
+		<g>
+			<path fill="#EFECDA" d="M49,41.6c0.8,0,1.6,0.3,2.1,0.9l0.8,0.8c0.6,0.6,0.9,1.3,0.9,2.1c0,0.8-0.3,1.6-0.9,2.1l-3.3,3.3l-5-5.1
+				l3.3-3.3C47.4,41.9,48.2,41.6,49,41.6 M49,40.6c-1,0-2,0.4-2.8,1.2l-4,4l6.4,6.5l4-4c1.6-1.6,1.6-4.1,0-5.7l-0.8-0.8
+				C51.1,41,50,40.6,49,40.6L49,40.6z"/>
+		</g>
+	</g>
+	<g>
+		<path fill="#C1BDA8" d="M20.8,57.1c0.8-1,1.3-2.3,1.3-3.7l0.1-12.1c0-3.2-2.5-5.8-5.7-5.8l-1.2,0c-1.8,0-3.4,0.8-4.5,2.1
+			c-0.8,1-1.3,2.3-1.3,3.7L9.3,53.4c0,3.2,2.5,5.8,5.7,5.8l1.2,0C18,59.2,19.6,58.5,20.8,57.1L20.8,57.1z"/>
+		<path fill="#EFECDA" d="M11.1,53.3c0,2.2,1.8,4,4,4l1.2,0c2.2,0,4-1.8,4-4l0-5.7l-9.2-0.1L11.1,53.3z"/>
+		<g>
+			<path fill="#EFECDA" d="M15.2,38l0,1l1.2,0c1.7,0,3,1.4,3,3l0,4.7l-7.2-0.1l0-4.7c0-1.6,1.4-3,3-3V38 M15.2,38c-2.2,0-4,1.8-4,4
+				l0,5.7l9.2,0.1l0-5.7c0-2.2-1.8-4-4-4L15.2,38C15.2,38,15.2,38,15.2,38L15.2,38z"/>
+		</g>
+	</g>
+</g>
+</svg>

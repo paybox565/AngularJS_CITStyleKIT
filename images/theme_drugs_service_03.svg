@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.1" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 62.3 65.2"
+	 enable-background="new 0 0 62.3 65.2" xml:space="preserve">
+<metadata>
+	<sfw  xmlns="&ns_sfw;">
+		<slices></slices>
+		<sliceSourceBounds  width="70.1" height="70.4" y="-575.1" x="924.4" bottomLeftOrigin="true"></sliceSourceBounds>
+	</sfw>
+</metadata>
+<g>
+	<g>
+		<g>
+			<defs>
+				<rect id="XMLID_483_" x="0" y="7" width="62.3" height="58.1"/>
+			</defs>
+			<use xlink:href="#XMLID_483_"  overflow="visible" fill="#C1BDA8"/>
+			<clipPath id="XMLID_2_">
+				<use xlink:href="#XMLID_483_"  overflow="visible"/>
+			</clipPath>
+			<rect x="12.1" y="1.8" clip-path="url(#XMLID_2_)" fill="#64625F" width="54.9" height="64.7"/>
+		</g>
+		<g>
+			<defs>
+				<rect id="XMLID_479_" x="3.2" y="10.1" width="55.8" height="52.4"/>
+			</defs>
+			<use xlink:href="#XMLID_479_"  overflow="visible" fill="#EFEAD9"/>
+			<clipPath id="XMLID_3_">
+				<use xlink:href="#XMLID_479_"  overflow="visible"/>
+			</clipPath>
+			<rect x="2.3" y="42.8" clip-path="url(#XMLID_3_)" fill="#A5A08C" width="61.4" height="15.5"/>
+			<g clip-path="url(#XMLID_3_)">
+				<rect x="-3.1" y="16.5" fill="#A5A08C" width="15.4" height="3"/>
+				<rect x="-3.1" y="23.5" fill="#A5A08C" width="15.4" height="3"/>
+				<polygon fill="#C1BDA8" points="0.3,40.8 30.9,40.8 27.9,37.8 0.3,37.8 				"/>
+			</g>
+			<g clip-path="url(#XMLID_3_)">
+				<path fill="#EFECDA" d="M45.6,68.4c0.8-1,1.2-2.2,1.2-3.4L47,53.7c0-3-2.4-5.5-5.4-5.5l-1.2,0c-1.6,0-3.2,0.7-4.2,2
+					c-0.8,1-1.2,2.2-1.2,3.4l-0.1,11.3c0,3,2.4,5.5,5.4,5.5l1.2,0C43,70.4,44.6,69.7,45.6,68.4L45.6,68.4z"/>
+				<path fill="#C1BDA8" d="M36.2,64.9c0,2.2,1.8,4,4,4l1.2,0c2.2,0,4-1.8,4-4l0-5.7l-9.2-0.1L36.2,64.9z"/>
+				<g>
+					<path fill="#C1BDA8" d="M40.3,49.6l0,1l1.2,0c0.8,0,1.6,0.3,2.1,0.9c0.6,0.6,0.9,1.3,0.9,2.1l0,4.7l-7.2-0.1l0-4.7
+						c0-1.6,1.4-3,3-3V49.6 M40.3,49.6c-2.2,0-4,1.8-4,4l0,5.7l9.2,0.1l0-5.7c0-2.2-1.8-4-4-4L40.3,49.6
+						C40.4,49.6,40.3,49.6,40.3,49.6L40.3,49.6z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<circle fill="#EFEAD9" cx="41.3" cy="6.4" r="3.1"/>
+	<g>
+		<rect x="17.6" y="16.5" fill="#A5A08C" width="3" height="3"/>
+		<rect x="17.6" y="23.5" fill="#A5A08C" width="3" height="3"/>
+	</g>
+	<g>
+		<path fill="#EFECDA" d="M28.9,46.6c-0.1-1.3-0.7-2.6-1.6-3.5l-8.5-8.7c-2.2-2.3-5.9-2.3-8.2-0.1l-0.9,0.9c-1.2,1.2-1.9,3-1.7,4.7
+			c0.1,1.3,0.7,2.6,1.6,3.5l8.5,8.7c2.2,2.3,5.9,2.3,8.2,0.1l0.9-0.9C28.5,50.1,29.1,48.4,28.9,46.6L28.9,46.6z"/>
+		<path fill="#64625F" d="M19.4,50.7c1.6,1.6,4.1,1.6,5.7,0l0.8-0.8c1.6-1.6,1.6-4.1,0-5.7l-4-4l-6.5,6.4L19.4,50.7z"/>
+		<g>
+			<path fill="#64625F" d="M15.1,36c0.8,0,1.6,0.3,2.1,0.9l3.3,3.3l-5.1,5l-3.3-3.3c-0.6-0.6-0.9-1.3-0.9-2.1c0-0.8,0.3-1.6,0.9-2.1
+				l0.8-0.8C13.6,36.3,14.3,36,15.1,36 M15.1,35c-1,0-2,0.4-2.8,1.2L11.5,37c-1.6,1.6-1.6,4.1,0,5.7l4,4l6.5-6.4l-4-4
+				C17.2,35.4,16.1,35,15.1,35L15.1,35z"/>
+		</g>
+	</g>
+	<g>
+		<path fill="#A5A08C" d="M53.3,19.1v-4.3c0,0-3.4-3-11.9-3c-8.5,0-11.9,3-11.9,3v4.3c-0.4,0.1-0.8,0.3-1.2,0.7
+			c-0.6,0.6-1,1.4-1,2.5c0,1.8,1.2,3.2,2.9,3.6c2.1,5.3,5.5,12,11.2,12c5.8,0,9.2-6.7,11.2-12c1.7-0.4,2.9-1.9,2.9-3.6
+			c0-1.1-0.3-1.9-1-2.5C54.1,19.4,53.7,19.3,53.3,19.1z M52,24.5l-0.5,0L51.4,25c-3,7.7-6.2,11.4-10,11.4c-3.8,0-7-3.7-10-11.4
+			l-0.2-0.4l-0.5,0c-1.1-0.1-2-1.1-2-2.2c0-0.6,0.2-1.1,0.5-1.3c0.6-0.6,1.7-0.5,1.7-0.5l0.6,0.1l0.3,0.1l0.6-3.2
+			c1.8,1,4.7,1.9,9.1,1.9c4.4,0,7.3-0.9,9.1-1.9l0.6,2.9v0.3l0.1,0l0,0.1l0.3-0.1l0.5-0.1c0,0,1-0.1,1.6,0.4
+			c0.3,0.3,0.5,0.8,0.5,1.4C54,23.4,53.2,24.4,52,24.5z"/>
+		<path fill="#A5A08C" d="M56.8,7.3c-8-1.3-11-7.3-15.4-7.3c-3,0-7.4,5.9-15.4,7.3c-1.2,0.2-0.9,0.9-0.7,1.3c1,2.3,4.3,4.5,4.3,4.5
+			s2.3-3,11.9-3s11.9,3,11.9,3s3.3-2.2,4.3-4.5C57.7,8.2,58,7.5,56.8,7.3z M41.4,9c-1.4,0-2.5-2.4-2.5-3.8c0,0,1.1-1.2,2.5-1.2
+			c1.4,0,2.5,1.2,2.5,1.2C43.9,6.6,42.7,9,41.4,9z"/>
+	</g>
+	<line fill="none" stroke="#C1BDA8" stroke-width="2" stroke-miterlimit="10" x1="34.8" y1="23" x2="37.9" y2="23"/>
+	<line fill="none" stroke="#C1BDA8" stroke-width="2" stroke-miterlimit="10" x1="44.4" y1="23" x2="47.5" y2="23"/>
+</g>
+</svg>

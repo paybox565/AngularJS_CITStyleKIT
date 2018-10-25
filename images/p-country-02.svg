@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.1" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 155.6 24.1"
+	 enable-background="new 0 0 155.6 24.1" xml:space="preserve">
+<metadata>
+	<sfw  xmlns="&ns_sfw;">
+		<slices></slices>
+		<sliceSourceBounds  width="181.2" height="24.1" x="584.5" y="-387.5" bottomLeftOrigin="true"></sliceSourceBounds>
+	</sfw>
+</metadata>
+<g>
+	<line fill="none" stroke="#BBBBBB" stroke-linejoin="round" stroke-miterlimit="10" x1="1" y1="12.1" x2="143.8" y2="12.1"/>
+	<circle fill="#FFFFFF" stroke="#BBBBBB" stroke-linejoin="round" stroke-miterlimit="10" cx="3.5" cy="12.1" r="3"/>
+	<g>
+		<path fill="#FFFFFF" stroke="#BBBBBB" stroke-linejoin="round" stroke-miterlimit="10" d="M147.1,1.1c6.1,2,9.4,8.5,7.4,14.6
+			S146,25,139.8,23c-6.1-2-9.4-8.5-7.4-14.6S141-0.9,147.1,1.1z"/>
+	</g>
+	<g>
+		<defs>
+			<path id="XMLID_810_" d="M145.9,4.5c4.2,1.4,6.5,5.9,5.1,10.1c-1.4,4.2-5.9,6.5-10.1,5.1s-6.5-5.9-5.1-10.1
+				C137.2,5.4,141.8,3.1,145.9,4.5z"/>
+		</defs>
+		<use xlink:href="#XMLID_810_"  overflow="visible" fill="#FFFFFF"/>
+		<clipPath id="XMLID_2_">
+			<use xlink:href="#XMLID_810_"  overflow="visible"/>
+		</clipPath>
+		<g clip-path="url(#XMLID_2_)">
+			<rect x="135.3" y="0.4" fill="#C8313E" width="45.9" height="22.9"/>
+			<rect x="135.3" y="15.7" fill="#4AA657" width="45.9" height="7.6"/>
+			<rect x="135.3" y="0.4" fill="#FFFFFF" width="5.1" height="22.9"/>
+			<path fill="#C8313E" d="M136.2,0.4h0.7v0.4h0.2v0.4h0.2v0.4h0.2v0.4h0.2v0.4h-0.2v0.4h-0.2V3H137v0.4h-0.2v0.4h-0.2v0.4h-0.2V3.7
+				h-0.2V3.4h-0.2V3h-0.2V2.6h-0.2V2.2h-0.2V1.9h0.2V1.5h0.2V1.1h0.2V0.7h0.2V0.4z M136.4,1.1h0.2v0.4h0.2v0.4h0.2v0.4h-0.2v0.4
+				h-0.2V3h-0.2V2.6h-0.2V2.2h-0.2V1.9h0.2V1.5h0.2V1.1z M136.4,1.9h0.2v0.4h-0.2V1.9z M135.3,0.7h0.2v0.4h-0.2V0.7z M135.3,3h0.2
+				v0.4h-0.2V3z M137.7,0.4h0.1v0.8h-0.1V0.4z M137.7,3h0.1v0.8h-0.1V3z M135.7,3.7h0.2v0.4h0.2v0.4h0.2v0.4h-0.2v0.4h-0.2v0.4h-0.2
+				V5.3h-0.2V4.9h-0.2V4.5h0.2V4.1h0.2V3.7z M135.7,4.5h0.2v0.4h-0.2V4.5z M137,3.7h0.2v0.4h0.2v0.4h0.2v0.4h-0.2v0.4h-0.2v0.4H137
+				V5.3h-0.2V4.9h-0.2V4.5h0.2V4.1h0.2V3.7z M137,4.5h0.2v0.4H137V4.5z M135.3,6h0.2v0.4h-0.2V6z M137.7,5.6h0.1v0.8h-0.1V5.6z"/>
+			<path fill="#C8313E" d="M135.3,7.1h0.2V6.8h0.2V6.4h0.2V6h0.2V5.6h0.2V5.3h0.2v0.4h0.2V6h0.2v0.4h0.2v0.4h0.2v0.4h0.2v0.4h0.1V9
+				h-0.1v0.4h-0.2v0.4h-0.2v0.4H137v0.4h-0.2v0.4h-0.2v1h-0.4v-0.2h-0.2v-0.4h-0.2v-0.4h-0.2v-0.4h-0.2V9.4h0.2v0.4h0.2v0.4h0.2v0.4
+				h0.2v-0.4h0.2V9.8h0.2V9.4h0.2V9h0.2V8.6h0.2V8.3H137V7.9h-0.2V7.5h-0.7v0.4h0.4v0.4h-0.2v0.4h-0.2V9h-0.2V8.6h-0.2V8.3h-0.2V7.9
+				h-0.2V7.1z M135.3,8.6h0.2V9h-0.2V8.6z M137.7,9.8h0.1v0.4h-0.1V9.8z M137.3,10.5h0.2v0.4h0.2v0.4h0.1v0.6h-0.1v-0.2h-0.2v-0.4
+				h-0.2V10.5z M136.8,11.6h0.2v0.2h-0.2V11.6z"/>
+			<path fill="#C8313E" d="M139.5,0.4h-0.7v0.4h-0.2v0.4h-0.2v0.4h-0.2v0.4h-0.2v0.4h0.2v0.4h0.2V3h0.2v0.4h0.2v0.4h0.2v0.4h0.2V3.7
+				h0.2V3.4h0.2V3h0.2V2.6h0.2V2.2h0.2V1.9h-0.2V1.5h-0.2V1.1h-0.2V0.7h-0.2V0.4z M139.3,1.1H139v0.4h-0.2v0.4h-0.2v0.4h0.2v0.4h0.2
+				V3h0.2V2.6h0.2V2.2h0.2V1.9h-0.2V1.5h-0.2V1.1z M139.3,1.9H139v0.4h0.2V1.9z M140.4,0.7h-0.2v0.4h0.2V0.7z M140.4,3h-0.2v0.4h0.2
+				V3z M137.9,0.4h-0.1v0.8h0.1V0.4z M137.9,3h-0.1v0.8h0.1V3z M139.9,3.7h-0.2v0.4h-0.2v0.4h-0.2v0.4h0.2v0.4h0.2v0.4h0.2V5.3h0.2
+				V4.9h0.2V4.5h-0.2V4.1h-0.2V3.7z M139.9,4.5h-0.2v0.4h0.2V4.5z M138.6,3.7h-0.2v0.4h-0.2v0.4h-0.2v0.4h0.2v0.4h0.2v0.4h0.2V5.3
+				h0.2V4.9h0.2V4.5h-0.2V4.1h-0.2V3.7z M138.6,4.5h-0.2v0.4h0.2V4.5z M140.4,6h-0.2v0.4h0.2V6z M137.9,5.6h-0.1v0.8h0.1V5.6z"/>
+			<path fill="#C8313E" d="M140.4,7.1h-0.2V6.8h-0.2V6.4h-0.2V6h-0.2V5.6h-0.2V5.3H139v0.4h-0.2V6h-0.2v0.4h-0.2v0.4h-0.2v0.4h-0.2
+				v0.4h-0.1V9h0.1v0.4h0.2v0.4h0.2v0.4h0.2v0.4h0.2v0.4h0.2v1h0.4v-0.2h0.2v-0.4h0.2v-0.4h0.2v-0.4h0.2V9.4h-0.2v0.4h-0.2v0.4h-0.2
+				v0.4h-0.2v-0.4h-0.2V9.8H139V9.4h-0.2V9h-0.2V8.6h-0.2V8.3h0.2V7.9h0.2V7.5h0.7v0.4H139v0.4h0.2v0.4h0.2V9h0.2V8.6h0.2V8.3h0.2
+				V7.9h0.2V7.1z M140.4,8.6h-0.2V9h0.2V8.6z M137.9,9.8h-0.1v0.4h0.1V9.8z M138.4,10.5h-0.2v0.4h-0.2v0.4h-0.1v0.6h0.1v-0.2h0.2
+				v-0.4h0.2V10.5z M138.8,11.6h-0.2v0.2h0.2V11.6z"/>
+			<path fill="#C8313E" d="M136.2,23.3h0.7v-0.4h0.2v-0.4h0.2v-0.4h0.2v-0.4h0.2v-0.4h-0.2V21h-0.2v-0.4H137v-0.4h-0.2v-0.4h-0.2
+				v-0.4h-0.2v0.4h-0.2v0.4h-0.2v0.4h-0.2V21h-0.2v0.4h-0.2v0.4h0.2v0.4h0.2v0.4h0.2v0.4h0.2V23.3z M136.4,22.6h0.2v-0.4h0.2v-0.4
+				h0.2v-0.4h-0.2V21h-0.2v-0.4h-0.2V21h-0.2v0.4h-0.2v0.4h0.2v0.4h0.2V22.6z M136.4,21.8h0.2v-0.4h-0.2V21.8z M135.3,22.9h0.2v-0.4
+				h-0.2V22.9z M135.3,20.7h0.2v-0.4h-0.2V20.7z M137.7,23.3h0.1v-0.8h-0.1V23.3z M137.7,20.7h0.1v-0.8h-0.1V20.7z M135.7,19.9h0.2
+				v-0.4h0.2v-0.4h0.2v-0.4h-0.2v-0.4h-0.2V18h-0.2v0.4h-0.2v0.4h-0.2v0.4h0.2v0.4h0.2V19.9z M135.7,19.2h0.2v-0.4h-0.2V19.2z
+				 M137,19.9h0.2v-0.4h0.2v-0.4h0.2v-0.4h-0.2v-0.4h-0.2V18H137v0.4h-0.2v0.4h-0.2v0.4h0.2v0.4h0.2V19.9z M137,19.2h0.2v-0.4H137
+				V19.2z M135.3,17.7h0.2v-0.4h-0.2V17.7z M137.7,18h0.1v-0.8h-0.1V18z"/>
+			<path fill="#C8313E" d="M135.3,16.5h0.2v0.4h0.2v0.4h0.2v0.4h0.2V18h0.2v0.4h0.2V18h0.2v-0.4h0.2v-0.4h0.2v-0.4h0.2v-0.4h0.2
+				v-0.4h0.1v-1.5h-0.1v-0.4h-0.2v-0.4h-0.2v-0.4H137v-0.4h-0.2v-0.4h-0.2v-1h-0.4V12h-0.2v0.4h-0.2v0.4h-0.2v0.4h-0.2v1.1h0.2v-0.4
+				h0.2v-0.4h0.2v-0.4h0.2v0.4h0.2v0.4h0.2v0.4h0.2v0.4h0.2V15h0.2v0.4H137v0.4h-0.2v0.4h-0.7v-0.4h0.4v-0.4h-0.2V15h-0.2v-0.4h-0.2
+				V15h-0.2v0.4h-0.2v0.4h-0.2V16.5z M135.3,15h0.2v-0.4h-0.2V15z M137.7,13.9h0.1v-0.4h-0.1V13.9z M137.3,13.2h0.2v-0.4h0.2v-0.4
+				h0.1v-0.6h-0.1V12h-0.2v0.4h-0.2V13.2z M136.8,12h0.2v-0.2h-0.2V12z"/>
+			<path fill="#C8313E" d="M139.5,23.3h-0.7v-0.4h-0.2v-0.4h-0.2v-0.4h-0.2v-0.4h-0.2v-0.4h0.2V21h0.2v-0.4h0.2v-0.4h0.2v-0.4h0.2
+				v-0.4h0.2v0.4h0.2v0.4h0.2v0.4h0.2V21h0.2v0.4h0.2v0.4h-0.2v0.4h-0.2v0.4h-0.2v0.4h-0.2V23.3z M139.3,22.6H139v-0.4h-0.2v-0.4
+				h-0.2v-0.4h0.2V21h0.2v-0.4h0.2V21h0.2v0.4h0.2v0.4h-0.2v0.4h-0.2V22.6z M139.3,21.8H139v-0.4h0.2V21.8z M140.4,22.9h-0.2v-0.4
+				h0.2V22.9z M140.4,20.7h-0.2v-0.4h0.2V20.7z M137.9,23.3h-0.1v-0.8h0.1V23.3z M137.9,20.7h-0.1v-0.8h0.1V20.7z M139.9,19.9h-0.2
+				v-0.4h-0.2v-0.4h-0.2v-0.4h0.2v-0.4h0.2V18h0.2v0.4h0.2v0.4h0.2v0.4h-0.2v0.4h-0.2V19.9z M139.9,19.2h-0.2v-0.4h0.2V19.2z
+				 M138.6,19.9h-0.2v-0.4h-0.2v-0.4h-0.2v-0.4h0.2v-0.4h0.2V18h0.2v0.4h0.2v0.4h0.2v0.4h-0.2v0.4h-0.2V19.9z M138.6,19.2h-0.2v-0.4
+				h0.2V19.2z M140.4,17.7h-0.2v-0.4h0.2V17.7z M137.9,18h-0.1v-0.8h0.1V18z"/>
+			<path fill="#C8313E" d="M140.4,16.5h-0.2v0.4h-0.2v0.4h-0.2v0.4h-0.2V18h-0.2v0.4H139V18h-0.2v-0.4h-0.2v-0.4h-0.2v-0.4h-0.2
+				v-0.4h-0.2v-0.4h-0.1v-1.5h0.1v-0.4h0.2v-0.4h0.2v-0.4h0.2v-0.4h0.2v-0.4h0.2v-1h0.4V12h0.2v0.4h0.2v0.4h0.2v0.4h0.2v1.1h-0.2
+				v-0.4h-0.2v-0.4h-0.2v-0.4h-0.2v0.4h-0.2v0.4H139v0.4h-0.2v0.4h-0.2V15h-0.2v0.4h0.2v0.4h0.2v0.4h0.7v-0.4H139v-0.4h0.2V15h0.2
+				v-0.4h0.2V15h0.2v0.4h0.2v0.4h0.2V16.5z M140.4,15h-0.2v-0.4h0.2V15z M137.9,13.9h-0.1v-0.4h0.1V13.9z M138.4,13.2h-0.2v-0.4
+				h-0.2v-0.4h-0.1v-0.6h0.1V12h0.2v0.4h0.2V13.2z M138.8,12h-0.2v-0.2h0.2V12z"/>
+		</g>
+		
+			<use xlink:href="#XMLID_810_"  overflow="visible" fill="none" stroke="#BBBBBB" stroke-linejoin="round" stroke-miterlimit="10"/>
+	</g>
+</g>
+</svg>

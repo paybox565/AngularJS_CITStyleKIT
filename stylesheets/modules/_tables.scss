@@ -1,0 +1,324 @@
+.table {
+  $root-table: &;
+
+  width: 100%;
+  font-size: 13px;
+
+  &--sticky {
+
+    #{$root-table}__body {
+
+      #{$root-table}__row {
+
+        &:last-of-type {
+
+          #{$root-table}__cell {
+            padding-bottom: 30px;
+          }
+
+        }
+
+      }
+
+    }
+
+  }
+
+  &__wrap {
+    padding: 0 1px 1px 1px;
+
+    &--striped {
+
+      #{$root-table}__row {
+
+        &:nth-of-type(even) {
+
+          #{$root-table}__cell {
+            background-color: $hit-gray-15-op;
+
+            &--headline {
+              background-color: $hit-gray-15;
+            }
+          }
+        }
+
+      }
+
+    }
+
+    &--focused {
+
+      #{$root-table}__row {
+
+        &:hover {
+
+          #{$root-table}__cell:not(.table__cell--headline) {
+            background-color: $coconut-cream;
+            border-color: $galliano;
+          }
+        }
+
+      }
+    }
+
+    &--fix {
+      margin-left: 199px;
+      border-left: 1px solid $nero-19;
+
+      #{$root-table}__cell {
+
+        &:nth-of-type(2) {
+          background-image: linear-gradient(to right, rgba(255,255,255, 1) 50%, rgba(255,255,255, 0) 100%);
+          background-repeat: no-repeat;
+          background-size: 20px 100%;
+        }
+
+        &--fixed {
+          width: 200px;
+          position: absolute;
+          top: auto;
+          left: 1px;
+        }
+      }
+
+      #{$root-table}__row {
+        &:first-of-type {
+          #{$root-table}__cell {
+            &:nth-of-type(2), &:last-of-type {
+              background-image: none;
+            }
+          }
+        }
+      }
+    }
+
+    &--scroll {
+      overflow-y: hidden;
+      position: relative;
+
+      .sticky-wrap {
+        max-height: none;
+      }
+    }
+
+    &--toggle {
+
+      #{$root-table}__row {
+
+        #{$root-table}__cell:not(.table__cell--headline) {
+
+          &:first-of-type {
+            padding-left: 42px;
+            position: relative;
+          }
+        }
+
+        &--toggler {
+
+          &.active {
+
+            #{$root-table}__cell-toggler {
+              background: url("images/i-minus.svg") no-repeat 0 0 / 21px 21px;
+            }
+
+          }
+
+        }
+
+        &--toggled {
+
+          display: none;
+
+          &.active {
+            display: table-row;
+          }
+
+          #{$root-table}__cell:not(.table__cell--headline) {
+
+            &:first-of-type {
+
+              &:before {
+                content: '';
+                width: 5px;
+                height: 5px;
+                background-color: $nero;
+                border-radius: 50%;
+                position: absolute;
+                top: 18px;
+                left: 28px;
+              }
+            }
+          }
+
+        }
+
+      }
+
+    }
+  }
+
+  &__header {
+
+  }
+
+  &__body {
+
+    #{$root-table}__cell {
+
+      &--headline {
+
+        background-color: $white;
+        border-color: $hit-gray-40;
+        color: $nero;
+
+      }
+
+    }
+
+  }
+
+  &__cell {
+    vertical-align: top;
+    text-align: left;
+    padding: 10px;
+    border-bottom: 1px solid $hit-gray-40;
+
+    &--wide {
+      width: 31%
+    }
+    &--thin {
+      width: 19%
+    }
+
+    &:first-of-type {
+      padding-left: 22px;
+    }
+
+    &--headline {
+      background-color: $slate-gray;
+      font-weight: normal;
+      font-size: 13px;
+      color: $white;
+      border-right: 1px solid;
+      border-color: $slate-gray-80nop;
+      height: 67px;
+      background-clip: padding-box;
+      position: relative;
+      z-index: 7;
+
+      &:last-of-type {
+        border-right: 0;
+      }
+    }
+    &--sort {
+      padding-right: 30px;
+      cursor: pointer;
+
+      &:hover {
+        background: $slate-gray url(images/sort-arrows.png) no-repeat 96% center;
+      }
+    }
+
+  }
+  &__cell-toggler {
+    display: inline-block;
+    height: 21px;
+    width: 21px;
+    background: url("images/i-plus.svg") no-repeat 0 0 / 21px 21px;
+    cursor: pointer;
+    position: absolute;
+    left: 10px;
+    top: 15px;
+  }
+
+  &__scroll-stop {
+    min-height: 1px;
+  }
+
+  // responsive table
+  &--rtable {
+    display: block;
+    max-width: 100%;
+    overflow-x: auto;
+    // optional - enable iOS momentum scrolling
+    -webkit-overflow-scrolling: touch;
+
+    // scrolling shadows
+    background: radial-gradient(ellipse at left center, rgba(0,0,0, .2) 0%, rgba(0,0,0, 0) 75%) 0,
+    radial-gradient(ellipse at right center, rgba(0,0,0, .2) 0%, rgba(0,0,0, 0) 75%) 100%;
+    background-size: 10px 100%, 10px 100%;
+    background-attachment: scroll, scroll;
+    background-repeat: no-repeat;
+
+    #{$root-table}__cell {
+
+      min-width: 200px;
+
+      // change these gradients from white to your background colour if it differs
+      // gradient on the first cells to hide the left shadow
+      &:first-child {
+        background-image: linear-gradient(to right, rgba(255,255,255, 1) 50%, rgba(255,255,255, 0) 100%);
+        background-repeat: no-repeat;
+        background-size: 20px 100%;
+      }
+
+      // gradient on the last cells to hide the right shadow
+      &:last-child {
+        background-image: linear-gradient(to left, rgba(255,255,255, 1) 50%, rgba(255,255,255, 0) 100%);
+        background-repeat: no-repeat;
+        background-position: 100% 0;
+        background-size: 20px 100%;
+      }
+
+      &--med {
+        min-width: 270px;
+      }
+      &--thin {
+        min-width: 100px;
+      }
+
+    }
+
+    // remove shadow from top cells
+    #{$root-table}__row {
+      &:first-of-type {
+        #{$root-table}__cell {
+          &:first-of-type, &:last-of-type {
+            background-image: none;
+
+            &.table__cell--sort:hover {
+              background: $slate-gray url(images/sort-arrows.png) no-repeat 95% center;
+            }
+          }
+        }
+      }
+      &:nth-of-type(even) {
+
+        #{$root-table}__cell {
+          background-color: transparent;
+        }
+      }
+      &:hover {
+        border-color: $hit-gray-40;
+
+        #{$root-table}__cell:not(.table__cell--headline) {
+          background-color: transparent;
+        }
+      }
+    }
+  }
+
+  // three column
+  &--col-3 {
+
+    #{$root-table}__cell {
+      width: 40%;
+
+      &--thin {
+        width: 20%;
+      }
+    }
+  }
+
+
+}

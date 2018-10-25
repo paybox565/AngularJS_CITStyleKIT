@@ -1,0 +1,18 @@
+<div class="search-wrap">
+  <div class="code-example__wrap">
+    <div class="code-example__item" ng-repeat="element in elements">
+      <div class="container">
+        <div class="code-example__headline" ng-click="element.expanded = !element.expanded">
+          {{element.name}}
+          <div class="code-example__trigger">
+            HTML-code
+          </div>
+        </div>
+        <div class="code-example__content" ng-show="element.expanded">
+          <pre class="code-example__content-code" data-ng-bind="template(element.templateUrl)"></pre>
+        </div>
+      </div>
+      <div class="code-example__element" ng-include="element.templateUrl"></div>
+    </div>
+  </div>
+</div>

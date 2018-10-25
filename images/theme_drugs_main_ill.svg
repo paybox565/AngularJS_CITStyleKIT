@@ -1,0 +1,815 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.1" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 497.9 338.5"
+	 enable-background="new 0 0 497.9 338.5" xml:space="preserve">
+<metadata>
+	<sfw  xmlns="&ns_sfw;">
+		<slices></slices>
+		<sliceSourceBounds  width="533.2" height="384.4" y="-794" x="158.7" bottomLeftOrigin="true"></sliceSourceBounds>
+	</sfw>
+</metadata>
+<g>
+	<path fill="none" stroke="#74D2E8" stroke-miterlimit="10" d="M61.3,148.3V44c0-11.8,9.6-21.4,21.4-21.4h124"/>
+	<g>
+		<path fill="none" stroke="#74D2E8" stroke-miterlimit="10" d="M107.7,150c-3.3,22.4-22.6,39.6-45.9,39.6
+			c-25.6,0-46.4-20.8-46.4-46.4c0-22.4,15.8-41,36.9-45.4"/>
+		<path fill="none" stroke="#74D2E8" stroke-miterlimit="10" d="M70.2,97.6c18.8,3.4,33.6,18.2,37.2,36.9"/>
+	</g>
+	<circle fill="#74D2E8" stroke="#74D2E8" stroke-miterlimit="10" cx="354.2" cy="157.2" r="133.9"/>
+	<g>
+		<defs>
+			<ellipse id="XMLID_740_" cx="354.2" cy="157.2" rx="127.8" ry="127.8"/>
+		</defs>
+		<use xlink:href="#XMLID_740_"  overflow="visible" fill="#0C404C"/>
+		<clipPath id="XMLID_2_">
+			<use xlink:href="#XMLID_740_"  overflow="visible"/>
+		</clipPath>
+		<polygon clip-path="url(#XMLID_2_)" fill="#256877" stroke="#74D2E8" stroke-miterlimit="10" points="493.9,256.1 234,256.1 
+			234,300.5 518.6,300.5 		"/>
+		<circle clip-path="url(#XMLID_2_)" fill="#74D2E8" stroke="#74D2E8" stroke-miterlimit="10" cx="422.7" cy="99" r="86.2"/>
+		<use xlink:href="#XMLID_740_"  overflow="visible" fill="none" stroke="#74D2E8" stroke-miterlimit="10"/>
+	</g>
+	<g>
+		<g>
+			<circle fill="#FFFFFF" stroke="#74D2E8" stroke-miterlimit="10" cx="61.8" cy="143.2" r="40.2"/>
+			<g>
+				<defs>
+					
+						<ellipse id="XMLID_738_" transform="matrix(-1 -5.566200e-004 5.566200e-004 -1 123.6052 286.508)" cx="61.8" cy="143.2" rx="36.4" ry="36.5"/>
+				</defs>
+				<use xlink:href="#XMLID_738_"  overflow="visible" fill="#0C404C"/>
+				<clipPath id="XMLID_3_">
+					<use xlink:href="#XMLID_738_"  overflow="visible"/>
+				</clipPath>
+				<polygon clip-path="url(#XMLID_3_)" fill="#4092B0" stroke="#74D2E8" stroke-miterlimit="10" points="99.3,89.9 38.3,197.1 
+					116.9,197.1 116.9,90.1 				"/>
+				<use xlink:href="#XMLID_738_"  overflow="visible" fill="none" stroke="#74D2E8" stroke-miterlimit="10"/>
+			</g>
+		</g>
+		<g>
+			<path fill="#74D2E8" stroke="#74D2E8" stroke-miterlimit="10" d="M55.8,164c3,0,6-1,8.3-3l8-6.5l8-6.5c5.6-4.6,6.5-12.9,1.9-18.5
+				l-1.3-1.7c-2.5-3.1-6.2-4.9-10.2-4.9c-3,0-6,1-8.3,3l-8,6.5l-8,6.5c-5.6,4.6-6.5,12.9-1.9,18.5l1.3,1.7
+				C48.1,162.2,51.8,164,55.8,164L55.8,164z"/>
+			<g>
+				<path fill="#F4F4F4" stroke="#74D2E8" stroke-miterlimit="10" d="M77.5,143.5c3.4-2.8,3.9-7.7,1.1-11.1l-1.5-1.8
+					c-2.7-3.4-7.7-3.9-11.1-1.1l-8.7,7.1l11.4,14L77.5,143.5z"/>
+				<path fill="#0C404C" stroke="#74D2E8" stroke-miterlimit="10" d="M57.4,136.5l-8.7,7.1c-3.4,2.8-3.9,7.7-1.1,11.1l1.5,1.8
+					c2.7,3.4,7.7,3.9,11.1,1.1l8.7-7.1L57.4,136.5z"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<defs>
+					<path id="XMLID_737_" d="M59.7,274.7l-7.3-20.5l1.3-1.5l-0.2-19H41.2c-0.2-0.2-0.3-0.4-0.3-0.7l-1.1-22.9l-0.2-3.6
+						c0-0.7-0.6-1.3-1.3-1.3h-3.6h-7.2H25c-1.3,0-2.5,1.1-2.5,2.4l-0.1,2.5l-1.1,22.9c0,0.3-0.1,0.5-0.3,0.7H6.7l0.2,18.5l2.6,2.6
+						l-7,19.9c-1.2,3.7-1.9,7.6-1.9,11.5v47.1c0,2.4,2,4.4,4.4,4.4h52.3c2.4,0,4.4-2,4.4-4.4v-47.1
+						C61.6,282.3,60.9,278.4,59.7,274.7z"/>
+				</defs>
+				<use xlink:href="#XMLID_737_"  overflow="visible" fill="#F4F4F4"/>
+				<clipPath id="XMLID_4_">
+					<use xlink:href="#XMLID_737_"  overflow="visible"/>
+				</clipPath>
+				<polygon clip-path="url(#XMLID_4_)" fill="#98E6F9" stroke="#74D2E8" stroke-miterlimit="10" points="65.7,299 -12.6,337.7 
+					-2.1,342.9 64.7,341.6 				"/>
+				<use xlink:href="#XMLID_737_"  overflow="visible" fill="none" stroke="#74D2E8" stroke-miterlimit="10"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<defs>
+					<path id="XMLID_600_" d="M46,250H15.1l-8.5,25.2c-1,2.9-1.5,6-1.5,9v46.3c0,3.7,3,3.1,6.7,3.1h37.5c3.7,0,6.7,0.6,6.7-3.1
+						v-46.3c0-3.1-0.5-6.1-1.5-9L46,250z"/>
+				</defs>
+				<use xlink:href="#XMLID_600_"  overflow="visible" fill="#4092B0"/>
+				<clipPath id="XMLID_8_">
+					<use xlink:href="#XMLID_600_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#XMLID_8_)">
+					<defs>
+						<rect id="XMLID_601_" x="-4.7" y="287.3" width="77.2" height="36"/>
+					</defs>
+					<use xlink:href="#XMLID_601_"  overflow="visible" fill="#256877"/>
+					<clipPath id="XMLID_9_">
+						<use xlink:href="#XMLID_601_"  overflow="visible"/>
+					</clipPath>
+					
+						<rect x="2.3" y="291.9" clip-path="url(#XMLID_9_)" fill="#0C404C" stroke="#4092B0" stroke-miterlimit="10" width="58.2" height="27"/>
+					
+						<rect x="35.2" y="298.1" clip-path="url(#XMLID_9_)" fill="#358096" stroke="#70C0D6" stroke-miterlimit="10" width="14.3" height="14.7"/>
+					<use xlink:href="#XMLID_601_"  overflow="visible" fill="none" stroke="#4092B0" stroke-miterlimit="10"/>
+				</g>
+				<use xlink:href="#XMLID_600_"  overflow="visible" fill="none" stroke="#74D2E8" stroke-miterlimit="10"/>
+			</g>
+			<polygon fill="#256877" stroke="#74D2E8" stroke-miterlimit="10" points="35.5,237.8 34.1,208.9 26.9,208.9 25.5,237.8 
+				13.6,237.8 13.6,254.5 47.5,254.5 47.5,237.8 			"/>
+			<g>
+				<defs>
+					<rect id="XMLID_599_" x="11.2" y="240.7" width="38.7" height="9"/>
+				</defs>
+				<use xlink:href="#XMLID_599_"  overflow="visible" fill="#0C404C"/>
+				<clipPath id="XMLID_10_">
+					<use xlink:href="#XMLID_599_"  overflow="visible"/>
+				</clipPath>
+				<use xlink:href="#XMLID_599_"  overflow="visible" fill="none" stroke="#74D2E8" stroke-miterlimit="10"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<defs>
+			<path id="XMLID_598_" d="M323.8,169.2c3.1,0,5.6,2.5,5.6,5.5c3,0.3,5.2,2.9,5.2,5.9c0,1.7,0.7,3.4,2,4.5l5,4.3
+				c1.3,1.1,2,2.8,2,4.5v129.3c0,2.7-1.7,5.1-4.2,6c-0.6,0.2-1.2,0.3-1.8,0.3c-0.5,0-1-0.1-1.5-0.2c-3.6-0.8-16.3-3.4-38.9-3.7
+				c-0.8,0-1.6,0-2.4,0c-20.8,0-32.8,2.6-36.4,3.6c-0.5,0.1-1.1,0.2-1.7,0.2c-0.8,0-1.6-0.2-2.3-0.5c-2.2-1-3.6-3.2-3.6-5.8V193.9
+				c0-1.7,0.7-3.4,2-4.5l5-4.3c1.3-1.1,2-2.8,2-4.5c0-3,2.3-5.6,5.2-5.9c0.1-3.1,2.6-5.5,5.6-5.5H323.8 M323.8,162h-52.9
+				c-5.1,0-9.5,3-11.6,7.3c-3.8,2.2-6.3,6.2-6.5,10.8l-4.5,3.9c-2.9,2.5-4.5,6.1-4.5,9.9v129.3c0,5.2,3,10,7.8,12.3
+				c1.7,0.8,3.5,1.2,5.4,1.2c1.2,0,2.3-0.2,3.5-0.5c3-0.8,14.5-3.4,34.6-3.4c0.8,0,1.5,0,2.3,0c21.9,0.2,34.1,2.7,37.3,3.5
+				c1,0.2,2.1,0.4,3.1,0.4c1.5,0,2.9-0.3,4.3-0.8c5.3-2,8.9-7.1,8.9-12.7V193.9c0-3.8-1.6-7.4-4.5-9.9l-4.5-3.9
+				c-0.2-4.6-2.7-8.6-6.5-10.8C333.3,165,328.9,162,323.8,162L323.8,162z"/>
+		</defs>
+		<use xlink:href="#XMLID_598_"  overflow="visible" fill="#FFFFFF"/>
+		<clipPath id="XMLID_11_">
+			<use xlink:href="#XMLID_598_"  overflow="visible"/>
+		</clipPath>
+		<polygon clip-path="url(#XMLID_11_)" fill="#70C0D6" stroke="#74D2E8" stroke-miterlimit="10" points="357.4,349.5 234.1,349.5 
+			238.6,246.1 354,176.7 		"/>
+		<use xlink:href="#XMLID_598_"  overflow="visible" fill="none" stroke="#74D2E8" stroke-miterlimit="10"/>
+	</g>
+	<path fill="#4092B0" stroke="#74D2E8" stroke-miterlimit="10" d="M323.9,181.3h-53.2c-3,0-5.5-2.5-5.5-5.5v-1.1
+		c0-3,2.5-5.5,5.5-5.5h53.2c3,0,5.5,2.5,5.5,5.5v1.1C329.4,178.8,327,181.3,323.9,181.3z"/>
+	<g>
+		<defs>
+			<path id="XMLID_597_" d="M334.7,180.7L334.7,180.7c0-3.3-2.7-5.9-5.9-5.9h-62.8c-3.3,0-5.9,2.7-5.9,5.9l0,0c0,1.7-0.7,3.4-2,4.5
+				l-5,4.3c-1.3,1.1-2,2.8-2,4.5v129.3c0,2.5,1.5,4.7,3.6,5.8c1.2,0.6,2.6,0.6,3.9,0.3c3.8-1,16.6-3.8,38.9-3.6
+				c22.6,0.2,35.3,2.8,38.9,3.7c1.1,0.3,2.2,0.3,3.3-0.1c2.4-0.9,4.2-3.2,4.2-6V193.9c0-1.7-0.7-3.4-2-4.5l-5-4.3
+				C335.4,184,334.7,182.4,334.7,180.7z"/>
+		</defs>
+		<use xlink:href="#XMLID_597_"  overflow="visible" fill="#D2F7FF"/>
+		<clipPath id="XMLID_12_">
+			<use xlink:href="#XMLID_597_"  overflow="visible"/>
+		</clipPath>
+		<path clip-path="url(#XMLID_12_)" fill="#0C404C" stroke="#74D2E8" stroke-miterlimit="10" d="M335.4,324.9c0,0-17.6-4.1-37.8-3.9
+			s-38.3,3.9-38.3,3.9c-2.2,0-4-1.7-4-3.9c0,0,0.2-108.3,0.1-108.7c38.6-38.6,84.5,30.5,84.5,30.5l-0.5,78.1
+			C339.4,323.1,337.6,324.9,335.4,324.9z"/>
+		
+			<line clip-path="url(#XMLID_12_)" fill="none" stroke="#74D2E8" stroke-miterlimit="10" x1="280.3" y1="242.1" x2="273.5" y2="242.1"/>
+		
+			<line clip-path="url(#XMLID_12_)" fill="none" stroke="#74D2E8" stroke-miterlimit="10" x1="287" y1="238.6" x2="284.3" y2="238.6"/>
+		<use xlink:href="#XMLID_597_"  overflow="visible" fill="none" stroke="#74D2E8" stroke-miterlimit="10"/>
+	</g>
+	<g>
+		<path fill="#70C0D6" stroke="#74D2E8" stroke-miterlimit="10" d="M296.6,242.1c2.6-2.1,3-5.9,0.9-8.5l-1.1-1.4
+			c-2.1-2.6-5.9-3-8.5-0.9l-6.6,5.4l8.7,10.7L296.6,242.1z"/>
+		<path fill="#256877" stroke="#74D2E8" stroke-miterlimit="10" d="M281.2,236.7l-6.6,5.4c-2.6,2.1-3,5.9-0.9,8.5l1.1,1.4
+			c2.1,2.6,5.9,3,8.5,0.9l6.6-5.4L281.2,236.7z"/>
+	</g>
+	<g>
+		<path fill="#0C404C" stroke="#74D2E8" stroke-miterlimit="10" d="M301.5,276.5c2.6,0.7,5.2-0.8,5.9-3.3l0.4-1.4
+			c0.7-2.6-0.8-5.2-3.3-5.9l-6.5-1.8l-3,10.6L301.5,276.5z"/>
+		<path fill="#256877" stroke="#74D2E8" stroke-miterlimit="10" d="M298,264.1l-6.5-1.8c-2.6-0.7-5.2,0.8-5.9,3.3l-0.4,1.4
+			c-0.7,2.6,0.8,5.2,3.3,5.9l6.5,1.8L298,264.1z"/>
+	</g>
+	<g>
+		<path fill="#70C0D6" stroke="#74D2E8" stroke-miterlimit="10" d="M282,288.8c1.7-0.7,2.5-2.5,1.8-4.2l-0.3-0.9
+			c-0.7-1.7-2.5-2.5-4.2-1.8l-4.3,1.7l2.7,7L282,288.8z"/>
+		<path fill="#256877" stroke="#74D2E8" stroke-miterlimit="10" d="M275,283.6l-4.3,1.7c-1.7,0.7-2.5,2.5-1.8,4.2l0.3,0.9
+			c0.7,1.7,2.5,2.5,4.2,1.8l4.3-1.7L275,283.6z"/>
+	</g>
+	<g>
+		<path fill="#256877" stroke="#4092B0" stroke-miterlimit="10" d="M320.9,304.7c0.8,2.4,3.4,3.8,5.9,3l1.3-0.4
+			c2.4-0.8,3.8-3.4,3-5.9l-2-6.3l-10.1,3.3L320.9,304.7z"/>
+		<path fill="#D2F7FF" stroke="#4092B0" stroke-miterlimit="10" d="M328.9,295.1l-2-6.3c-0.8-2.4-3.4-3.8-5.9-3l-1.3,0.4
+			c-2.4,0.8-3.8,3.4-3,5.9l2,6.3L328.9,295.1z"/>
+	</g>
+	<g>
+		<path fill="#256877" stroke="#358096" stroke-miterlimit="10" d="M307.4,306.9c1.6-0.4,2.6-2.1,2.2-3.7l-0.2-0.9
+			c-0.4-1.6-2.1-2.6-3.7-2.1l-4.1,1.1l1.7,6.7L307.4,306.9z"/>
+		<path fill="#256877" stroke="#358096" stroke-miterlimit="10" d="M301.5,301.3l-4.1,1.1c-1.6,0.4-2.6,2.1-2.2,3.7l0.2,0.9
+			c0.4,1.6,2.1,2.6,3.7,2.1l4.1-1.1L301.5,301.3z"/>
+	</g>
+	<g>
+		<path fill="#256877" stroke="#74D2E8" stroke-miterlimit="10" d="M322.6,205.3c2.2,1.4,5,0.7,6.4-1.5l0.7-1.1
+			c1.4-2.2,0.7-5-1.5-6.4l-5.5-3.5l-5.6,9L322.6,205.3z"/>
+		<g>
+			<defs>
+				<path id="XMLID_596_" d="M322.6,192.9l-5.5-3.5c-2.2-1.4-5-0.7-6.4,1.5L310,192c-1.4,2.2-0.7,5,1.5,6.4l5.5,3.5L322.6,192.9z"/>
+			</defs>
+			<use xlink:href="#XMLID_596_"  overflow="visible" fill="#70C0D6"/>
+			<clipPath id="XMLID_13_">
+				<use xlink:href="#XMLID_596_"  overflow="visible"/>
+			</clipPath>
+			<use xlink:href="#XMLID_596_"  overflow="visible" fill="none" stroke="#74D2E8" stroke-miterlimit="10"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<g>
+					<defs>
+						<path id="XMLID_591_" d="M163.2,204.6l-34.4-2c-0.4-6.8-6.1-12.2-13.1-12.2H96.4c-7.2,0-13.1,5.9-13.1,13.1v23.6
+							c-2.9,0.5-5.1,3-5.1,6.1v6.8c0,3.4,2.8,6.2,6.2,6.2h0.4c-1.1,5.6-2.8,10.9-5.3,16.1c-5.1,10.6-7.7,22.2-7.7,34v36.2
+							c0,3,2.4,5.4,5.4,5.4h58.1c3,0,5.4-2.4,5.4-5.4v-36.2c0-11.8-2.6-23.4-7.7-34c-2.4-5.1-4.2-10.5-5.3-16.1h0.2
+							c3.4,0,6.2-2.8,6.2-6.2v-6.8c0-3.1-2.2-5.6-5.1-6.1v-2.9l34.3-1.6c3.3-0.2,5.9-2.9,5.9-6.2v-5.7
+							C169,207.5,166.4,204.8,163.2,204.6z"/>
+					</defs>
+					<use xlink:href="#XMLID_591_"  overflow="visible" fill="#F4F4F4"/>
+					<clipPath id="XMLID_14_">
+						<use xlink:href="#XMLID_591_"  overflow="visible"/>
+					</clipPath>
+					<polygon clip-path="url(#XMLID_14_)" fill="#74D2E8" stroke="#74D2E8" stroke-miterlimit="10" points="152.2,290.5 64.4,336.7 
+						70.6,342.1 150.5,342.6 					"/>
+					<use xlink:href="#XMLID_591_"  overflow="visible" fill="none" stroke="#74D2E8" stroke-miterlimit="10"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<g>
+					<defs>
+						<path id="XMLID_589_" d="M120.1,233.4v-27.3H92.1v27.3c0,10.9-2.4,21.6-7.1,31.4l0,0c-4.7,9.8-7.1,20.5-7.1,31.4V327
+							c0,4.5,3.7,4.6,8.2,4.6h40.1c4.5,0,8.2-0.1,8.2-4.6v-30.8c0-10.9-2.4-21.6-7.1-31.4l0,0C122.6,255,120.1,244.3,120.1,233.4z"
+							/>
+					</defs>
+					<use xlink:href="#XMLID_589_"  overflow="visible" fill="#0C404C"/>
+					<clipPath id="XMLID_15_">
+						<use xlink:href="#XMLID_589_"  overflow="visible"/>
+					</clipPath>
+					<g clip-path="url(#XMLID_15_)">
+						<defs>
+							<rect id="XMLID_590_" x="87.2" y="284.1" width="59.9" height="39.3"/>
+						</defs>
+						<use xlink:href="#XMLID_590_"  overflow="visible" fill="#256877"/>
+						<clipPath id="XMLID_16_">
+							<use xlink:href="#XMLID_590_"  overflow="visible"/>
+						</clipPath>
+						
+							<rect x="91.3" y="287.7" clip-path="url(#XMLID_16_)" fill="#4092B0" stroke="#70C0D6" stroke-miterlimit="10" width="59.5" height="31.5"/>
+						<g clip-path="url(#XMLID_16_)">
+							<rect x="99.5" y="296.1" fill="#256877" stroke="#4092B0" stroke-miterlimit="10" width="11.8" height="5.3"/>
+							<rect x="99.5" y="306.6" fill="#256877" stroke="#4092B0" stroke-miterlimit="10" width="30.6" height="4.6"/>
+						</g>
+						<use xlink:href="#XMLID_590_"  overflow="visible" fill="none" stroke="#4092B0" stroke-miterlimit="10"/>
+					</g>
+					
+						<circle clip-path="url(#XMLID_15_)" fill="#D2F7FF" stroke="#74D2E8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="110.8" cy="260.6" r="2.9"/>
+					
+						<circle clip-path="url(#XMLID_15_)" fill="#D2F7FF" stroke="#74D2E8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="119.6" cy="268.9" r="0.8"/>
+					
+						<use xlink:href="#XMLID_589_"  overflow="visible" fill="none" stroke="#74D2E8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10"/>
+				</g>
+				<g>
+					<polygon fill="#4092B0" stroke="#74D2E8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+						162.8,216.4 113.6,218.7 113.6,207.9 162.8,210.7 					"/>
+					<path fill="#358096" stroke="#74D2E8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M122.6,233.1
+						v-29.7c0-3.8-3.1-6.9-6.9-6.9H96.4c-3.8,0-6.9,3.1-6.9,6.9v29.7h-5.1v6.8h43.5v-6.8H122.6z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<ellipse fill="#98E6F9" stroke="#74D2E8" stroke-miterlimit="10" cx="472.7" cy="182.8" rx="24.6" ry="24.7"/>
+			<ellipse fill="#0C404C" stroke="#74D2E8" stroke-miterlimit="10" cx="472.6" cy="182.6" rx="20.9" ry="20.9"/>
+		</g>
+		<g>
+			<path fill="#74D2E8" stroke="#74D2E8" stroke-miterlimit="10" d="M475.9,171.9c-1.6,0-3.1,0.5-4.3,1.5l-4.2,3.4l-4.2,3.4
+				c-2.9,2.4-3.4,6.7-1,9.6l0.7,0.9c1.3,1.6,3.3,2.5,5.3,2.5c1.6,0,3.1-0.5,4.3-1.5l4.2-3.4l4.2-3.4c2.9-2.4,3.4-6.7,1-9.6l-0.7-0.9
+				C479.9,172.9,477.9,171.9,475.9,171.9L475.9,171.9z"/>
+			<g>
+				<path fill="#F4F4F4" stroke="#74D2E8" stroke-miterlimit="10" d="M464.6,182.6c-1.8,1.4-2,4-0.6,5.8l0.8,0.9
+					c1.4,1.8,4,2,5.8,0.6l4.5-3.7l-5.9-7.3L464.6,182.6z"/>
+				<path fill="#256877" stroke="#74D2E8" stroke-miterlimit="10" d="M475,186.3l4.5-3.7c1.8-1.4,2-4,0.6-5.8l-0.8-0.9
+					c-1.4-1.8-4-2-5.8-0.6l-4.5,3.7L475,186.3z"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<defs>
+					<path id="XMLID_588_" d="M404.6,223.7h-20c-4.1,0-7.5,2.7-8.6,6.4c-3.4,0.9-5.9,3.9-5.9,7.6v7.7c0,2.4,1.1,4.5,2.8,6v11.5
+						c0,3.9-1.4,7.8-3.9,10.8c-4,4.8-6.2,10.9-6.2,17.2v40.1c0,5.5,4.5,7.1,10,7.1h42.7c5.5,0,10-1.6,10-7.1v-40.1
+						c0-6.3-2.2-12.3-6.2-17.2c-2.5-3-3.9-6.9-3.9-10.8v-11.5c1.7-1.4,2.8-3.6,2.8-6v-7.7c0-3.4-2.2-6.3-5.2-7.4
+						C412.2,226.6,408.7,223.7,404.6,223.7L404.6,223.7z"/>
+				</defs>
+				<use xlink:href="#XMLID_588_"  overflow="visible" fill="#FFFFFF"/>
+				<clipPath id="XMLID_17_">
+					<use xlink:href="#XMLID_588_"  overflow="visible"/>
+				</clipPath>
+				<polygon clip-path="url(#XMLID_17_)" fill="#70C0D6" stroke="#74D2E8" stroke-miterlimit="10" points="438.9,283 356.5,325.4 
+					356.5,344.3 440,344.3 				"/>
+				<use xlink:href="#XMLID_588_"  overflow="visible" fill="none" stroke="#74D2E8" stroke-miterlimit="10"/>
+			</g>
+			<g>
+				<path fill="#256877" stroke="#74D2E8" stroke-miterlimit="10" d="M403.8,242.9h-18.4c-2.6,0-4.7-2.1-4.7-4.7v-4.8
+					c0-2.6,2.1-4.7,4.7-4.7h18.4c2.6,0,4.7,2.1,4.7,4.7v4.8C408.5,240.8,406.4,242.9,403.8,242.9z"/>
+				<g>
+					<defs>
+						<path id="XMLID_587_" d="M378,262.8c0,5.1-1.8,10-5,14v0c-3.2,3.9-5,8.9-5,14v37.5c0,2.5,2.1,4.6,4.6,4.6h43.3
+							c2.7,0,4.9-2.2,4.9-4.9v-37.3c0-5.1-1.8-10-5-14l0,0c-3.2-3.9-5-8.9-5-14V239l-32.7,0v21.5"/>
+					</defs>
+					<use xlink:href="#XMLID_587_"  overflow="visible" fill="#4092B0"/>
+					<clipPath id="XMLID_18_">
+						<use xlink:href="#XMLID_587_"  overflow="visible"/>
+					</clipPath>
+					<path clip-path="url(#XMLID_18_)" fill="#256877" stroke="#74D2E8" stroke-miterlimit="10" d="M376.2,294.4
+						c5.8,3.4,11.3,10.5,22.4,0.6c8.4-7.4,17.3-3,16.7,10C414.7,317.5,364.4,307.7,376.2,294.4z"/>
+					<path clip-path="url(#XMLID_18_)" fill="#256877" stroke="#74D2E8" stroke-miterlimit="10" d="M405.5,251.8h-21.2
+						c-1.7,0-3.2-1.4-3.2-3.2v-3.9c0-1.7,1.4-3.2,3.2-3.2h21.2c1.7,0,3.2,1.4,3.2,3.2v3.9C408.7,250.4,407.3,251.8,405.5,251.8z"/>
+					<path clip-path="url(#XMLID_18_)" fill="#0C404C" stroke="#74D2E8" stroke-miterlimit="10" d="M411.5,328.3h-34.4
+						c-2.1,0-3.8-1.7-3.8-3.8v-36.7c0,0,12.2,22.4,42.1,17.3c0-0.2,0,19.4,0,19.4C415.3,326.6,413.6,328.3,411.5,328.3z"/>
+					<use xlink:href="#XMLID_587_"  overflow="visible" fill="none" stroke="#74D2E8" stroke-miterlimit="10"/>
+				</g>
+				<path fill="#4092B0" stroke="#74D2E8" stroke-miterlimit="10" d="M410.1,248.2h-31.6c-1.8,0-3.3-1.5-3.3-3.3v-6.6
+					c0-1.8,1.5-3.3,3.3-3.3h31.6c1.8,0,3.3,1.5,3.3,3.3v6.6C413.4,246.7,411.9,248.2,410.1,248.2z"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<circle fill="#4092B0" stroke="#74D2E8" stroke-miterlimit="10" cx="61.4" cy="61.9" r="18.3"/>
+			
+				<ellipse transform="matrix(-5.525787e-004 1 -1 -5.525787e-004 123.3946 0.5654)" fill="#98E6F9" stroke="#74D2E8" stroke-miterlimit="10" cx="61.4" cy="61.9" rx="12.3" ry="12.3"/>
+		</g>
+		<g>
+			<path fill="#FFFFFF" stroke="#74D2E8" stroke-miterlimit="10" d="M53,64.3c1,3.7,4.4,6.4,8.5,6.4c4,0,7.4-2.7,8.5-6.4H53z"/>
+			<path fill="#256877" stroke="#74D2E8" stroke-miterlimit="10" d="M53,59.6h16.9c-1-3.7-4.4-6.4-8.5-6.4
+				C57.4,53.2,54,55.9,53,59.6z"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<circle fill="#4092B0" stroke="#74D2E8" stroke-miterlimit="10" cx="129.6" cy="27.8" r="27.3"/>
+			
+				<ellipse transform="matrix(-1 -5.525668e-004 5.525668e-004 -1 259.2068 55.7477)" fill="#98E6F9" stroke="#74D2E8" stroke-miterlimit="10" cx="129.6" cy="27.8" rx="18.5" ry="18.4"/>
+		</g>
+		<g>
+			<path fill="#FFFFFF" stroke="#74D2E8" stroke-miterlimit="10" d="M126.3,15.9c-5.2,1.5-9,6.2-9,11.9c0,5.7,3.8,10.4,9,11.9V15.9z
+				"/>
+			<path fill="#256877" stroke="#74D2E8" stroke-miterlimit="10" d="M132.9,15.9v23.8c5.2-1.5,9-6.2,9-11.9
+				C142,22.2,138.1,17.4,132.9,15.9z"/>
+		</g>
+	</g>
+	<g>
+		<path fill="#F4F4F4" stroke="#74D2E8" stroke-miterlimit="10" d="M141.9,185.9c1.4,0.9,2.9,1.9,4.3,2.8c-0.4-1.7-0.8-3.3-1.2-5
+			c-0.4-1.5-0.8-3.1-1.8-4.3c-1-1.2-2.9-1.8-4.2-0.9c-1.3,0.9-1.3,2.9-0.6,4.3C139.2,184.1,140.6,185,141.9,185.9z"/>
+		<path fill="#F4F4F4" stroke="#74D2E8" stroke-miterlimit="10" d="M148.8,181.1c2.3-0.1,4.1,2.7,3,4.7c-0.4,0.8-1.1,1.4-1.9,1.9
+			C149,185.7,148.6,183.4,148.8,181.1z"/>
+	</g>
+	<g>
+		<path fill="#0C404C" stroke="#74D2E8" stroke-miterlimit="10" d="M205.9,243.9V236c0-1.5,1.7-2.6,3.7-2.6h5c2.1,0,3.7,1.2,3.7,2.6
+			v7.9"/>
+		<path fill="#0C404C" stroke="#74D2E8" stroke-miterlimit="10" d="M215,253.5h-5.9c-1.7,0-3.1-1.4-3.1-3.1V247h12.1v3.5
+			C218.1,252.1,216.7,253.5,215,253.5z"/>
+		<path fill="#0C404C" stroke="#74D2E8" stroke-miterlimit="10" d="M223.2,255.7v-8.6c0-2-1.6-3.6-3.6-3.6h-14.7
+			c-2,0-3.6,1.6-3.6,3.6v8.6c0,2-1.6,3.6-3.6,3.6h0c-2,0-3.6,1.6-3.6,3.6v41.2c0,3.4,2.8,6.2,6.2,6.2h24c3.4,0,6.2-2.8,6.2-6.2
+			v-41.2c0-2-1.6-3.6-3.6-3.6l0,0C224.8,259.3,223.2,257.7,223.2,255.7z"/>
+		<g>
+			<defs>
+				<rect id="XMLID_585_" x="206.1" y="272.7" width="19.8" height="29.1"/>
+			</defs>
+			<use xlink:href="#XMLID_585_"  overflow="visible" fill="#0C404C"/>
+			<clipPath id="XMLID_19_">
+				<use xlink:href="#XMLID_585_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#XMLID_19_)">
+				<defs>
+					<rect id="XMLID_586_" x="210" y="276.5" width="12.8" height="21.7"/>
+				</defs>
+				<use xlink:href="#XMLID_586_"  overflow="visible" fill="#70C0D6"/>
+				<clipPath id="XMLID_20_">
+					<use xlink:href="#XMLID_586_"  overflow="visible"/>
+				</clipPath>
+				<polyline clip-path="url(#XMLID_20_)" fill="#358096" stroke="#74D2E8" stroke-miterlimit="10" points="202.6,321.5 
+					236.2,261.7 237.2,319 202.1,321.6 				"/>
+				<use xlink:href="#XMLID_586_"  overflow="visible" fill="none" stroke="#74D2E8" stroke-miterlimit="10"/>
+			</g>
+			<use xlink:href="#XMLID_585_"  overflow="visible" fill="none" stroke="#74D2E8" stroke-miterlimit="10"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<path fill="#537799" d="M175,245.8c-2.3,0.2-4.5,1.2-6.2,2.8l-15.3,14.6c-4,3.9-4.2,10.3-0.3,14.3l1.5,1.6
+				c2.1,2.2,5.1,3.3,8.2,3.1c2.3-0.2,4.5-1.2,6.2-2.8l15.3-14.6c4-3.9,4.2-10.3,0.3-14.3l-1.5-1.6
+				C181.1,246.7,178.1,245.6,175,245.8L175,245.8z"/>
+			<path fill="#537799" d="M182.5,262.9c3-2.9,3.1-7.6,0.2-10.6l-1.5-1.6c-2.9-3-7.6-3.1-10.6-0.2l-7.6,7.3l11.8,12.3L182.5,262.9z"
+				/>
+			<g>
+				<defs>
+					<path id="XMLID_7_" d="M163.1,257.9l-7.6,7.3c-3,2.9-3.1,7.6-0.2,10.6l1.5,1.6c2.8,3,7.6,3.1,10.6,0.2l7.6-7.3L163.1,257.9z"/>
+				</defs>
+				<clipPath id="XMLID_21_">
+					<use xlink:href="#XMLID_7_"  overflow="visible"/>
+				</clipPath>
+			</g>
+		</g>
+		<g>
+			<path fill="#74D2E8" stroke="#4092B0" stroke-miterlimit="10" d="M175,245.8c-2.3,0.2-4.5,1.2-6.2,2.8l-15.3,14.6
+				c-4,3.9-4.2,10.3-0.3,14.3l1.5,1.6c2.1,2.2,5.1,3.3,8.2,3.1c2.3-0.2,4.5-1.2,6.2-2.8l15.3-14.6c4-3.9,4.2-10.3,0.3-14.3l-1.5-1.6
+				C181.1,246.7,178.1,245.6,175,245.8L175,245.8z"/>
+			<path fill="#FFFFFF" stroke="#4092B0" stroke-miterlimit="10" d="M182.5,262.9c3-2.9,3.1-7.6,0.2-10.6l-1.5-1.6
+				c-2.9-3-7.6-3.1-10.6-0.2l-7.6,7.3l11.8,12.3L182.5,262.9z"/>
+			<g>
+				<defs>
+					<path id="XMLID_6_" d="M163.1,257.9l-7.6,7.3c-3,2.9-3.1,7.6-0.2,10.6l1.5,1.6c2.8,3,7.6,3.1,10.6,0.2l7.6-7.3L163.1,257.9z"/>
+				</defs>
+				<use xlink:href="#XMLID_6_"  overflow="visible" fill="#358096"/>
+				<clipPath id="XMLID_22_">
+					<use xlink:href="#XMLID_6_"  overflow="visible"/>
+				</clipPath>
+				<use xlink:href="#XMLID_6_"  overflow="visible" fill="none" stroke="#4092B0" stroke-miterlimit="10"/>
+			</g>
+		</g>
+		<g>
+			<path fill="none" stroke="#74D2E8" stroke-miterlimit="10" d="M175,245.8c-2.3,0.2-4.5,1.2-6.2,2.8l-15.3,14.6
+				c-4,3.9-4.2,10.3-0.3,14.3l1.5,1.6c2.1,2.2,5.1,3.3,8.2,3.1c2.3-0.2,4.5-1.2,6.2-2.8l15.3-14.6c4-3.9,4.2-10.3,0.3-14.3l-1.5-1.6
+				C181.1,246.7,178.1,245.6,175,245.8L175,245.8z"/>
+			<path fill="none" stroke="#74D2E8" stroke-miterlimit="10" d="M182.5,262.9c3-2.9,3.1-7.6,0.2-10.6l-1.5-1.6
+				c-2.9-3-7.6-3.1-10.6-0.2l-7.6,7.3l11.8,12.3L182.5,262.9z"/>
+			<g>
+				<defs>
+					<path id="XMLID_5_" d="M163.1,257.9l-7.6,7.3c-3,2.9-3.1,7.6-0.2,10.6l1.5,1.6c2.8,3,7.6,3.1,10.6,0.2l7.6-7.3L163.1,257.9z"/>
+				</defs>
+				<clipPath id="XMLID_23_">
+					<use xlink:href="#XMLID_5_"  overflow="visible"/>
+				</clipPath>
+			</g>
+		</g>
+	</g>
+	<g>
+		<defs>
+			<rect id="XMLID_556_" x="173" y="315.6" width="59" height="11.8"/>
+		</defs>
+		<use xlink:href="#XMLID_556_"  overflow="visible" fill="#0C404C"/>
+		<clipPath id="XMLID_24_">
+			<use xlink:href="#XMLID_556_"  overflow="visible"/>
+		</clipPath>
+		<polygon clip-path="url(#XMLID_24_)" fill="#0C404C" stroke="#74D2E8" stroke-miterlimit="10" points="243.6,252 188.7,344.1 
+			240.3,344.1 		"/>
+		<use xlink:href="#XMLID_556_"  overflow="visible" fill="none" stroke="#74D2E8" stroke-miterlimit="10"/>
+	</g>
+	<line fill="none" stroke="#74D2E8" stroke-miterlimit="10" x1="98" y1="143.5" x2="376" y2="143.5"/>
+	<g>
+		<g>
+			<path fill="#98E6F9" stroke="#74D2E8" stroke-miterlimit="10" d="M426.2,75.1l-0.5,113.7c0,3.5-2.8,6.3-6.3,6.3l-47.1-0.1
+				c-3.5,0-6.3-2.8-6.3-6.3L366.5,75c0-3.5,2.8-6.3,6.3-6.3l47.1,0.1C423.4,68.8,426.2,71.6,426.2,75.1z"/>
+			<path fill="#4092B0" stroke="#74D2E8" stroke-miterlimit="10" d="M423.6,76.6l-0.5,110.6c0,2.5-2.1,4.6-4.6,4.6l-45.3-0.1
+				c-2.5,0-4.6-2.1-4.6-4.6l0.5-110.6c0-2.5,2.1-4.6,4.6-4.6L419,72C421.5,72,423.6,74.1,423.6,76.6z"/>
+		</g>
+		<g>
+			<g>
+				<g>
+					<path fill="#D2F7FF" stroke="#74D2E8" stroke-miterlimit="10" d="M376.9,173.1c0.5,3.7,3.7,6.6,7.6,6.6c3.9,0,7.1-2.9,7.6-6.6
+						L376.9,173.1z"/>
+					<path fill="#D2F7FF" stroke="#74D2E8" stroke-miterlimit="10" d="M376.9,171.2l15.2,0c-0.5-3.8-3.7-6.7-7.6-6.8
+						C380.6,164.5,377.3,167.4,376.9,171.2z"/>
+				</g>
+				<g>
+					<path fill="#F4F4F4" stroke="#74D2E8" stroke-miterlimit="10" d="M400.5,173.2c0.5,3.7,3.7,6.6,7.6,6.6c3.9,0,7.1-2.9,7.6-6.6
+						L400.5,173.2z"/>
+					<path fill="#F4F4F4" stroke="#74D2E8" stroke-miterlimit="10" d="M400.5,171.2l15.2,0c-0.5-3.8-3.7-6.7-7.6-6.8
+						C404.1,164.5,400.9,167.4,400.5,171.2z"/>
+				</g>
+			</g>
+			<g>
+				<g>
+					<path fill="#F4F4F4" stroke="#74D2E8" stroke-miterlimit="10" d="M376.9,152.5c0.5,3.7,3.7,6.6,7.6,6.6c3.9,0,7.1-2.9,7.6-6.6
+						L376.9,152.5z"/>
+					<path fill="#F4F4F4" stroke="#74D2E8" stroke-miterlimit="10" d="M376.9,150.5l15.2,0c-0.5-3.8-3.7-6.7-7.6-6.8
+						C380.6,143.8,377.4,146.7,376.9,150.5z"/>
+				</g>
+				<g>
+					<path fill="#F4F4F4" stroke="#74D2E8" stroke-miterlimit="10" d="M400.5,152.5c0.5,3.7,3.7,6.6,7.6,6.6c3.9,0,7.1-2.9,7.6-6.6
+						L400.5,152.5z"/>
+					<path fill="#0C404C" stroke="#74D2E8" stroke-miterlimit="10" d="M400.5,150.5l15.2,0c-0.5-3.8-3.7-6.7-7.6-6.8
+						C404.2,143.8,400.9,146.7,400.5,150.5z"/>
+				</g>
+			</g>
+			<g>
+				<g>
+					<path fill="#74D2E8" stroke="#74D2E8" stroke-miterlimit="10" d="M376.9,131.8c0.5,3.7,3.7,6.6,7.6,6.6c3.9,0,7.1-2.9,7.6-6.6
+						L376.9,131.8z"/>
+					<path fill="#F4F4F4" stroke="#74D2E8" stroke-miterlimit="10" d="M376.9,129.8l15.2,0c-0.5-3.8-3.7-6.7-7.6-6.8
+						C380.6,123.1,377.4,126,376.9,129.8z"/>
+				</g>
+				<g>
+					<path fill="#0C404C" stroke="#74D2E8" stroke-miterlimit="10" d="M400.5,131.8c0.5,3.7,3.7,6.6,7.6,6.6c3.9,0,7.1-2.9,7.6-6.6
+						L400.5,131.8z"/>
+					<path fill="#0C404C" stroke="#74D2E8" stroke-miterlimit="10" d="M400.5,129.8l15.2,0c-0.5-3.8-3.7-6.7-7.6-6.8
+						C404.2,123.1,401,126,400.5,129.8z"/>
+				</g>
+			</g>
+			<g>
+				<g>
+					<path fill="#F4F4F4" stroke="#74D2E8" stroke-miterlimit="10" d="M377,111.1c0.5,3.7,3.7,6.6,7.6,6.6c3.9,0,7.1-2.9,7.6-6.6
+						L377,111.1z"/>
+					<path fill="#0C404C" stroke="#74D2E8" stroke-miterlimit="10" d="M376.9,109.1l15.2,0c-0.5-3.8-3.7-6.7-7.6-6.8
+						C380.6,102.4,377.4,105.3,376.9,109.1z"/>
+				</g>
+				<g>
+					<path fill="#F4F4F4" stroke="#74D2E8" stroke-miterlimit="10" d="M400.5,111.1c0.5,3.7,3.7,6.6,7.6,6.6c3.9,0,7.1-2.9,7.6-6.6
+						L400.5,111.1z"/>
+					<path fill="#F4F4F4" stroke="#74D2E8" stroke-miterlimit="10" d="M400.5,109.2l15.2,0c-0.5-3.8-3.7-6.7-7.6-6.8
+						C404.2,102.4,401,105.4,400.5,109.2z"/>
+				</g>
+			</g>
+			<g>
+				<g>
+					<path fill="#F4F4F4" stroke="#74D2E8" stroke-miterlimit="10" d="M377,90.4c0.5,3.7,3.7,6.6,7.6,6.6s7.1-2.9,7.6-6.6L377,90.4z
+						"/>
+					<path fill="#F4F4F4" stroke="#74D2E8" stroke-miterlimit="10" d="M377,88.4l15.2,0c-0.5-3.8-3.7-6.7-7.6-6.8
+						C380.7,81.7,377.4,84.6,377,88.4z"/>
+				</g>
+				<g>
+					<path fill="#F4F4F4" stroke="#74D2E8" stroke-miterlimit="10" d="M400.6,90.4c0.5,3.7,3.7,6.6,7.6,6.6c3.9,0,7.1-2.9,7.6-6.6
+						L400.6,90.4z"/>
+					<path fill="#F4F4F4" stroke="#74D2E8" stroke-miterlimit="10" d="M400.5,88.5l15.2,0c-0.5-3.8-3.7-6.7-7.6-6.8
+						C404.2,81.7,401,84.7,400.5,88.5z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g>
+		<path fill="#FFFFFF" stroke="#74D2E8" stroke-miterlimit="10" d="M198,177.8l-46.6-48.5c-7.4-7.7-7.2-20,0.5-27.4l92-88.5
+			c7.7-7.4,20-7.2,27.4,0.5L318,62.5c7.4,7.7,7.2,20-0.5,27.4l-92,88.5C217.7,185.8,205.4,185.5,198,177.8z"/>
+		<g>
+			<defs>
+				<path id="XMLID_581_" d="M200.3,176.2L153,127c-6.1-6.4-5.9-16.5,0.4-22.6l93-89.4c6.4-6.1,16.5-5.9,22.6,0.4l47.3,49.2
+					c6.1,6.4,5.9,16.5-0.4,22.6l-93,89.4C216.6,182.8,206.4,182.6,200.3,176.2z"/>
+			</defs>
+			<use xlink:href="#XMLID_581_"  overflow="visible" fill="#74D2E8"/>
+			<clipPath id="XMLID_25_">
+				<use xlink:href="#XMLID_581_"  overflow="visible"/>
+			</clipPath>
+			<path clip-path="url(#XMLID_25_)" fill="#FFFFFF" stroke="#74D2E8" stroke-miterlimit="10" d="M297.9,74c-0.5,0.3-1,0.6-1.3,1.1
+				c-0.4,0.9,0.5,1.8,1.2,2.5c0.9,0.7,1.7,1.5,2.6,2.2c0.5,0.2,1-0.3,1.4-0.7c0.6-0.7,1.3-1.3,1.7-2.1c0.4-0.8,0.7-1.8,0.4-2.6
+				c-0.1-0.3-0.2-0.6-0.4-0.9c-0.7-1.2-1.6-2.2-2.7-3C300.3,71.9,299.3,73.1,297.9,74z"/>
+			<path clip-path="url(#XMLID_25_)" fill="#FFFFFF" stroke="#74D2E8" stroke-miterlimit="10" d="M305,70.8c0.5,0.2,1.1,0.3,1.5,0
+				c0.5-0.3,0.8-0.9,0.9-1.5c0.1-0.5,0.3-1,0.1-1.5c-0.2-0.5-0.8-0.8-1.3-0.8c-0.6,0-1.1,0.2-1.6,0.5c-0.4,0.2-0.8,0.5-1,0.9
+				C303.1,69.3,304,70.4,305,70.8z"/>
+			<path clip-path="url(#XMLID_25_)" fill="#FFFFFF" stroke="#74D2E8" stroke-miterlimit="10" d="M300.1,66.3c0.7,0.5,1.7,0.5,2.4,0
+				c0.7-0.5,1-1.5,0.7-2.3c-0.7,0.1-1.4,0.2-2.1,0.4c-0.4,0.1-0.7,0.2-1,0.5s-0.4,0.7-0.3,1C299.9,66.1,300,66.2,300.1,66.3z"/>
+			<path clip-path="url(#XMLID_25_)" fill="#FFFFFF" stroke="#74D2E8" stroke-miterlimit="10" d="M300.2,60.3c-0.6,0-1.2,0-1.7,0.3
+				c-0.5,0.3-0.8,1-0.4,1.5c0.6,0.2,1.2,0.2,1.7-0.2C300.4,61.5,300.6,60.8,300.2,60.3z"/>
+			<path clip-path="url(#XMLID_25_)" fill="#FFFFFF" stroke="#74D2E8" stroke-miterlimit="10" d="M296.2,55.7
+				c-0.3-0.2-0.7-0.1-1,0.1c-0.2,0.3-0.2,0.7,0,1c0.4,0,0.8-0.1,1.1-0.3c0.3-0.2,0.4-0.7,0.1-1"/>
+			<path clip-path="url(#XMLID_25_)" fill="#FFFFFF" stroke="#74D2E8" stroke-miterlimit="10" d="M291.6,49.4
+				c-0.1,0-0.2,0.1-0.3,0.1"/>
+			<path clip-path="url(#XMLID_25_)" fill="#FFFFFF" stroke="#74D2E8" stroke-miterlimit="10" d="M305.7,63.1
+				c-0.2,0.1-0.4,0.3-0.6,0.6c-0.1,0.3-0.1,0.6,0.1,0.8c0.9,0,1.8-0.1,2.6-0.4c0.4-0.4,0.1-1.2-0.5-1.4
+				C306.9,62.5,306.2,62.7,305.7,63.1z"/>
+			<path clip-path="url(#XMLID_25_)" fill="#FFFFFF" stroke="#74D2E8" stroke-miterlimit="10" d="M302.7,59.8c0.4,0.1,0.9,0,1.2-0.3
+				c0.3-0.3,0.3-0.8,0.1-1.2c-0.4,0-0.9,0.1-1.2,0.4C302.5,58.9,302.4,59.5,302.7,59.8z"/>
+			<path clip-path="url(#XMLID_25_)" fill="#FFFFFF" stroke="#74D2E8" stroke-miterlimit="10" d="M300.6,54.9c0,0.2-0.3,0.3-0.4,0.1
+				c-0.1-0.2,0.2-0.4,0.4-0.3"/>
+			<path clip-path="url(#XMLID_25_)" fill="#FFFFFF" stroke="#74D2E8" stroke-miterlimit="10" d="M311.1,67.3
+				c-0.4-0.1-0.8,0-1.2,0.1c-0.1,0.4,0,0.8,0.1,1.1c0.5,0,0.9,0,1.3-0.3c0.4-0.2,0.6-0.8,0.4-1.2"/>
+			<path clip-path="url(#XMLID_25_)" fill="#FFFFFF" stroke="#74D2E8" stroke-miterlimit="10" d="M312.2,71.2c-0.2,0-0.4,0-0.6,0
+				c0.3,0.1,0.6,0.1,0.9-0.1"/>
+			<path clip-path="url(#XMLID_25_)" fill="#FFFFFF" stroke="#74D2E8" stroke-miterlimit="10" d="M310.5,77.7c0,0.1-0.1,0.1-0.1,0.2
+				"/>
+			<path clip-path="url(#XMLID_25_)" fill="#FFFFFF" stroke="#74D2E8" stroke-miterlimit="10" d="M310.9,82c-0.2,0-0.3,0.1-0.5,0.1"
+				/>
+			<path clip-path="url(#XMLID_25_)" fill="#FFFFFF" stroke="#74D2E8" stroke-miterlimit="10" d="M291.6,78.1c0.3,0,0.6,0,0.8-0.1
+				c0.5-0.2,0.8-0.8,0.8-1.4c0-0.6-0.2-1.1-0.5-1.6c-1.4-0.1-2.8-0.1-4.2,0.1c-0.2,0.7-0.1,1.4,0.2,2.1
+				C289.6,77.7,290.6,78,291.6,78.1z"/>
+			<path clip-path="url(#XMLID_25_)" fill="#FFFFFF" stroke="#74D2E8" stroke-miterlimit="10" d="M294.5,82.4c0.4,0,0.8-0.1,1.1-0.3
+				s0.5-0.6,0.4-1c-0.1-0.4-0.5-0.6-0.9-0.6c-0.4,0-0.7,0.1-1.1,0.2c-0.3,0.5-0.5,1.3,0,1.6C294.2,82.4,294.3,82.4,294.5,82.4z"/>
+			<path clip-path="url(#XMLID_25_)" fill="#FFFFFF" stroke="#74D2E8" stroke-miterlimit="10" d="M299.6,85c0,0.1,0,0.1,0,0.2"/>
+			
+				<path clip-path="url(#XMLID_25_)" fill="#FFFFFF" stroke="#74D2E8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+				M167,97.8c-0.4-0.1-0.8,0.1-1,0.4s-0.2,0.8,0.1,1.1c0.3-0.1,0.5-0.1,0.8-0.2c0.1-0.3,0.2-0.6,0.3-0.9"/>
+			
+				<path clip-path="url(#XMLID_25_)" fill="#FFFFFF" stroke="#74D2E8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+				M177.7,114.4c-0.3,0-0.7,0.1-1,0.1c0.1,0.2,0.1,0.4,0.2,0.7c0.4-0.1,0.8-0.3,1-0.7"/>
+			
+				<path clip-path="url(#XMLID_25_)" fill="#FFFFFF" stroke="#74D2E8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+				M184,115.7c-0.1,0-0.2,0.1-0.3,0.1"/>
+			
+				<path clip-path="url(#XMLID_25_)" fill="#FFFFFF" stroke="#74D2E8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+				M182.8,83.2c-0.2,0-0.3,0.4-0.2,0.5c0.4,0,0.8-0.3,0.8-0.7"/>
+			
+				<path clip-path="url(#XMLID_25_)" fill="#FFFFFF" stroke="#74D2E8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+				M188.5,84.4c-0.2,0-0.4,0-0.5,0c0,0.2,0.2,0.3,0.4,0.3c0.2,0,0.3-0.2,0.5-0.3"/>
+			
+				<path clip-path="url(#XMLID_25_)" fill="#FFFFFF" stroke="#74D2E8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+				M194,81.4c-0.9,0.7-1.7,1.5-2.6,2.2"/>
+			
+				<path clip-path="url(#XMLID_25_)" fill="#FFFFFF" stroke="#74D2E8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+				M168.4,116.6c-0.3,0.1-0.7,0.2-1,0.3c-0.1,0.5,0,1,0.3,1.3c0.7,0,1.4-0.8,1.2-1.5"/>
+			
+				<path clip-path="url(#XMLID_25_)" fill="#FFFFFF" stroke="#74D2E8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+				M199.5,117.6c-0.1,0.1-0.2,0.3-0.2,0.4c0.2,0,0.3-0.1,0.5-0.1"/>
+			
+				<path clip-path="url(#XMLID_25_)" fill="#FFFFFF" stroke="#74D2E8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+				M204.5,114.1c0.6-0.2,1.3-0.2,1.9-0.2"/>
+			
+				<path clip-path="url(#XMLID_25_)" fill="#FFFFFF" stroke="#74D2E8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+				M203.8,133.4c-0.3-0.2-0.7-0.2-1,0.1c-0.2,0.3-0.2,0.7,0.1,1c0.3-0.1,0.5-0.2,0.8-0.3"/>
+			
+				<path clip-path="url(#XMLID_25_)" fill="#FFFFFF" stroke="#74D2E8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+				M206.2,137.5c0.2,0.1,0.4,0.2,0.6,0.4"/>
+			
+				<path clip-path="url(#XMLID_25_)" fill="#FFFFFF" stroke="#74D2E8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+				M211.7,142.4c0.5,0.5,1.1,1,1.6,1.5"/>
+			
+				<path clip-path="url(#XMLID_25_)" fill="#FFFFFF" stroke="#74D2E8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+				M196.2,73.5c-0.2,0-0.3,0.1-0.5,0.1"/>
+			
+				<path clip-path="url(#XMLID_25_)" fill="#FFFFFF" stroke="#74D2E8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+				M210.3,170.3c0.1,0.1,0.2,0.3,0.3,0.4"/>
+			
+				<path clip-path="url(#XMLID_25_)" fill="#FFFFFF" stroke="#74D2E8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+				M217.5,174.1c-0.2,0.2-0.4,0.3-0.6,0.5"/>
+			
+				<path clip-path="url(#XMLID_25_)" fill="#FFFFFF" stroke="#74D2E8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+				M169.6,136.3c0.2-0.1,0.2-0.4,0-0.5"/>
+			
+				<path clip-path="url(#XMLID_25_)" fill="#FFFFFF" stroke="#74D2E8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+				M169.2,132.6c-0.2,0-0.4,0-0.5,0"/>
+			
+				<path clip-path="url(#XMLID_25_)" fill="#FFFFFF" stroke="#74D2E8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+				M252.9,131.4c-0.3-0.4-0.8-0.6-1.2-0.7c-1.5-0.4-3-0.6-4.5-0.5c1.1,0.9,1.9,2.1,2.4,3.4c0.1,0.2,0.2,0.5,0.4,0.7
+				c0.5,0.5,1.4,0.2,2-0.3C252.7,133.3,253.4,132.2,252.9,131.4z"/>
+			
+				<path clip-path="url(#XMLID_25_)" fill="#FFFFFF" stroke="#74D2E8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+				M252,128c0.5-0.1,1-0.3,1.3-0.7c0.3-0.4,0.3-1-0.1-1.3c-0.2-0.1-0.5-0.2-0.7-0.2c-1.2,0-2.4,0.2-3.6,0.6
+				c-0.2,0.6-0.2,1.2,0.1,1.7C249.9,128.3,251,128.3,252,128z"/>
+			
+				<path clip-path="url(#XMLID_25_)" fill="#FFFFFF" stroke="#74D2E8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+				M253.8,121.2c-0.5,0-0.9,0.1-1.3,0.3c-0.4,0.2-0.7,0.6-0.7,1.1c0.1,0.7,1.1,1,1.7,0.6C254,122.8,254.1,121.9,253.8,121.2z"/>
+			
+				<path clip-path="url(#XMLID_25_)" fill="#FFFFFF" stroke="#74D2E8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+				M256.4,117.1c0.1,0.3,0.1,0.6,0.2,0.8"/>
+			
+				<path clip-path="url(#XMLID_25_)" fill="#FFFFFF" stroke="#74D2E8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+				M257.5,129.8c-0.5-0.3-1.1-0.5-1.7-0.3s-1.1,0.7-1,1.3c0.1,0.2,0.2,0.5,0.4,0.7c0.5,0.8,0.8,1.7,0.9,2.6c0.8-0.1,1.6-0.3,2.2-0.8
+				c0.6-0.5,0.9-1.4,0.7-2.1C258.7,130.4,258.1,130,257.5,129.8z"/>
+			
+				<path clip-path="url(#XMLID_25_)" fill="#FFFFFF" stroke="#74D2E8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+				M257.8,125.6c-0.4-0.1-1,0-1.3,0.3c-0.1,0.3,0.2,0.7,0.6,0.7c0.7,0.1,1.4-0.7,1.2-1.4"/>
+			
+				<path clip-path="url(#XMLID_25_)" fill="#FFFFFF" stroke="#74D2E8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+				M262.6,126.7c-0.2,0-0.2,0.3-0.1,0.3"/>
+			
+				<path clip-path="url(#XMLID_25_)" fill="#FFFFFF" stroke="#74D2E8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+				M268.2,124.4c0.5-0.1,1-0.2,1.5-0.4"/>
+			<circle clip-path="url(#XMLID_25_)" fill="#0C404C" stroke="#74D2E8" stroke-miterlimit="10" cx="368" cy="92.8" r="126.6"/>
+			<use xlink:href="#XMLID_581_"  overflow="visible" fill="none" stroke="#74D2E8" stroke-miterlimit="10"/>
+		</g>
+		<g>
+			<g>
+				<g>
+					<path fill="#4092B0" stroke="#74D2E8" stroke-miterlimit="10" d="M262.3,68.1c2.2,2.3,5.4,2.8,7.2,1.1l1-0.9
+						c1.8-1.7,1.5-4.9-0.6-7.2l-6.1-6.5l-7.5,7L262.3,68.1z"/>
+					<path fill="#256877" stroke="#74D2E8" stroke-miterlimit="10" d="M263.7,54.6l-6.1-6.5c-2.2-2.3-5.4-2.8-7.2-1.1l-1,0.9
+						c-1.8,1.7-1.5,4.9,0.6,7.2l6.1,6.5L263.7,54.6z"/>
+				</g>
+				<g>
+					<path fill="#D2F7FF" stroke="#74D2E8" stroke-miterlimit="10" d="M286.8,93.6c2.2,2.3,5.4,2.8,7.2,1.1l1-0.9
+						c1.8-1.7,1.5-4.9-0.6-7.2l-6.1-6.5l-7.5,7L286.8,93.6z"/>
+					<path fill="#4092B0" stroke="#74D2E8" stroke-miterlimit="10" d="M288.2,80.1l-6.1-6.5c-2.2-2.3-5.4-2.8-7.2-1.1l-1,0.9
+						c-1.8,1.7-1.5,4.9,0.6,7.2l6.1,6.5L288.2,80.1z"/>
+				</g>
+			</g>
+			<g>
+				<g>
+					<g>
+						<defs>
+							<path id="XMLID_580_" d="M238.5,91.1c2.2,2.3,5.4,2.8,7.2,1.1l1-0.9c1.8-1.7,1.5-4.9-0.6-7.2l-6.1-6.5l-7.5,7L238.5,91.1z"/>
+						</defs>
+						<use xlink:href="#XMLID_580_"  overflow="visible" fill="#D2F7FF"/>
+						<clipPath id="XMLID_26_">
+							<use xlink:href="#XMLID_580_"  overflow="visible"/>
+						</clipPath>
+						<use xlink:href="#XMLID_580_"  overflow="visible" fill="none" stroke="#74D2E8" stroke-miterlimit="10"/>
+					</g>
+					<path fill="#0C404C" stroke="#74D2E8" stroke-miterlimit="10" d="M239.9,77.6l-6.1-6.5c-2.2-2.3-5.4-2.8-7.2-1.1l-1,0.9
+						c-1.8,1.7-1.5,4.9,0.6,7.2l6.1,6.5L239.9,77.6z"/>
+				</g>
+				<g>
+					<path fill="#4092B0" stroke="#74D2E8" stroke-miterlimit="10" d="M262.9,116.5c2.2,2.3,5.4,2.8,7.2,1.1l1-0.9
+						c1.8-1.7,1.5-4.9-0.6-7.2l-6.1-6.5l-7.5,7L262.9,116.5z"/>
+					<path fill="#256877" stroke="#74D2E8" stroke-miterlimit="10" d="M264.3,103l-6.1-6.5c-2.2-2.3-5.4-2.8-7.2-1.1l-1,0.9
+						c-1.8,1.7-1.5,4.9,0.6,7.2l6.1,6.5L264.3,103z"/>
+				</g>
+			</g>
+			<g>
+				<g>
+					<path fill="#98E6F9" stroke="#74D2E8" stroke-miterlimit="10" d="M213.3,115.2c2.2,2.3,5.4,2.8,7.2,1.1l1-0.9
+						c1.8-1.7,1.5-4.9-0.6-7.2l-6.1-6.5l-7.5,7L213.3,115.2z"/>
+					<path fill="#0C404C" stroke="#74D2E8" stroke-miterlimit="10" d="M214.7,101.7l-6.1-6.5c-2.2-2.3-5.4-2.8-7.2-1.1l-1,0.9
+						c-1.8,1.7-1.5,4.9,0.6,7.2l6.1,6.5L214.7,101.7z"/>
+				</g>
+				<g>
+					<path fill="#D2F7FF" stroke="#74D2E8" stroke-miterlimit="10" d="M237.8,140.7c2.2,2.3,5.4,2.8,7.2,1.1l1-0.9
+						c1.8-1.7,1.5-4.9-0.6-7.2l-6.1-6.5l-7.5,7L237.8,140.7z"/>
+					<path fill="#0C404C" stroke="#74D2E8" stroke-miterlimit="10" d="M239.2,127.2l-6.1-6.5c-2.2-2.3-5.4-2.8-7.2-1.1l-1,0.9
+						c-1.8,1.7-1.5,4.9,0.6,7.2l6.1,6.5L239.2,127.2z"/>
+				</g>
+			</g>
+			<g>
+				<g>
+					<path fill="#98E6F9" stroke="#74D2E8" stroke-miterlimit="10" d="M187.4,140.1c2.2,2.3,5.4,2.8,7.2,1.1l1-0.9
+						c1.8-1.7,1.5-4.9-0.6-7.2l-6.1-6.5l-7.5,7L187.4,140.1z"/>
+					<path fill="#0C404C" stroke="#74D2E8" stroke-miterlimit="10" d="M188.8,126.6l-6.1-6.5c-2.2-2.3-5.4-2.8-7.2-1.1l-1,0.9
+						c-1.8,1.7-1.5,4.9,0.6,7.2l6.1,6.5L188.8,126.6z"/>
+				</g>
+				<g>
+					<g>
+						<defs>
+							<path id="XMLID_579_" d="M211.9,165.6c2.2,2.3,5.4,2.8,7.2,1.1l1-0.9c1.8-1.7,1.5-4.9-0.6-7.2l-6.1-6.5l-7.5,7L211.9,165.6z"
+								/>
+						</defs>
+						<use xlink:href="#XMLID_579_"  overflow="visible" fill="#D2F7FF"/>
+						<clipPath id="XMLID_27_">
+							<use xlink:href="#XMLID_579_"  overflow="visible"/>
+						</clipPath>
+						<use xlink:href="#XMLID_579_"  overflow="visible" fill="none" stroke="#74D2E8" stroke-miterlimit="10"/>
+					</g>
+					<path fill="#0C404C" stroke="#74D2E8" stroke-miterlimit="10" d="M213.3,152.1l-6.1-6.5c-2.2-2.3-5.4-2.8-7.2-1.1l-1,0.9
+						c-1.8,1.7-1.5,4.9,0.6,7.2l6.1,6.5L213.3,152.1z"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<g>
+					<path fill="#98E6F9" stroke="#74D2E8" stroke-miterlimit="10" d="M263.6,44.3c2.2,2.3,5.4,2.8,7.2,1.1l1-0.9
+						c1.8-1.7,1.5-4.9-0.6-7.2l-6.1-6.5l-7.5,7L263.6,44.3z"/>
+					<path fill="#256877" stroke="#74D2E8" stroke-miterlimit="10" d="M265,30.8l-6.1-6.5c-2.2-2.3-5.4-2.8-7.2-1.1l-1,0.9
+						c-1.8,1.7-1.5,4.9,0.6,7.2l6.1,6.5L265,30.8z"/>
+				</g>
+				<g>
+					<path fill="#98E6F9" stroke="#74D2E8" stroke-miterlimit="10" d="M288.1,69.8c2.2,2.3,5.4,2.8,7.2,1.1l1-0.9
+						c1.8-1.7,1.5-4.9-0.6-7.2l-6.1-6.5l-7.5,7L288.1,69.8z"/>
+					<path fill="#256877" stroke="#74D2E8" stroke-miterlimit="10" d="M289.5,56.3l-6.1-6.5c-2.2-2.3-5.4-2.8-7.2-1.1l-1,0.9
+						c-1.8,1.7-1.5,4.9,0.6,7.2l6.1,6.5L289.5,56.3z"/>
+				</g>
+			</g>
+			<g>
+				<g>
+					<path fill="#98E6F9" stroke="#74D2E8" stroke-miterlimit="10" d="M239.3,67.7c2.2,2.3,5.4,2.8,7.2,1.1l1-0.9
+						c1.8-1.7,1.5-4.9-0.6-7.2l-6.1-6.5l-7.5,7L239.3,67.7z"/>
+					<path fill="#0C404C" stroke="#74D2E8" stroke-miterlimit="10" d="M240.7,54.2l-6.1-6.5c-2.2-2.3-5.4-2.8-7.2-1.1l-1,0.9
+						c-1.8,1.7-1.5,4.9,0.6,7.2l6.1,6.5L240.7,54.2z"/>
+				</g>
+				<g>
+					<path fill="#98E6F9" stroke="#74D2E8" stroke-miterlimit="10" d="M263.7,93.2c2.2,2.3,5.4,2.8,7.2,1.1l1-0.9
+						c1.8-1.7,1.5-4.9-0.6-7.2l-6.1-6.5l-7.5,7L263.7,93.2z"/>
+					<path fill="#256877" stroke="#74D2E8" stroke-miterlimit="10" d="M265.1,79.7l-6.1-6.5c-2.2-2.3-5.4-2.8-7.2-1.1l-1,0.9
+						c-1.8,1.7-1.5,4.9,0.6,7.2l6.1,6.5L265.1,79.7z"/>
+				</g>
+			</g>
+			<g>
+				<g>
+					<path fill="#98E6F9" stroke="#74D2E8" stroke-miterlimit="10" d="M214.6,91.4c2.2,2.3,5.4,2.8,7.2,1.1l1-0.9
+						c1.8-1.7,1.5-4.9-0.6-7.2l-6.1-6.5l-7.5,7L214.6,91.4z"/>
+					<path fill="#0C404C" stroke="#74D2E8" stroke-miterlimit="10" d="M216,77.9l-6.1-6.5c-2.2-2.3-5.4-2.8-7.2-1.1l-1,0.9
+						c-1.8,1.7-1.5,4.9,0.6,7.2l6.1,6.5L216,77.9z"/>
+				</g>
+				<g>
+					<path fill="#D2F7FF" stroke="#74D2E8" stroke-miterlimit="10" d="M239.1,116.9c2.2,2.3,5.4,2.8,7.2,1.1l1-0.9
+						c1.8-1.7,1.5-4.9-0.6-7.2l-6.1-6.5l-7.5,7L239.1,116.9z"/>
+					<path fill="#358096" stroke="#74D2E8" stroke-miterlimit="10" d="M240.5,103.4l-6.1-6.5c-2.2-2.3-5.4-2.8-7.2-1.1l-1,0.9
+						c-1.8,1.7-1.5,4.9,0.6,7.2l6.1,6.5L240.5,103.4z"/>
+				</g>
+			</g>
+			<g>
+				<g>
+					<path fill="#98E6F9" stroke="#74D2E8" stroke-miterlimit="10" d="M190.3,114.8c2.2,2.3,5.4,2.8,7.2,1.1l1-0.9
+						c1.8-1.7,1.5-4.9-0.6-7.2l-6.1-6.5l-7.5,7L190.3,114.8z"/>
+					<path fill="#0C404C" stroke="#74D2E8" stroke-miterlimit="10" d="M191.7,101.3l-6.1-6.5c-2.2-2.3-5.4-2.8-7.2-1.1l-1,0.9
+						c-1.8,1.7-1.5,4.9,0.6,7.2l6.1,6.5L191.7,101.3z"/>
+				</g>
+				<g>
+					<g>
+						<defs>
+							<path id="XMLID_578_" d="M214.7,140.2c2.2,2.3,5.4,2.8,7.2,1.1l1-0.9c1.8-1.7,1.5-4.9-0.6-7.2l-6.1-6.5l-7.5,7L214.7,140.2z"
+								/>
+						</defs>
+						<use xlink:href="#XMLID_578_"  overflow="visible" fill="#98E6F9"/>
+						<clipPath id="XMLID_28_">
+							<use xlink:href="#XMLID_578_"  overflow="visible"/>
+						</clipPath>
+						<use xlink:href="#XMLID_578_"  overflow="visible" fill="none" stroke="#74D2E8" stroke-miterlimit="10"/>
+					</g>
+					<path fill="#0C404C" stroke="#74D2E8" stroke-miterlimit="10" d="M216.1,126.7l-6.1-6.5c-2.2-2.3-5.4-2.8-7.2-1.1l-1,0.9
+						c-1.8,1.7-1.5,4.9,0.6,7.2l6.1,6.5L216.1,126.7z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

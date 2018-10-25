@@ -1,0 +1,35 @@
+.card-block {
+  background-color: $white;
+  border: 1px solid $hit-gray;
+  padding: $card-block-padding;
+  box-shadow: 0 0 0 3px $athens-gray;
+  border-radius: 1px;
+
+  &--without-left-border {
+    @extend .card-block;
+    border-left: none;
+  }
+
+  &--without-bottom-border {
+    @extend .card-block;
+    border-bottom: none;
+  }
+
+  &--without-top-border {
+    @extend .card-block;
+    border-top: none;
+  }
+
+  &--without-padding {
+    @extend .card-block;
+    padding: 0;
+  }
+
+  &__content {
+    font-family: Verdana, sans-serif;
+    font-size: 13px;
+    margin-top: 30px;
+  }
+}
+
+

@@ -1,0 +1,24 @@
+<div class="code-example__wrap code-example__wrap--dark">
+  <div class="code-example__item" ng-repeat="table_example in tables_examples">
+    <div class="container">
+      <div class="code-example__headline" ng-click="table_example.expanded = !table_example.expanded">
+        {{table_example.name}}
+        <div class="code-example__notice">
+          {{table_example.plugin}}
+        </div>
+        <div class="code-example__trigger">
+          HTML-code
+        </div>
+      </div>
+      <div class="code-example__content" ng-show="table_example.expanded">
+        <div>
+          <pre class="code-example__content-code" data-ng-bind="template(table_example.templateUrl)"></pre>
+        </div>
+        <div ng-if="table_example.codeJS">
+          <pre class="code-example__content-code" data-ng-bind="template(table_example.codeJS)"></pre>
+        </div>
+      </div>
+    </div>
+    <div class="code-example__element" ng-include="table_example.templateUrl"></div>
+  </div>
+</div>

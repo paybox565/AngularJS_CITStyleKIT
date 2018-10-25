@@ -1,0 +1,373 @@
+.i-country {
+  display: inline-block;
+  vertical-align: middle;
+  width: 30px;
+  height: 20px;
+  background-size: 30px 20px;
+  margin: 0 10px 0 0;
+
+  &--no-margin {
+    margin: 0;
+  }
+
+  &--eec {
+    background: url(images/i-flag-eec.svg) no-repeat 0 50%;
+  }
+  &--ru {
+    background: url(images/i-flag-rus2.svg) no-repeat 0 50%;
+  }
+  &--rus {
+    background: url(images/i-flag-rus2.svg) no-repeat 0 50%;
+  }
+  &--by {
+    background: url(images/country_02.svg) no-repeat 0 50%;
+  }
+  &--belrus {
+    background: url(images/country_02.svg) no-repeat 0 50%;
+  }
+  &--kz {
+    background: url(images/country_03.svg) no-repeat 0 50%;
+  }
+  &--kg {
+    background: url(images/country_04.svg) no-repeat 0 50%;
+  }
+  &--am {
+    background: url(images/country_01.svg) no-repeat 0 50%;
+  }
+  &--armen {
+    background: url(images/country_01.svg) no-repeat 0 50%;
+  }
+
+}
+
+.i-legend {
+  display: inline-block;
+  vertical-align: top;
+  width: 30px;
+  height: 30px;
+
+  &--2 {
+    background: url(images/i-legend-2.png) no-repeat 0 0;
+  }
+  &--3 {
+    background: url(images/i-legend-3.png) no-repeat 0 0;
+  }
+  &--4 {
+    background: url(images/i-legend-4.png) no-repeat 0 0;
+  }
+}
+
+.i-trigger {
+  display: inline-block;
+  background: url(images/i-plus.svg) no-repeat 0 0;
+  background-size: 21px 21px;
+  width: 21px;
+  height: 21px;
+  vertical-align: middle;
+  margin-right: 10px;
+
+  &--minus {
+    background: url(images/i-minus.svg) no-repeat 0 0;
+  }
+}
+
+.i-check-mark-green {
+  display: inline-block;
+  vertical-align: middle;
+  font-style: normal;
+  width: 28px;
+  height: 28px;
+  background: url(images/i-check-mark-green.png) no-repeat center;
+  margin: 0 10px;
+}
+
+.i-check {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  border: 1px solid $hit-gray;
+  border-radius: 2px;
+  background: $white;
+
+  &.checked {
+    padding: 2px 0 0 10px;
+    color: $galliano;
+    border: 1px solid $galliano;
+    background: #fafae6 url(images/iis_checkbox.svg) no-repeat center -9px;
+    background-size: 32px 32px;
+  }
+}
+
+.i-playback {
+  display: inline-block;
+  width: 99px;
+  height: 99px;
+  background: url(images/i-playback.png) no-repeat 0 0;
+  border-radius: 99px;
+}
+
+.i-remove {
+  display: inline-block;
+  vertical-align: middle;
+  width: 14px;
+  height: 18px;
+  cursor: pointer;
+  margin-right: 7px;
+  background: url(images/i-remove-red.svg) no-repeat center 0;
+}
+.i-history {
+  display: inline-block;
+  vertical-align: middle;
+  width: 26px;
+  height: 24px;
+  cursor: pointer;
+  margin-right: 10px;
+  background: url(images/i-history.png) no-repeat center 0;
+}
+.i-result {
+  display: inline-block;
+  vertical-align: middle;
+  width: 24px;
+  height: 20px;
+  cursor: pointer;
+  margin-right: 10px;
+  background: url(images/i-result.png) no-repeat center 0;
+}
+.i-bid-info {
+  display: inline-block;
+  vertical-align: middle;
+  width: 28px;
+  height: 24px;
+  cursor: pointer;
+  margin-right: 10px;
+  background: url(images/i-bid-info.png) no-repeat center 0;
+}
+
+.i-arrow {
+  display: inline-block;
+  vertical-align: middle;
+  width: 24px;
+  height: 24px;
+  cursor: pointer;
+  margin: 0 5px;
+
+  &--blue-left {
+    background: url(images/iis_i-arrow-blue-left.svg) no-repeat center;
+  }
+  &--blue-right {
+    background: url(images/iis_i-arrow-blue-right.svg) no-repeat center;
+  }
+  &--black-right {
+    background: url(images/iis_i-arrow-black-right.svg) no-repeat center;
+  }
+  &--black-left {
+    background: url(images/iis_i-arrow-black-left.svg) no-repeat center;
+  }
+  &--left-disabled {
+    background: url(images/iis_i-arrow-left-disabled.svg) no-repeat center;
+  }
+  &--right-disabled {
+    background: url(images/iis_i-arrow-right-disabled.svg) no-repeat center;
+  }
+  &--gray-right {
+    background: url(images/iis_i-arrow-gray-right.svg) no-repeat 0 0;
+  }
+  &--gray-left {
+    background: url(images/iis_i-arrow-gray-left.svg) no-repeat 0 center;
+  }
+  &--blue2-right {
+    background: url(images/iis_i-arrow-blue2-right.svg) no-repeat 0 0;
+  }
+  &--blue2-right-thin {
+    background: url(images/iis_i-arrow-blue2-right-thin.svg) no-repeat 0 0;
+  }
+  &--blue2-left {
+    background: url(images/iis_i-arrow-blue2-left.svg) no-repeat 0 center;
+  }
+  &--right-white {
+    background: url(images/iis_i-arrow-right-white.png) no-repeat center;
+  }
+  &--right-blue-thin {
+    width: 16px;
+    height: 13px;
+    background: url(images/iis_i-arrow-right-blue-thin.png) no-repeat center;
+    vertical-align: sub;
+  }
+}
+
+.i-doc {
+  display: inline-block;
+  vertical-align: middle;
+  width: 18px;
+  height: 24px;
+  margin-right: 7px;
+
+  &--gray {
+    background: url(images/i-doc-gray.png) no-repeat center;
+  }
+  &--blue {
+    background: url(images/i-doc-blue.png) no-repeat center;
+  }
+}
+
+.i-refresh {
+  display: inline-block;
+  vertical-align: middle;
+  width: 16px;
+  height: 16px;
+  margin-right: 7px;
+  background: url(images/i-refresh.png) no-repeat center;
+}
+
+.i-warning {
+  display: inline-block;
+  vertical-align: middle;
+  width: 29px;
+  height: 24px;
+  margin-right: 7px;
+  background: url(images/i-warning-gray.png) no-repeat center;
+}
+
+.i-download {
+  display: inline-block;
+  vertical-align: middle;
+  width: 32px;
+  height: 32px;
+  background: url(images/iis_i-download.svg) no-repeat center;
+  background-size: 32px 32px;
+  margin-right: 7px;
+
+  &--csv {
+    background: url(images/iis_i-download_csv.svg) no-repeat center;
+  }
+  &--doc {
+    background: url(images/iis_i-download_doc.svg) no-repeat center;
+  }
+  &--pdf {
+    background: url(images/iis_i-download_pdf.svg) no-repeat center;
+  }
+  &--xls {
+    background: url(images/iis_i-download_xls.svg) no-repeat center;
+  }
+}
+
+.i-calendar {
+  display: inline-block;
+  vertical-align: middle;
+  width: 22px;
+  height: 23px;
+  margin-right: 7px;
+  background: url(images/i-calendar.svg) no-repeat center;
+}
+
+.i-outer-link {
+  display: inline-block;
+  vertical-align: sub;
+  width: 15px;
+  height: 15px;
+  margin-left: 7px;
+  background: url(images/i-outer-link.png) no-repeat center;
+}
+
+.i-external-link {
+  display: inline-block;
+  vertical-align: sub;
+  width: 16px;
+  height: 16px;
+  margin-left: 7px;
+  background: url(images/iis_i-external-link.svg) no-repeat center / 16px 16px;
+}
+
+// todo Добавить в Гайд
+
+.i-edit {
+  display: inline-block;
+  vertical-align: middle;
+  width: 18px;
+  height: 18px;
+  margin-right: 7px;
+  background: url(images/i-edit.png) no-repeat center;
+}
+.i-pass-change {
+  display: inline-block;
+  vertical-align: middle;
+  width: 16px;
+  height: 21px;
+  margin-right: 7px;
+  background: url(images/i-pass-change.png) no-repeat center;
+}
+.i-message {
+  display: inline-block;
+  vertical-align: middle;
+  width: 20px;
+  height: 16px;
+  margin-right: 7px;
+  background: url(images/i-message.png) no-repeat center;
+}
+.i-burger {
+  display: inline-block;
+  vertical-align: middle;
+  width: 15px;
+  height: 12px;
+  margin-right: 7px;
+  background: url(images/i-burger.png) no-repeat center;
+}
+.i-star {
+  display: inline-block;
+  vertical-align: sub;
+  width: 14px;
+  height: 14px;
+  background: url(images/iis_i-star.png) no-repeat center;
+}
+.i-outer-link2 {
+  display: inline-block;
+  vertical-align: sub;
+  width: 15px;
+  height: 15px;
+  background: url(images/iis_i-outer-link2.png) no-repeat center;
+  margin-left: 7px;
+}
+.i-info-blue {
+  display: inline-block;
+  vertical-align: sub;
+  width: 18px;
+  height: 18px;
+  background: url(images/iis_i-info-blue.svg) no-repeat center / 18px 18px;
+  margin-left: 7px;
+}
+.i-doc {
+
+  &--doc2 {
+    vertical-align: sub;
+    width: 41px;
+    height: 54px;
+    background: url(images/iis_i-doc-doc2.png) no-repeat center;
+    margin-right: 0;
+  }
+  &--pdf2 {
+    vertical-align: sub;
+    width: 41px;
+    height: 54px;
+    background: url(images/iis_i-doc-pdf2.png) no-repeat center;
+    margin-right: 0;
+  }
+}
+.i-opinion {
+  display: inline-block;
+  vertical-align: middle;
+  width: 26px;
+  height: 24px;
+  background: url(images/iis_i-opinion.png) no-repeat center;
+  margin-right: 7px;
+}
+.i-support {
+  display: inline-block;
+  vertical-align: middle;
+  width: 22px;
+  height: 26px;
+  background: url(images/iis_i-support.png) no-repeat center;
+  margin-right: 7px;
+}
+
+
+

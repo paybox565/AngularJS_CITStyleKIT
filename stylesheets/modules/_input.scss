@@ -1,0 +1,145 @@
+.input {
+  display: block;
+  width: 100%;
+  padding: 0 16px;
+  height: 34px;
+  background-color: $white;
+  outline: none;
+  font-family: $headline-font;
+  border: 1px solid #b3b9bd;
+  border-radius: 3px;
+  box-shadow: inset 0 1px 1px rgba(38, 38, 38, 0.15);
+  transition: all 0.35s ease;
+  color: $nero;
+
+  &::-webkit-input-placeholder {
+    opacity: 0.6;
+    text-overflow:ellipsis;
+  }
+  &::-moz-placeholder {
+    opacity: 0.6;
+    text-overflow:ellipsis;
+  }
+  &:-ms-input-placeholder {
+    opacity: 0.6;
+    text-overflow:ellipsis;
+  }
+
+  &:focus {
+    box-shadow: 0 0 0 3px rgba(203, 169, 32, 0.15);
+    transition: all 0.35s ease;
+    outline: none;
+    border-color: $galliano;
+  }
+  &--search-form {
+    height: 45px;
+    padding-right: 50px;
+  }
+  &--search-compact {
+    height: 34px;
+    background-color: $polo-blue;
+    color: $black;
+    box-shadow: none;
+    border-color: transparent;
+    padding-right: 50px;
+
+    &:focus {
+      background-color: $white;
+    }
+  }
+  &--short {
+    width: 177px;
+  }
+  &--number {
+    width: 40px;
+    padding: 0;
+    text-align: center;
+  }
+  &--date {
+    display: inline-block;
+    background: url(images/select_arrow.svg) no-repeat 156px center, $white url(images/border.png) repeat-y 143px center;
+    box-shadow: 0 1px 2px rgba(38, 38, 38, 0.15);
+    cursor: pointer;
+  }
+  &--date-picker {
+    display: inline-block;
+    width: 126px;
+    padding-right: 30px;
+    background: url(images/iis_i-date-arrow.png) no-repeat 100% center;
+    box-shadow: none;
+    font-weight: 600;
+    font-size: 14px;
+    color: $lochmara;
+    cursor: pointer;
+    border: none;
+    position: relative;
+  }
+  &-submit {
+    outline: none;
+    border: none;
+    width: 50px;
+    height: 45px;
+    background: #0072c6 url(images/search_loop.png) no-repeat center;
+    border-radius: 0 3px 3px 0;
+    box-shadow: inset 0 2px 2px rgba(38, 38, 38, 0.15);
+    cursor: pointer;
+    position: absolute;
+    right: 0;
+    top: 0;
+
+    &--compact {
+      height: 34px;
+      background: url(images/search_loop-blue.png) no-repeat center;
+      box-shadow: none;
+    }
+  }
+
+}
+
+// todo Крестик (&times;) для сброса в поле поиска
+
+.search-allowed-wrap {
+  position: relative;
+}
+.allow-clear {
+  display: block;
+  height: 34px;
+  width: 34px;
+  line-height: 32px;
+  font-family: $headline-font;
+  font-size: 30px;
+  font-weight: 300;
+  text-align: center;
+  color: #2a3a5b;
+  position: absolute;
+  right: 0;
+  top: 0;
+  cursor: pointer;
+}
+
+.input-textarea {
+  height: 100px;
+  padding: 16px;
+  resize: none;
+}
+
+.label {
+  font-family: $headline-font;
+  display: block;
+  font-size: 13px;
+  font-weight: 600;
+  line-height: 18px;
+  margin-bottom: 5px;
+
+  &--tall {
+    display: table-cell;
+    height: 41px;
+    width: 1000px;
+    vertical-align: bottom;
+    padding-bottom: 5px;
+  }
+}
+
+.select-box {
+  position: relative;
+}
