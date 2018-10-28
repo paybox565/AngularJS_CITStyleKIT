@@ -35,7 +35,7 @@ $(document).ready(function () {
 
   });
 
-  // Таблицы.Фиксированная колонка
+  // tables.fixed column
 
   var $reg_row = $('.js-table-row-fixed');
 
@@ -57,7 +57,7 @@ $(document).ready(function () {
   });
 
 
-  // Модальное окно
+  // Modal
 
   var $modal_cross = $('.js-modal-close'),
     $modal_window = $('.js-modal'),
@@ -73,7 +73,7 @@ $(document).ready(function () {
     $modal_dump.fadeOut();
   });
 
-  // Всплывающее меню
+  // droped menu
 
   $('.js-main-menu-trigger').click(function(){
     $('.js-main-menu__wrap').fadeIn();
@@ -84,7 +84,7 @@ $(document).ready(function () {
 
   });
 
-  // Всплывающий посик
+  // dropped search
 
   function popupSearch() {
 
@@ -127,7 +127,7 @@ $(document).ready(function () {
 
 
 
-  // Табы.Уполномоченные органы
+  // Tabs
 
   var $portal_agency_tab = $('.js-portal-agency__tab'),
     $portal_agency_tab_content = $('.js-portal-agency__tab-content'),
@@ -165,7 +165,7 @@ $(document).ready(function () {
 
   });
 
-  // Подписка в футере
+  // Subscribe
 
   function footerSubscribe(){
 
@@ -227,7 +227,7 @@ $(document).ready(function () {
 
   footerSubscribe();
 
-  // Примеры кода
+  // Examples
 
   $('.js-code-example__trigger').click(function () {
 
@@ -235,7 +235,7 @@ $(document).ready(function () {
 
   });
 
-  // Справка
+  // Help
 
   // var $help_trigger = $('.js-help-trigger'),
   //     $help_list = $('.js-help-list');
@@ -252,7 +252,7 @@ $(document).ready(function () {
     event.stopPropagation();
   });
 
-  // Инфографика.Дроп-лист
+  // Dropdown list
 
   // var $drop_list_trigger = $('.js-drop_list_trigger'),
   //   $drop_list = $('.js-drop_list');
@@ -268,19 +268,19 @@ $(document).ready(function () {
     event.stopPropagation();
   });
 
-  // Авторизация
+  // Authorization
 
   $('.js-header__login-current').click(function(){
     $('.js-header__logout').fadeToggle();
   });
 
-  // Выпадающее меню в шапке
+  // dropdown list
 
   $('.js-header__popup-menu-trigger').click(function(){
     $('.js-header__popup-menu').toggleClass('active');
   });
 
-  // Таблицы
+  // tables
 
   function table_toggle() {
 
@@ -316,7 +316,7 @@ $(document).ready(function () {
 
   $('.js-perfect-scroll').perfectScrollbar();
 
- // Тематическая страница
+ // Theme page
 
   function registraionCheck() {
 

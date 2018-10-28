@@ -34,7 +34,7 @@ var openSans = path.join(nodeModules, 'open-sans-fontface');
 var fontAwesome = path.join(nodeModules, 'font-awesome');
 
 
-var isProduction = false; //изменяется программно
+var isProduction = false;
 
 var config = {
     'styles': {
@@ -111,7 +111,7 @@ gulp.task('styles', function () {
         .pipe(browserSync.stream({once: true}));
 });
 
-/* Для копирования текущей версии StyleGuide */
+/* For crrent version copy of StyleGuide */
 
 gulp.task('current_version', function() {
   return gulp.src(config.current_version.src)

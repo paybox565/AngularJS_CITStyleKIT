@@ -6,83 +6,83 @@
 angular.module('sgApp').controller('FormsElementsController', function ($scope, $templateCache) {
   $scope.elements = [
     {
-      name: 'Поиск (свернутый)',
+      name: 'Search ',
       templateUrl: 'views/code_examples/forms_search.html'
     },
     {
-      name: 'Поиск совмещённый (свернутый)',
+      name: 'Search combined ',
       templateUrl: 'views/code_examples/forms_search_split.html'
     },
     {
-      name: 'Поиск (развернутый)',
+      name: 'Search v2',
       templateUrl: 'views/code_examples/forms_search_full.html'
     },
     {
-      name: 'Поиск совмещённый (развернутый)',
+      name: 'Search combined v2',
       templateUrl: 'views/code_examples/forms_search_full_split.html'
     },
     {
-      name: 'Радио баттоны',
+      name: 'Radio',
       templateUrl: 'views/code_examples/forms_radio.html'
     },
     {
-      name: 'Чекбоксы (переключатели)',
+      name: 'Checkbox',
       templateUrl: 'views/code_examples/forms_checkbox_switch.html'
     },
     {
-      name: 'Чекбоксы',
+      name: 'Checkbox v2',
       templateUrl: 'views/code_examples/forms_checkbox.html'
     },
     {
-      name: 'Кнопки',
+      name: 'buttons',
       templateUrl: 'views/code_examples/forms_buttons-sample.html'
     },
     {
-      name: 'Кнопки с иконкой',
+      name: 'icon buttons',
       templateUrl: 'views/code_examples/forms_national.html'
     },
     {
-      name: 'Кнопки с иконкой (мультивыбор)',
+      name: 'icon buttons v2',
       templateUrl: 'views/code_examples/forms_national_multi.html'
     },
     {
-      name: 'Группы кнопок',
+      name: 'button group',
       templateUrl: 'views/code_examples/forms_button_group.html'
     },
     {
-      name: 'Группы кнопок (мультивыбор)',
+      name: 'button group',
       templateUrl: 'views/code_examples/forms_button_group_multi.html'
     },
     {
-      name: 'Поля с select и datepicker',
+      name: 'select and datepicker',
       templateUrl: 'views/code_examples/forms_select_dates.html'
     },
     {
-      name: 'Размеры полей',
+      name: 'fields sizes',
       templateUrl: 'views/code_examples/forms_field_types.html'
     },
     {
-      name: 'Валидация',
+      name: 'Validation',
       templateUrl: 'views/code_examples/forms_validation_type1.html'
     },
     {
-      name: 'Валидация расположение 3/4',
+      name: 'validation 3/4',
       templateUrl: 'views/code_examples/forms_validation_type2.html'
     },
     {
-      name: 'Валидация расположение 1/2',
+      name: 'validation 1/2',
       templateUrl: 'views/code_examples/forms_validation_type3.html'
     },
     {
-      name: 'Аккордеон',
+      name: 'accordion',
       templateUrl: 'views/code_examples/forms_accordion_simple.html'
     },
     {
-      name: 'Аккордеон',
+      name: 'accordion',
       templateUrl: 'views/code_examples/forms_accordion.html'
     },
     {
-      name: 'Список заявок',
+      name: 'request list',
       templateUrl: 'views/code_examples/forms_bid-list.html'
     }
 

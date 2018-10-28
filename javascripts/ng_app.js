@@ -13,37 +13,37 @@ sgApp.config(function($stateProvider, $urlRouterProvider) {
 
   var mainPageData = {
     menuItems: [{
-      title: 'Последние измененя',
+      title: 'Latest changes',
       state: 'home.news'
     }, {
-      title: 'Как подключить',
+      title: 'How',
       state: 'home.faq'
     }]
   };
 
   var formsData = {
     menuItems: [{
-      title: 'Элементы',
+      title: 'Elements',
       state: 'forms.elements'
     }, {
-      title: 'Примеры',
+      title: 'Examples',
       state: 'forms.examples'
     }]
   };
 
   var typographyData = {
     menuItems: [{
-      title: 'Элементы',
+      title: 'Elements',
       state: 'typography.elements'
     }]
   };
 
   var pageExamplesData = {
     menuItems: [{
-      title: 'ОП 44',
+      title: 'OP 44',
       state: 'page_examples.op44'
     }, {
-      title: 'ОП 46',
+      title: 'OP 46',
       state: 'page_examples.op46'
     }]
   };
@@ -51,11 +51,11 @@ sgApp.config(function($stateProvider, $urlRouterProvider) {
   var pageStandard = {
     menuItems: [
       {
-        title: 'Общие процессы',
+        title: 'process',
         state: 'page_standard.common_process'
       },
       {
-        title: 'Тематические страницы',
+        title: 'Theme page',
         state: 'page_standard.common_theme'
       }
     ]
@@ -202,23 +202,23 @@ sgApp.controller('top_menu_items_Ctrl',function ($rootScope, $scope) {
   $scope.items = [
 
     {
-      title: 'Формы',
+      title: 'Forms',
       template: 'forms'
     },
     {
-      title: 'Таблицы',
+      title: 'Tables',
       template: 'tables'
     },
     {
-      title: 'Карточки',
+      title: 'Cards',
       template: 'cards'
     },
     {
-      title: 'Варианты верхнего меню',
+      title: 'Top menus',
       template: 'top_menus'
     },
     {
-      title: 'Типовые страницы',
+      title: 'Pages',
       template: 'page_standard'
     }
   ];
