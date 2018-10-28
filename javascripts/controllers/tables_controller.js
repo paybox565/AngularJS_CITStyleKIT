@@ -16,44 +16,44 @@ require('perfect-scrollbar/jquery')($);
 angular.module('sgApp').controller('TablesController', function ($scope, $templateCache, $templateRequest) {
   $scope.tables_examples = [
     {
-      name: 'С узкой колонкой',
+      name: 'With thin column',
       templateUrl: 'views/code_examples/table_simple.html',
       codeJS: ''
     },
     {
-      name: 'Раскрывающийся список',
+      name: 'Dropdown list',
       templateUrl: 'views/code_examples/table_toggled.html',
       codeJS: ''
     },
     {
-      name: 'Несколько колонок (сортировка)',
+      name: 'Few columns (sort)',
       templateUrl: 'views/code_examples/table_sort.html',
       codeJS: ''
     },
     {
-      name: 'В полоску',
+      name: 'Striped',
       templateUrl: 'views/code_examples/table_striped.html',
       codeJS: ''
     },
     {
-      name: 'С фокусом',
+      name: 'With focus',
       templateUrl: 'views/code_examples/table_focus.html',
       codeJS: ''
     },
     {
-      name: 'Горзонтальная прокрутка',
+      name: 'Horizontal scroll',
       templateUrl: 'views/code_examples/table_scroll.html',
       codeJS: ''
     },
     {
-      name: 'С фильтром',
+      name: 'With filter',
       templateUrl: 'views/code_examples/table_filter.html',
       codeJS: 'views/code_examples/table_filter_js.html',
-      plugin: '* требуется подключение плагина SumoSelect (из папки plugins) и js-код'
+      plugin: '* SumoSelect (from plugins) and js-code needed'
     }/*,
     {
-      name: 'Фиксированная полоса прокрутки, шапка и колонка',
-      plugin: '* требуется подключение плагина PerfectScrollbar и js-код',
+      name: 'Fixed scrollbar, header',
+      plugin: '* needed PerfectScrollbar and js-code',
       templateUrl: 'views/code_examples/table_fixed-scroll-column.html',
       codeJS: 'views/code_examples/table_fix-scroll-js.html'
     }*/
@@ -83,7 +83,7 @@ angular.module('sgApp').controller('TablesController', function ($scope, $templa
     $scope.wFilter = !$scope.wFilter;
   };
 
-  // Таблицы.Фиксированная колонка
+  // Tables.Fixed column
 
   function fn_table_fix_column(){
 
@@ -106,7 +106,7 @@ angular.module('sgApp').controller('TablesController', function ($scope, $templa
 
   }
 
-  // Для стилизации select
+  // Custom date and select
 
   function fn_select_plugin() {
 
